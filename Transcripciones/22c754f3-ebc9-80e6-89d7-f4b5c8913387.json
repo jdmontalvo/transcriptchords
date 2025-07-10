@@ -5,8 +5,16 @@
       "texto": "prueba ingreso"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
     }
   ]
 }

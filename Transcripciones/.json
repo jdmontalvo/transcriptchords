@@ -11,7 +11,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Prueba"
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "prueba"
     }
   ]
 }

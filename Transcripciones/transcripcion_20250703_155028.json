@@ -5,8 +5,28 @@
       "texto": "a"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "prueba "
+    },
+    {
+      "tipo": "letra",
+      "texto": "x"
+    },
+    {
+      "tipo": "letra",
+      "texto": "x"
+    },
+    {
+      "tipo": "letra",
+      "texto": "x"
     }
   ]
 }

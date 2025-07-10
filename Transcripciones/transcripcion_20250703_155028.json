@@ -2,11 +2,7 @@
   "contenido": [
     {
       "tipo": "letra",
-      "texto": "a"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Bb"
+      "texto": "Transcripción por David M Guitar (63 BPM)"
     },
     {
       "tipo": "letra",
@@ -14,19 +10,235 @@
     },
     {
       "tipo": "letra",
-      "texto": "prueba "
+      "texto": "[Intro]   --batería/pad suave----"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m   B  C#m  E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m   B  C#m  E - F#"
     },
     {
       "tipo": "letra",
-      "texto": "x"
+      "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "x"
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m            B   C#m           E"
     },
     {
       "tipo": "letra",
-      "texto": "x"
+      "texto": " Más que un anhelo,  mas que un deseo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      F#        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tenemos hambre de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m        B   C#m       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Hambre de verte de conocerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m        F#       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y en tu presencia vivir"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#m   B  C#m        E  G#m   B     F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llénanos,    de tu amor   sácianos señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m    B  C#m       E   G#m      B    F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Danos más   de tu luz,    De tu plenitud"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      B   C#m          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Solo queremos estar contigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      F#       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " No separarnos ya más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      B   C#m          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con corazones    a ti rendidos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      F#       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que no vacilan jamás"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#m   B  C#m        E  G#m   B     F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llénanos,    de tu amor   sácianos señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m    B  C#m       E   G#m      B    F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Danos más   de tu luz,    De tu plenitud"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]  --batería sube intensidad----"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m  B  C#m  E     G#m  B  F#"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m  B  C#m  E F#  G#m  B  F#  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                  E                 G#m   F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu presencia es mi alimento mi porción"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#             C#m              E  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La grosura que alimenta el corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#m   B  C#m        E  G#m   B     F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llénanos,    de tu amor   sácianos señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m    B  C#m       E   G#m      B    F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Danos más   de tu luz,    De tu plenitud"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]  bajar intensidad y relentizar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m            B   C#m           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Más que un anhelo,  mas que un deseo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m      F#        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tenemos hambre de ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     }
   ]
 }

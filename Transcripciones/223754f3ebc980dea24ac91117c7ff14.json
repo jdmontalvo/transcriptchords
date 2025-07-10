@@ -1,0 +1,500 @@
+{
+  "contenido": [
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (158 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm  C - Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm                  C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro corazón suspira  cánticos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A7                     Dm                  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Agradecimiento hay más allá de nuestra voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                        C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues el Rey nos escogió para  estar ante el"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y nos restauró con su poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nos vistio de amor, su sangre nos limpio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su misericordia nos visitó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuándo nos llamo éramos un pueblo sin valor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos ante el Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos ante el Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Traemos nuestras danzas de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      EbMaj7                Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nos dio una corona y un vestido celestial"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y pronto el vendrá"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos a adorar, su majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con su amor y su bondad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que nuestro corazón anhela es verle"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Podremos adorarle cara a cara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb                     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por su misericordia hoy entramos ante el Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos ante el rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos a adorar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm  C - Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm                  C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro corazón suspira  cánticos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A7                     Dm                  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Agradecimiento hay más allá de nuestra voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                        C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues el Rey nos escogió para  estar ante el"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y nos restauró con su poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nos vistio de amor, su sangre nos limpio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su misericordia nos visitó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuándo nos llamo éramos un pueblo sin valor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos ante el Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos ante el Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Traemos nuestras danzas de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Eb                    Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nos dio una corona y un vestido celestial"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y pronto el vendrá"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos a adorar, su majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con su amor y su bondad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que nuestro corazón anhela es verle"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Podremos adorarle cara a cara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb                     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por su misericordia hoy entramos ante el Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos ante el rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm   Dm  Eb - Bb - A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos a adorar, su majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con su amor y su bondad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que nuestro corazón anhela es verle"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Podremos adorarle cara a cara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb                     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por su misericordia hoy entramos ante el Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entramos ante el rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Gm  A  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy entramos a adorar"
+    }
+  ]
+}

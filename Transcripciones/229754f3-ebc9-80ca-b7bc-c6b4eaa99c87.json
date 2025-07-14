@@ -1,6 +1,10 @@
 {
   "contenido": [
     {
+      "tipo": "titulo",
+      "texto": "Más que un anhelo"
+    },
+    {
       "tipo": "letra",
       "texto": "Transcripción por David M Guitar (63 BPM)"
     },
@@ -13,11 +17,11 @@
       "texto": "[Intro]   --batería/pad suave----"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m   B  C#m  E"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m   B  C#m  E - F#"
     },
     {
@@ -29,7 +33,7 @@
       "texto": "[Verso1]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m            B   C#m           E"
     },
     {
@@ -37,7 +41,7 @@
       "texto": " Más que un anhelo,  mas que un deseo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      F#        E"
     },
     {
@@ -45,7 +49,7 @@
       "texto": " Tenemos hambre de ti"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m        B   C#m       E"
     },
     {
@@ -53,7 +57,7 @@
       "texto": " Hambre de verte de conocerte"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m        F#       E"
     },
     {
@@ -69,7 +73,7 @@
       "texto": "[Coro]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " G#m   B  C#m        E  G#m   B     F#"
     },
     {
@@ -77,7 +81,7 @@
       "texto": "Llénanos,    de tu amor   sácianos señor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m    B  C#m       E   G#m      B    F#"
     },
     {
@@ -93,7 +97,7 @@
       "texto": "[Verso2]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      B   C#m          E"
     },
     {
@@ -101,7 +105,7 @@
       "texto": " Solo queremos estar contigo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      F#       E"
     },
     {
@@ -109,7 +113,7 @@
       "texto": " No separarnos ya más"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      B   C#m          E"
     },
     {
@@ -117,7 +121,7 @@
       "texto": "Con corazones    a ti rendidos"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      F#       E"
     },
     {
@@ -133,7 +137,7 @@
       "texto": "[Coro]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " G#m   B  C#m        E  G#m   B     F#"
     },
     {
@@ -141,7 +145,7 @@
       "texto": "Llénanos,    de tu amor   sácianos señor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m    B  C#m       E   G#m      B    F#"
     },
     {
@@ -157,11 +161,11 @@
       "texto": "[Solo]  --batería sube intensidad----"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m  B  C#m  E     G#m  B  F#"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m  B  C#m  E F#  G#m  B  F#  E"
     },
     {
@@ -173,7 +177,7 @@
       "texto": "[Puente]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "F#                  E                 G#m   F#"
     },
     {
@@ -181,7 +185,7 @@
       "texto": " Tu presencia es mi alimento mi porción"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "F#             C#m              E  F#"
     },
     {
@@ -197,7 +201,7 @@
       "texto": "[Coro]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " G#m   B  C#m        E  G#m   B     F#"
     },
     {
@@ -205,7 +209,7 @@
       "texto": "Llénanos,    de tu amor   sácianos señor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m    B  C#m       E   G#m      B    F#"
     },
     {
@@ -221,7 +225,7 @@
       "texto": "[Verso1]  bajar intensidad y relentizar"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m            B   C#m           E"
     },
     {
@@ -229,7 +233,7 @@
       "texto": " Más que un anhelo,  mas que un deseo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      F#        E"
     },
     {

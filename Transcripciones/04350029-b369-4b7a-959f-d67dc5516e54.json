@@ -1,0 +1,440 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Julio Melgar — Ya No Soy Esclavo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me envuelves hoy con una canción"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb  F      Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Melodía de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantas libertad en mi adversidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb      F         Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hasta que huya el temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Eb         F        Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no soy un esclavo del temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm    F     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo soy hijo de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Eb        F       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no soy un esclavo del temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm    F     Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo soy hijo de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Gm  F  Bb  Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]  --juego toms muy suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bb            Dm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Desde el vientre fuí escogido en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Eb      F    Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me llamó el amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bb          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De nuevo nací recibido en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Eb     F     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu sangre en mi fluyó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2  bombo negras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Eb         F        Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Ya no soy un esclavo del temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm    F     Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo soy hijo de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Eb        F       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no soy un esclavo del temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm    F      Bb      Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo soy hijo de Dios (la última)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2 baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Gm  F  Bb  Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm    F     Bb    Eb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Estoy rodeado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm         F            Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por los brazos del padre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm    F     Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Estoy rodeado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm     F           Bb     Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por canciones de libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm         F   Bb     Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Fuimos liberados       ----juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm         F   Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  De ataduras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm         F            Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos los hijos y las hijas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm         F   Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Cantaremos libres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Interludio]x6 4 juego toms, 2 creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Gm      F       Bb      Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Oh     ooh,   oh ooh oooh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Gm            F           Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Abriste el mar para que yo camine"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm            F           Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tu amor ahogó todo el temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm            F           Bb    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Me rescataste y hoy yo cantaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb    F      Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo soy hijo de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Por tu gracia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Eb    F      Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "// Yo soy hijo de Dios  //x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente2]x5 2 sin bastería,2 juego toms,1 creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Gm  F               Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo solo sé    que yo soy su hijo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Gm  F              Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y el es mi padre y mi padre me ama"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Gm            F           Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Abriste el mar para que yo camine"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm            F           Bb    Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tu amor ahogó todo el temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm            F           Bb    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Me rescataste y hoy yo cantaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Eb    F      Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo soy hijo de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu gracia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Eb    F      Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "// Yo soy hijo de Dios  //x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

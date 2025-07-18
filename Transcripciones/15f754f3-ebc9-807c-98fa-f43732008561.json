@@ -1,0 +1,564 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Job Gonzalez — Campanas/Nuestro Salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (137 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A  Dm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A  Bb A Gm Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro guitarra]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm Bb Gm Dm   A A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Pulsos] en Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C Bb A  Bb A Gm Dm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm Bb Gm Dm   A A A A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Modulación]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm C F E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am F  Am  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestad, Gloria a Nuestro Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su poder, Infinito Es"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salvador, Tenemos Libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F Dm F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nos per-do-nó"
+    },
+    {
+      "tipo": "letra",
+      "texto": "       Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es fiel, Gloria a nuestro Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": "       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por amor, él nos rescato"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salvador, Tenemos Libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F  G  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nos per-do-no"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Te adoramos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te exaltamos rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm              Am           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Reinas con justicia, Reinas con poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios de Nuestra Vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am            G  C   F      Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestad, Gloria a Nuestro Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su poder, Infinito Es"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salvador, Tenemos Libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F Dm F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nos per-do-nó"
+    },
+    {
+      "tipo": "letra",
+      "texto": "       Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es fiel, Gloria a nuestro Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": "       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por amor, él nos rescato"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salvador, Tenemos Libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F  G  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nos per-do-no"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Te adoramos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te exaltamos rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm              Am           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Reinas con justicia, Reinas con poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios de Nuestra Vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am            G  C   F      Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo 1] suave, crece y corte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am F   Am F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo 2] Fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am F   Am F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro 2]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Te adoramos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te exaltamos rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm              Am           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": "              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "al Cordero de Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro suave] primera parte suave, segunda parte subiendo en picado y corte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Reinas con justicia, Reinas con poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios de Nuestra Vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am            G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                                Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Reinas con justicia, Reinas con poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios de Nuestra Vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am            G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

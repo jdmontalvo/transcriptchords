@@ -1,0 +1,468 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Alex Campos — Me Robaste El Corazon"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro piano/violín]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C   G  Am  F - G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C   G  Am  F - G  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro guitarra]x2  ---inicia sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C G Am G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]x2 ---baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 G   Am                  G    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me robaste el corazon, te adueñaste de mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    G   Am                    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de tus labios brota miel  y tu dulce voz me arruya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                  G           Dm          Am    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es hermoso estar dormido con el corazon despierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C         G           Dm         Am   Am/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "es tan agradable verte y tan dulce escuchar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu solo tu esperanza amado mio estas en los colores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en las rosas que florecen estás en mis canciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Dm             Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el viento y el mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro guitarra]x2   --inicia batería suave con la caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C G Am G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                 G   Am                       G    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me robaste el corazon, aunque yo quede en el olvido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  G  Am                   G         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y me gusta estar asi, con el corazon enamorado de ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2   ---sube un poco intensidad y caja normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                  G           Dm          Am    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es hermoso estar dormido con el corazon despierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C         G           Dm         Am   Am/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "es tan agradable verte y tan dulce escuchar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu solo tu esperanza amado mio estas en los colores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en las rosas que florecen estás en mis canciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Dm             Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el viento y el mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F D G E Am Bb Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]---Baja intensidad y lento/solo piano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 G   Am                       G    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me robaste el corazon, aunque yo quede en el olvido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  G  Am                   G         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y me gusta estar asi, con el corazon enamorado de ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental] rasgueo guitarra y remate sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C G Am G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                 G   Am                       G    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me robaste el corazon, aunque yo quede en el olvido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  G  Am                   G         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y me gusta estar asi, con el corazon enamorado de ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C                  G           Dm          Am    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es hermoso estar dormido con el corazon despierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C         G           Dm         Am   Am/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "es tan agradable verte y tan dulce escuchar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu solo tu esperanza amado mio estás en los colores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en las rosas que florecen estás en mis canciones"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el vientooooo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo guitarra]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm Eb Bb Bb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm Eb Bb Bb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo tuuuuuuu"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eeeee iee"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu solo tu esperanza amado mio estas en los colores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en las rosas que florecen estás en mis canciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Dm             Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el viento y el mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C       G       Dm        Am  G   C            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu solo tu esperanza amado mio estás en los colores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm          Am   G   C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en las rosas que florecen estás en mis canciones"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el vientooooo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro guitarra]  baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C G Am G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C G    G  C  G7   D"
+    }
+  ]
+}

@@ -126,11 +126,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "              Am        D       G                 Am"
+      "texto": "              Am        D       G                 "
     },
     {
       "tipo": "letra",
-      "texto": "Y ver huesos secos con vida otra vez, cantar a una voz"
+      "texto": "Y ver huesos secos con vida otra vez"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "cantar a una voz"
     },
     {
       "tipo": "letra",
@@ -237,7 +245,7 @@
       "texto": "El Gran yo Soy, El Gran Yo Soy, El Gran Yo soy"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {

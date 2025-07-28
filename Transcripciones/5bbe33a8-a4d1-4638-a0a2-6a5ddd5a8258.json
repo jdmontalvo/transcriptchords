@@ -26,7 +26,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m E  D - Bm"
+      "texto": "F#m E  D - Bm  F#m"
     },
     {
       "tipo": "letra",
@@ -38,35 +38,39 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m            E                 D    Bm"
+      "texto": "F#m            E"
     },
     {
       "tipo": "letra",
-      "texto": "Sobre el trono de justicia eternamente"
+      "texto": "Sobre el trono de justicia"
     },
     {
       "tipo": "acorde",
-      "texto": "         F#m  E"
+      "texto": "  D       Bm           F#m  E"
     },
     {
       "tipo": "letra",
-      "texto": "Habrá un Rey"
+      "texto": "Eternamente   habrá un Rey"
     },
     {
       "tipo": "acorde",
-      "texto": "F#m              E                 D   Bm"
+      "texto": "F#m              E"
     },
     {
       "tipo": "letra",
-      "texto": "El Volverá para gobernar las naciones"
+      "texto": "El Volverá para gobernar"
     },
     {
       "tipo": "acorde",
-      "texto": "    F#m"
+      "texto": "          D  Bm     F#m"
     },
     {
       "tipo": "letra",
-      "texto": "En amor"
+      "texto": "Las naciones    en amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "letra",
@@ -78,11 +82,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            F#m                        E"
+      "texto": "            F#m"
     },
     {
       "tipo": "letra",
-      "texto": "Que ruja el león, que la tierra se estremezca"
+      "texto": "Que ruja el león"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que la tierra se estremezca"
     },
     {
       "tipo": "acorde",
@@ -114,35 +126,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m            E                 D    Bm"
+      "texto": "F#m            E"
     },
     {
       "tipo": "letra",
-      "texto": "Sobre el trono de justicia eternamente"
+      "texto": "Sobre el trono de justicia"
     },
     {
       "tipo": "acorde",
-      "texto": "         F#m  E"
+      "texto": "  D       Bm           F#m  E"
     },
     {
       "tipo": "letra",
-      "texto": "Habrá un Rey"
+      "texto": "Eternamente   habrá un Rey"
     },
     {
       "tipo": "acorde",
-      "texto": "F#m              E                 D   Bm"
+      "texto": "F#m              E"
     },
     {
       "tipo": "letra",
-      "texto": "El Volverá para gobernar las naciones"
+      "texto": "El Volverá para gobernar"
     },
     {
       "tipo": "acorde",
-      "texto": "    F#m"
+      "texto": "          D  Bm     F#m"
     },
     {
       "tipo": "letra",
-      "texto": "En amor"
+      "texto": "Las naciones    en amor"
     },
     {
       "tipo": "letra",
@@ -154,11 +166,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            F#m                        E"
+      "texto": "            F#m"
     },
     {
       "tipo": "letra",
-      "texto": "Que ruja el león, que la tierra se estremezca"
+      "texto": "Que ruja el león"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que la tierra se estremezca"
     },
     {
       "tipo": "acorde",
@@ -198,23 +218,39 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Puente]x4  2 suaves,1 juego toms,1 creciendo semicorcheas"
+      "texto": "[Puente]x4 2 suaves,1 juego toms,1 creciendo semicorcheas"
     },
     {
       "tipo": "acorde",
-      "texto": "    F#m                       E"
+      "texto": "    F#m"
     },
     {
       "tipo": "letra",
-      "texto": "El descendiente de David, El hombre más notable"
+      "texto": "El descendiente de David"
     },
     {
       "tipo": "acorde",
-      "texto": "    D         Bm     F#m"
+      "texto": "    E"
     },
     {
       "tipo": "letra",
-      "texto": "Él ama la justicia y odia la iniquidad"
+      "texto": "El hombre más notable"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D         Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él ama la justicia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y odia la iniquidad"
     },
     {
       "tipo": "letra",
@@ -226,11 +262,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            F#m                        E"
+      "texto": "            F#m"
     },
     {
       "tipo": "letra",
-      "texto": "Que ruja el león, que la tierra se estremezca"
+      "texto": "Que ruja el león"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que la tierra se estremezca"
     },
     {
       "tipo": "acorde",
@@ -250,7 +294,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   E         F#m               E"
+      "texto": "             F#m               E"
     },
     {
       "tipo": "letra",

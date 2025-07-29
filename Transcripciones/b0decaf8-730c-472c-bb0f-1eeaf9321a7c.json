@@ -1,0 +1,484 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Julio Melgar — Tus Cuerdas De Amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (65 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4 2 suaves 2 entra batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm  Bb  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1] solo piano y pad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque pase el tiempo sé"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm         Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu promesa cumplirás (entra batería)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada en ti se perderá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm         Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esa es mi seguridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]  --bombo negras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C      Am   C7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus cuerdas de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F  C     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cayeron sobre mí Oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C      Am   C7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus cuerdas de amor (bombo corcheas)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F  C  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cayeron sobre mí."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb                       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es tu amor que me sostiene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Dm                   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que me levanta, el que me da paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me da seguridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Gm                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De lo que vendrá, Tú tienes el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  C       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca pierdes el control."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            Bb      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Escucho el eco de tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Bb       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Resonando en mi interior"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             Bb      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus palabras me sostendrán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm         Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esa es mi seguridad."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los velos están cayendo hoy (subiendo y bombo corcheas)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm              Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y puedo ver con claridad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                Bb       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi fe se está encendiendo hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm               Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y hoy me vuelvo a levantar."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es tu amor que me sostiene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Dm                   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que me levanta, el que me da paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me da seguridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Gm                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De lo que vendrá, Tú tienes el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  C       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca pierdes el control."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm   C   Am   Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Gm                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De lo que vendrá, Tú tienes el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  C       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca pierdes el control."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Ministración]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm Bb F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque pase el tiempo sé"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm         Bb     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu promesa cumplirás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada en ti se perderá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm         Bb    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esa es mi seguridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C      Am   C7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus cuerdas de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F  C     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cayeron sobre mí Oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C      Am   C7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus cuerdas de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F  C  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cayeron sobre mí."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Es tu amor que me sostiene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Dm                   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que me levanta, el que me da paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me da seguridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Gm                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De lo que vendrá, Tú tienes el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  C       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca pierdes el control."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm  Bb  F"
+    }
+  ]
+}

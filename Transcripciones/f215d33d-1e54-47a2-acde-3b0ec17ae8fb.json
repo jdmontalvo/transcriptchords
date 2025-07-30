@@ -1,0 +1,740 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Barak — A Danzar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro corto]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar delante de su presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor es quien nos sustenta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quién resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m  A  E  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Da un paso al frente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has algo diferente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Demos toda gloria a Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levanta tus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¡Grita que el es Santo!"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es El gran yo soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Murió en la cruz"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Si tu respiras tienes que adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que nada te impida danzar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar delante de su presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor es quien nos sustenta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quién resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m    A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A danzar a Dios vamos adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B               C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor hay que celebrar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quien resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A     E        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar     OhOh OhOh OhOhOh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m  A  E  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Da un paso al frente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has algo diferente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Demos toda gloria a Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levanta tus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¡Grita que el es Santo!"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es El gran yo soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Murió en la cruz"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Si tu respiras tienes que adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que nada te impida danzar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar delante de su presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor es quien nos sustenta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quién resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m    A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A danzar a Dios vamos adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B               C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor hay que celebrar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quien resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A     E        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar     OhOh OhOh OhOhOh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m  A  E  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Rap]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He aqui una generación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que no tiene miedo de buscar a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Apasionados por Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que aman su gloria que buscan su unción"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que no van a cambiar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su meta es ser radical"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y no están de acuerdo con nada en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que quiera cambiar su moral"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor nos hace danzar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su gracia infinita me inspira a cantar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Cristo adoramos no importa quien hable"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque somos radicales"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que nos digan que locos están"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sus acciones son anormal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si ves que brincamos si ves que saltamos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es que somos"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Re-dimidos Saltando, gozando vamos celebrando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que resucitó se esta glorificando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En medio del pueblo que rinde alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que celebra y con jubilo danza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alza tus manos arriba bien arriba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es su amor lo que celebramos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos uno, somos su pueblo y juntos vamos"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro largo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar delante de su presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor es quien nos sustenta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quién resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m    A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A danzar a Dios vamos adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B               C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor hay que celebrar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quien resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar delante de su presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su amor es quien nos sustenta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           E         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es Dios El es quién resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m   A     E        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Danzar     OhOh OhOh OhOhOh"
+    }
+  ]
+}

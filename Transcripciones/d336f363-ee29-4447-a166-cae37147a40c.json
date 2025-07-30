@@ -1,0 +1,396 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Barak — Ven Espiritu Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería---"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em D C B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Estoy aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desesperado por ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con un corazón sediento"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que espera beber de ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoco]   --Creciendo corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando tu gloria desciende a un lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la tierra tiene que adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Resucitan los muertos se sanan enfermos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "por tu poder."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Queremos de ti llénanos de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Espíritu santo envuélvenos en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama tu gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esperamos por ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2  Sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven llena este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoco]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando tu gloria desciende a un lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la tierra tiene que adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Resucitan los muertos se sanan enfermos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "por tu poder."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 C C C C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Queremos de ti llénanos de ti   --Pulsos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Espíritu santo envuélvenos en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama tu gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esperamos por ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven llena este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2] ---solo batería--"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Ven,      ven,            ven )"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transfórmame  quebrántame,    restáurame"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh vivifícame"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Ven,     ven,        ven )"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libértame,  envuélveme,  Reposa sobre mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C              B  B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Modula a F#m----"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Interludio]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D              C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven, ven, ven"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]   ---baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Estoy aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desesperado por ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con un corazón sediento"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C#          F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que espera beber de ti"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Sebastián Golluscio — Máximo Amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--batería Inicia fuerte con ritmo--"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E  F#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E  F#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E  F#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m B  E - A - F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]  ---ritmo borde caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi historia y pasión mi gran"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Galardón mi fuego interior"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi entrega total mi agua y mi pan"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B       C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi corona es Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A           C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gastaré mi vida en él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y triunfante cantaré.."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] --sube intensdidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E       B            C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré cantaré un himno de gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                 C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Dios de mi historia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           A    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E      B            C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré gritaré el es mi victoria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A           C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré mi maxima gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B             A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es cristo mi rey..."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E  F#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m B  E - A - F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]  ---ritmo borde caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi historia y pasión mi gran"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Galardón mi fuego interior"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi entrega total mi agua y mi pan"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B       C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi corona es Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A           C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gastaré mi vida en él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y triunfante cantaré.."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] --sube intensdidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E       B            C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré cantaré un himno de gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                 C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Dios de mi historia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           A    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E      B            C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré gritaré el es mi victoria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A           C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré mi maxima gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B             A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es cristo mi rey (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m C#m E B"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m C#m C F#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro] --baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E      B       C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": " mi corona es Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A           C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gastaré mi vida en él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y triunfante cantaré.."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro recortado]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E       B            C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré cantaré un himno de gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                 C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Dios de mi historia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           A    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Modla a F---"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F       C            Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré cantaré un himno de gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A#                 Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Dios de mi historia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C     F      D#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi maximo amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F       C             Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré gritaré el es mi victoria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A#           Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gritaré mi maxima gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             A#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es cristo mi rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C        A#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es cristo mi rey x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es cristo mi rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

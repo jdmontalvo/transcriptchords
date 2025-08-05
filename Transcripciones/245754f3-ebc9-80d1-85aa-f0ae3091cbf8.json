@@ -1,0 +1,364 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Coalo Zamorano — Toda La Gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]  --Inicia con ritmo batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  F  G  F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  F  G  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]x2 --Sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C                     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la gloria y la honra es para Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                 F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi vida doy como una ofrenda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C       Am G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C                     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la gloria y la honra es para Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                 F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi vida doy como una ofrenda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C       F G   Bm  E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a Ti     (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] ---Inicia batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Postrado en adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gsus4     G        C    Bm  E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Ante Ti, Salvador"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Postrado en Adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gsus4     G           C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Ante ti  Mi salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  F  G  F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  F  G  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]x2 --ritmo suave caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C                     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la gloria y la honra es para Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                 F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi vida doy como una ofrenda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C       Am G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C                     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la gloria y la honra es para Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                 F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi vida doy como una ofrenda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C       F G   Bm  E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a Ti     (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] ---Inicia batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Postrado en adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gsus4     G        C    Bm  E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Ante Ti, Salvador"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Postrado en Adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gsus4     G           C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     Ante ti  Mi salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm  C         F     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Adorarte a Ti, Jesùs"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Em7      Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es todo lo que quiero hacer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Adorarte a Ti, Jesùs"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                Em7       F#7 Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es todo lo que quiero hacer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Adorarte a Ti, Jesùs"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                Em7      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es todo lo que quiero hacer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm7       G      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi pasiòn eres Tù, Oh Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Outro]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A7      Dm7       G      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Mi pasiòn eres Tù, Oh Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  F  G  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C C7 F Fm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C D Gsus4 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Ab Bb C"
+    }
+  ]
+}

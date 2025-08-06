@@ -1,0 +1,440 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Daniel Calveti — Espiritu Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G G (G-A-G)   D D (D-E-D)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F F   C C (C-B-G-C-D-G)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Revélame a Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F F                  C C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Yo Quiero más de ti, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tú eres mi fuerza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tú eres mi ayuda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F F                   C C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Sin ti no puedo más, Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Espíritu santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Revélame a Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F F                  C C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Yo Quiero más de ti, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tú eres mi fuerza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Tú eres mi ayuda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F F                   C C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Sin ti no puedo más, Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo Reggae]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G-G-B-G G-G-B-G   D-D-F#-D D-D-F#D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E-E-D-E E-E-D-E   C-C-B-C  (G-A-B-A-G)Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se ría,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se mueva,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em               C (G-A-B-A-G)Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que grite."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se ría,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se mueva,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em              C  (G-A-B-A-G)Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste a saltar."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se ría,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se mueva,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em                C (G-A-B-A-G)Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que grite."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se ría,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste que se mueva,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em                C (G-A-B-A-G)Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que vino triste a saltar."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro y outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro, porque tú eres Santo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo Santo Santo oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo Santo Santo eh eh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo Santo Santo eres tu"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G         D       Em       D   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres tu, eres tu, eres tu ,eres tu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

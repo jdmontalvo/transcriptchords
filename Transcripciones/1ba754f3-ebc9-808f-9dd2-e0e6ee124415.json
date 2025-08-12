@@ -1,0 +1,560 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "La Ibi — Santo Por Siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar(72 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  D  Bm  Em - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mil generaciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se postran adorarle"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Le cantan al cordero"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venció"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los que nos precedieron"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y los que en Él creerán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Le cantarán a aquel"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que ya venció"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, es más alto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, es más grande"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em            D    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, sobre todo es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sean tronos, dominios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderes potestades"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em            D   Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, sobre todo es"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C     Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Claman ángeles  Saan--to"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G      Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Clama la creación  Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Am7     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Exaltado Dios   Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2] empieza batería ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si te ha perdonado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tienes salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Em            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cántale al cordero"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venció"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si te ha libertado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C                   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su nombre ha puesto en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Em            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cántale al cordero"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venció"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro 2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Em          D       Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaremos siempre amén"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C     Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Claman ángeles  Saan--to"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G      Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Clama la creación  Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Am7     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Exaltado Dios   Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Canta el pueblo al Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Saan--to"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G     Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soberano es Él Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Am7     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y por siempre es  Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]x2 baja intensidad(juego toms)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, es más alto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, es más grande"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em            D    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, sobre todo es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sean tronos, dominios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderes potestades"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em            D   Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu nombre, sobre todo es"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C     Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Claman ángeles  Saan--to"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G      Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Clama la creación  Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Am      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Exaltado Dios   Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Canta el pueblo al Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Saan--to"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G     Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soberano es Él Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Am      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y por siempre es  Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Final] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y por siempre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G     C  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo Por Siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

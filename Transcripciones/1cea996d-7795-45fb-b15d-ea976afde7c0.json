@@ -1,0 +1,528 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Montesanto — Fiesta En El Desierto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Santiago uno, verso dos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "está escrito que tenga gozo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando pase por diversas pruebas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque de allí saldré victorioso"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A                  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#7           C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza solo alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo Danzo danzo danzo, danzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#7          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Danzo danzo, en el proceso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y Grito, grito, grito, grito"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grito grito, no moriré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Doy vueltas vueltas,vueltas vueltas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7             C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vueltas vueltas, no me avergüenzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay fiesta fiesta,fiesta fiesta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fiestaaaa, Fiesta en el desierto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A B G#m  G# - F# - E - D#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "         (Solo notas o quintas)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Santiago uno, verso dos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "está escrito que tenga gozo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando pase por diversas pruebas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque de allí saldré victorioso"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A                  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#7           C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza solo alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo Danzo danzo danzo, danzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#7          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Danzo danzo, en el proceso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y Grito, grito, grito, grito"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grito grito, no moriré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Doy vueltas vueltas,vueltas vueltas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7             C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vueltas vueltas, no me avergüenzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay fiesta fiesta,fiesta fiesta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fiestaaaa, Fiesta en el desierto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A B G#m  G# - F# - E - D#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque venga la enfermedad"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras viva te alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque mis labios quieran callar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras viva te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque el desierto me quiera secar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras viva te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque la higuera no florezca"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras viva te alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A                  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#7           C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza solo alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A                    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi lamento cambiaste por danza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ya no hay tristeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo Danzo danzo danzo, danzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#7          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Danzo danzo, en el proceso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y Grito, grito, grito, grito"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grito grito, no moriré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Doy vueltas vueltas,vueltas vueltas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7             C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vueltas vueltas, no me avergüenzo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay fiesta fiesta,fiesta fiesta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G#7              G#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fiestaaaa, Fiesta en el desierto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A B G#m  G# - F# - E - D#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Termina en"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    }
+  ]
+}

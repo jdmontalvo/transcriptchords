@@ -57,7 +57,7 @@
       "texto": "    Convénceme   de mi error"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m  E     B     F#      E  F#/E"
     },
     {
@@ -81,7 +81,7 @@
       "texto": " Vuelvo a casa  Vuelvo a casa"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                E"
     },
     {
@@ -89,7 +89,7 @@
       "texto": "A LA casa de MI Padre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                   B"
     },
     {
@@ -105,7 +105,7 @@
       "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              E"
     },
     {
@@ -157,7 +157,7 @@
       "texto": "    Me abrazas con    tu perdón"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m     E         B     F#  E  F#/E"
     },
     {
@@ -181,15 +181,15 @@
       "texto": " Vuelvo a casa  Vuelvo a casa"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                E"
     },
     {
       "tipo": "letra",
-      "texto": "A LA casa de MI Padre"
+      "texto": "A la casa de mi Padre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                   B"
     },
     {
@@ -205,7 +205,7 @@
       "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              E"
     },
     {
@@ -229,7 +229,7 @@
       "texto": "[Instrumental] aplausos y guitarra solamente"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "B"
     },
     {
@@ -241,7 +241,7 @@
       "texto": "[Puente]x2 1 solo aplausos y guitarra --1 ritmo"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "B"
     },
     {
@@ -249,7 +249,7 @@
       "texto": " Perdido estaba y tu amor me encontró"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "B"
     },
     {
@@ -313,15 +313,15 @@
       "texto": " Vuelvo a casa  Vuelvo a casa"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                E"
     },
     {
       "tipo": "letra",
-      "texto": "A LA casa de MI Padre"
+      "texto": "A la casa de mi Padre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                   B"
     },
     {
@@ -337,7 +337,7 @@
       "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              E"
     },
     {
@@ -433,7 +433,7 @@
       "texto": " Vuelvo a casa  Vuelvo a casa"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                E"
     },
     {
@@ -441,7 +441,7 @@
       "texto": "A LA casa de MI Padre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                   B"
     },
     {
@@ -457,7 +457,7 @@
       "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              E"
     },
     {

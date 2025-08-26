@@ -1,0 +1,392 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marcos Witt — Al Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4 Songo batería"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm F Eb D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Gm   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey Hossana"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Gm  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha enseñado su grandeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Bb   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha mostrado su belleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me vistió de su realeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F         Bb Cm      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su salvación yo cantaré (Corte1)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha cambiado mi tristeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Bb    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha ungido mi cabeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me cubrió de su belleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F         Bb Cm     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su redención yo cantaré (Corte2)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Gm   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey Hossana"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Gm  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha enseñado su grandeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Bb   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha mostrado su belleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me vistió de su realeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F         Bb Cm      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su salvación yo cantaré (Corte1)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha cambiado mi tristeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Bb    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha ungido mi cabeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me cubrió de su belleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F         Bb Cm     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De su redención yo cantaré (Corte2)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Gm   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey Hossana"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Cm           Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo me asombro me maravillo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D                 Gm  F  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y derramo mi canto en honor a Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Cm          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay nadie mas glorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tan hermoso como mi Rey (Corte2)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  D C D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  G F G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  D C D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  G F G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  D C D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  G F G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  D C D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C D Eb D C  G F Bb G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Corte"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x6"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Gm   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey Hossana"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D     Gm"
+    }
+  ]
+}

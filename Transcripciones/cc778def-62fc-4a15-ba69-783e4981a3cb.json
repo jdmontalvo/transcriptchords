@@ -26,7 +26,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F - Fsus2   C   Dsus2 - C"
+      "texto": "F - Fsus2   C - Csus2 - C"
     },
     {
       "tipo": "letra",
@@ -54,7 +54,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G - Gsus4    G              F   Fsus2  C Dsus2 - C"
+      "texto": "G - Gsus4    G              F   C - Csus2 - C"
     },
     {
       "tipo": "letra",
@@ -70,7 +70,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Fsus2    C     Dsus2 - C"
+      "texto": "Fsus2    C - Csus2 - C"
     },
     {
       "tipo": "letra",
@@ -170,7 +170,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Fsus2      C     Dsus2 - C"
+      "texto": "Fsus2      C - Csus2 - C"
     },
     {
       "tipo": "letra",
@@ -178,7 +178,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G - Gsus4    G              F   Fsus2  C   Dsus2 - C"
+      "texto": "G - Gsus4    G              F   Fsus2  C - Csus2 - C"
     },
     {
       "tipo": "letra",
@@ -411,18 +411,6 @@
     {
       "tipo": "letra",
       "texto": "gloria, aleluya, Padre fiel"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
     }
   ]
 }

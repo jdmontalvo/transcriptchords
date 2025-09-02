@@ -10,6 +10,22 @@
     },
     {
       "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuning: E A D G B E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
       "texto": "Transcripción por David M Guitar (73 BPM)"
     },
     {
@@ -17,15 +33,15 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2 Una instrumentos una con voz(oh oh oh oh oh)"
+      "tipo": "acorde",
+      "texto": "[Intro]x2 1 instrumentos, 1 voz(oh oh oh oh oh)"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " B  E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -34,11 +50,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "B                          E"
+      "texto": "B                         E"
     },
     {
       "tipo": "letra",
-      "texto": " Lejos de casa me encontré   Sin saber a dónde ir"
+      "texto": " Lejos de casa me encontré, Sin saber a dónde ir"
     },
     {
       "tipo": "acorde",
@@ -49,7 +65,7 @@
       "texto": " Nada llenó mi corazón  Nada sació mi interior"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m     E      B    F#"
     },
     {
@@ -58,19 +74,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m  E     B     F#      E  F#/E"
+      "texto": "G#m  E     B     F#      E  F#"
     },
     {
       "tipo": "letra",
       "texto": "   Ayúdame   a volver a Ti"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]"
+      "texto": "[Coro]  notas fantasma caja"
     },
     {
       "tipo": "acorde",
@@ -86,7 +102,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "A LA casa de MI Padre"
+      "texto": "A la casa de mi Padre"
     },
     {
       "tipo": "acorde",
@@ -98,26 +114,34 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                 F#                        G#m"
+      "texto": "                 F#"
     },
     {
       "tipo": "letra",
-      "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
+      "texto": "Me llamas por mi nombre"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
+      "texto": "                   G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque conoces mi pasado"
+    },
+    {
+      "tipo": "letra",
       "texto": "              E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Aun así me aceptas"
     },
     {
-      "tipo": "acorde",
-      "texto": "           B  F#           G#m    E"
+      "tipo": "letra",
+      "texto": "           B  F#           G#m  E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Y tu hijo soy    Y tu hijo soy"
     },
     {
@@ -125,12 +149,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Verso2]"
+      "texto": "[Verso2]  Inicia ritmo"
     },
     {
       "tipo": "acorde",
@@ -141,7 +165,7 @@
       "texto": " En mi mayor dolor alcé  Mis ojos hacia Ti"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B                             E"
     },
     {
@@ -158,14 +182,14 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m     E         B     F#  E  F#/E"
+      "texto": "G#m     E         B     F#  E  F#"
     },
     {
       "tipo": "letra",
       "texto": "    Rodeado estoy   por tu amor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -197,51 +221,59 @@
       "texto": "Que me ama y me llama"
     },
     {
-      "tipo": "acorde",
-      "texto": "                 F#                        G#m"
+      "tipo": "letra",
+      "texto": "                 F#"
     },
     {
       "tipo": "letra",
-      "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
+      "texto": "Me llamas por mi nombre"
     },
     {
       "tipo": "acorde",
+      "texto": "                   G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque conoces mi pasado"
+    },
+    {
+      "tipo": "letra",
       "texto": "              E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Aun así me aceptas"
     },
     {
-      "tipo": "acorde",
-      "texto": "           B  F#           G#m    E"
+      "tipo": "letra",
+      "texto": "             B  F#           G#m E"
     },
     {
-      "tipo": "letra",
-      "texto": "Y tu hijo soy    Y tu hijo soy      (repite 2 veces y tu hijo soy)"
+      "tipo": "acorde",
+      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Instrumental] aplausos y guitarra solamente"
+      "tipo": "acorde",
+      "texto": "[Instrumental] aplausos y guitarra solamente,solo ride"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Puente]x2 1 solo aplausos y guitarra --1 ritmo"
+      "texto": "[Puente] solo aplausos y guitarra --1 ritmo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B"
     },
     {
@@ -265,7 +297,7 @@
       "texto": "  Hay fiesta    en tu casa, se alegró tu corazón"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "E           G#m         F#"
     },
     {
@@ -273,15 +305,51 @@
       "texto": "  Me has vestido de tu amor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Interludio]"
+      "texto": "B"
     },
     {
       "tipo": "acorde",
+      "texto": " Perdido estaba y tu amor me encontró"
+    },
+    {
+      "tipo": "letra",
+      "texto": "E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " De muerte a vida, me llamas, me llamas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "B                                              E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Hay fiesta    en tu casa, se alegró tu corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": "E           G#m         F#"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Me has vestido de tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "[Interludio]"
+    },
+    {
+      "tipo": "letra",
       "texto": "B         E         G#m       E"
     },
     {
@@ -289,11 +357,11 @@
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B         C#m       G#m       E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
@@ -321,7 +389,7 @@
       "texto": "A la casa de mi Padre"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "                   B"
     },
     {
@@ -330,14 +398,22 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                 F#                        G#m"
+      "texto": "                 F#"
     },
     {
       "tipo": "letra",
-      "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
+      "texto": "Me llamas por mi nombre"
     },
     {
       "tipo": "acorde",
+      "texto": "                   G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque conoces mi pasado"
+    },
+    {
+      "tipo": "letra",
       "texto": "              E"
     },
     {
@@ -345,27 +421,27 @@
       "texto": "Aun así me aceptas"
     },
     {
-      "tipo": "acorde",
-      "texto": "           B  F#           G#m    E"
+      "tipo": "letra",
+      "texto": "             B  F#           G#m E"
     },
     {
-      "tipo": "letra",
-      "texto": "Y tu hijo soy    Y tu hijo soy      (repite 2 veces y tu hijo soy)"
+      "tipo": "acorde",
+      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "[Instrumental]x2 bajar intensidad"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B F# G#m E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -389,7 +465,7 @@
       "texto": "   Oh gracias Cristo Por tu preciosa sangre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -397,7 +473,7 @@
       "texto": "[Interludio]x2"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B         E         G#m       E"
     },
     {
@@ -405,7 +481,7 @@
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B         C#m       G#m       E"
     },
     {
@@ -425,7 +501,7 @@
       "texto": "[Coro]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "B           F#           G#m"
     },
     {
@@ -433,15 +509,15 @@
       "texto": " Vuelvo a casa  Vuelvo a casa"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "                E"
     },
     {
       "tipo": "letra",
-      "texto": "A LA casa de MI Padre"
+      "texto": "A la casa de mi Padre"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "                   B"
     },
     {
@@ -449,15 +525,23 @@
       "texto": "Que me ama y me llama"
     },
     {
-      "tipo": "acorde",
-      "texto": "                 F#                        G#m"
+      "tipo": "letra",
+      "texto": "                 F#"
     },
     {
       "tipo": "letra",
-      "texto": "Me llamas por mi nombre Aunque conoces mi pasado"
+      "texto": "Me llamas por mi nombre"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
+      "texto": "                   G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque conoces mi pasado"
+    },
+    {
+      "tipo": "letra",
       "texto": "              E"
     },
     {
@@ -465,12 +549,12 @@
       "texto": "Aun así me aceptas"
     },
     {
-      "tipo": "acorde",
-      "texto": "           B  F#           G#m    E"
+      "tipo": "letra",
+      "texto": "             B  F#           G#m E"
     },
     {
       "tipo": "letra",
-      "texto": "Y tu hijo soy    Y tu hijo soy      (repite 2 veces y tu hijo soy)"
+      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
     },
     {
       "tipo": "letra",

@@ -1,0 +1,404 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Juan Luis Guerra — Gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m C#m"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m  F# - E  - F#sus4 - F#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " B               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gloria aleluya, Padre del cielo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A           E             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti doy la gloria solo a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios majestuoso, rey del universo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A           E             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti doy la glria solo a ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "sea exaltado eternamente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C#m          F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú eres el mismo hoy y siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m   B       E           E B A B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a tí doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyos son los cielos y la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C#m          F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tuyos son los mares, las estrellas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m   B       E            E B A B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a ti doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B        E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   E    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso] eco(Gloria Aleluya)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " B               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gloria aleluya, Padre del cielo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A           E             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti doy la gloria solo a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios majestuoso, rey del universo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A           E             B  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti doy la glria solo a ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--modula a C--"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A#                  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "sea exaltado eternamente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Dm         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú eres el mismo hoy y siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm    C       F           F C A# C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a tí doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A#                         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyos son los cielos y la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                Dm         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tuyos son los mares, las estrellas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm    C       F           F C  F# G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a ti doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--modula a C#--"
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " B                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "sea exaltado eternamente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D#m         G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú eres el mismo hoy y siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m    C#       F#        F# C# B C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a tí doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " B                         F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyos son los cielos y la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                D#m         G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tuyos son los mares, las estrellas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   C#      F#          F# C#  F# C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a ti doy la gloria sólo a tí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+    }
+  ]
+}

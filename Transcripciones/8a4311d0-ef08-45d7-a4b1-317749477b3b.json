@@ -1,0 +1,464 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marcos Witt — Levántate Y Sálvame"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro] sólo guitarra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso] suave solo hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Aunque un ejército"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              C           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "acampe contra mi no temeré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Aunque haya guerra hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "alrededor de mi, en Ti comfiare"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro] suave solo hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     G       Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No temere a diez mil gentes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F            C - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "que hagan sitio contra mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F     G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque la tierra se estremezca"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi salvacion esta en Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2  Sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F   G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tu eres mis escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F   G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "quien levanta mi cabeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Aunque aflijido esté"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu pensaras en mi, no temeré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Aunque mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              C               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Estremecido esté, en Ti confiaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F    G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No temeré a ningún hombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F           C - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que se junte contra mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F       G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi Dios mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi salvación está en Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F   G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tu eres mis escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F   G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "quien levanta mi cabeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x6  4 suaves,2 fuertes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am     F     C   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Levántate y sálvame"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F   G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tu eres mis escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F   G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "quien levanta mi cabeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x8  6 suaves,4 fuertes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am     F     C   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Levántate y sálvame"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F   G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tu eres mis escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F   G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "quien levanta mi cabeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x8  4 capela,2 suaves, 2 fuertes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am     F     C   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Levántate y sálvame"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F   G        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tu eres mis escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mi fortaleza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F   G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu eres mi gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F     C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "quien levanta mi cabeza"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x8  4 capela"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am     F     C   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Levántate y sálvame"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Termina]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    }
+  ]
+}

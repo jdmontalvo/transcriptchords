@@ -1,7 +1,7 @@
 {
   "contenido": [
     {
-      "tipo": "titulo",
+      "tipo": "letra",
       "texto": "Redimi2 — Popurrí Espíritu Santo/El Nombre De Jesús"
     },
     {
@@ -345,20 +345,8 @@
       "texto": "Quiero vivir en tu verdad"
     },
     {
-      "tipo": "acorde",
-      "texto": "          D   A  F#m  E"
-    },
-    {
       "tipo": "letra",
-      "texto": "En tu verdad"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "          D   A  F#m  E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "En tu verdad"
+      "texto": ""
     },
     {
       "tipo": "letra",
@@ -477,7 +465,7 @@
       "texto": "Mi corazón entona la canción"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                            D"
     },
     {
@@ -485,7 +473,7 @@
       "texto": "Para el que murió en la cruz"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                      A"
     },
     {
@@ -493,7 +481,7 @@
       "texto": "Que por mí su vida dió"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              G"
     },
     {
@@ -553,7 +541,7 @@
       "texto": "Mi corazón entona la canción"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                            D"
     },
     {
@@ -561,7 +549,7 @@
       "texto": "Para el que murió en la cruz"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                      A"
     },
     {
@@ -569,7 +557,7 @@
       "texto": "Que por mí su vida dió"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              G"
     },
     {
@@ -585,7 +573,7 @@
       "texto": "Al tercer día, me dio la vida y viviré"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  A"
     },
     {
@@ -601,7 +589,7 @@
       "texto": "Mi corazón entona la canción"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                            D"
     },
     {
@@ -609,7 +597,7 @@
       "texto": "Para el que murió en la cruz"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                      A"
     },
     {
@@ -617,7 +605,7 @@
       "texto": "Que por mí su vida dió"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              G"
     },
     {
@@ -633,7 +621,7 @@
       "texto": "Al tercer día, me dio la vida y viviré"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  A"
     },
     {

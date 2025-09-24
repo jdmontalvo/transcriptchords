@@ -162,11 +162,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            Dbsus2 Db               Ebsus2 Eb"
+      "texto": "            Dbsus2 Db      Ebsus2 Eb"
     },
     {
       "tipo": "letra",
-      "texto": " Aquí estoy yo,      aquí estoy yo"
+      "texto": " Aquí estoy yo,       Oh Oh(Corte)"
     },
     {
       "tipo": "letra",
@@ -377,20 +377,12 @@
       "texto": "Aquí esta mi voz aquí estoy yo"
     },
     {
-      "tipo": "acorde",
-      "texto": "            Dbsus2 Ab"
-    },
-    {
-      "tipo": "letra",
-      "texto": " Aquí estoy yo,"
-    },
-    {
       "tipo": "letra",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]  Corte al inicio"
+      "texto": "[Coro] "
     },
     {
       "tipo": "acorde",

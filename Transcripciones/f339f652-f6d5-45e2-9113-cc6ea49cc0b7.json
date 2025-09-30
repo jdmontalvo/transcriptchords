@@ -1,0 +1,340 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — Cantamos Aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4 2 suaves,2 entra batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#m  E  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         E         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tus obras, por tu bien"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu amor y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tú nunca cambias"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu grandeza, tu gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu bondad nos alcanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E            D       C#m  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque nadie es como Tu Eres Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E      F#m D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya,   aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya, al Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m  E  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         E         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tus obras, por tu bien"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu amor y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque Tú nunca cambias"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu grandeza, tu gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu bondad nos alcanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E            D       C#m  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque nadie es como Tu Eres Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E      F#m D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya,   aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya, al Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente] (solo notas, no acordes)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F# G#   A           C#   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey, que venció a la muerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#        D    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por los siglos reina"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F# G#      A     C#   B  A  G#   F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Sea la Gloria por siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F# G#   A           C#   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Rey, que extendió su mano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#        D    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darnos vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F# G#      A     C#   B  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Sea la Gloria por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Remate]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D C# B A  D C# B A  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D  F#m  A  C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D  F#m A C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x4   primera capela con corte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E      F#m D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya,   aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A       E            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantamos aleluya, al Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D  F#m A C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Termina"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D"
+    }
+  ]
+}

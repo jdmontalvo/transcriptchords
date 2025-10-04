@@ -390,50 +390,10 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Puente] baja intensidad"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "  Dm                      Gm"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Subamos a adorar en el monte de Sión"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "Dm                     A - A   A - G - F - E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Es el gozo de toda nación"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "      Dm                       Gm"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Donde la tristeza es gozo El llanto es alegría"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "    Dm                    A"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Subamos a adorar al gran rey"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
       "texto": "[Rap]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -449,15 +409,15 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "[Coro]x4"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " Dm          Bb     A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": " Oh oh oh oh oh oh oh"
     },
     {
@@ -469,7 +429,7 @@
       "texto": "[Verso]"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Dm"
     },
     {
@@ -477,15 +437,15 @@
       "texto": "  En los montes, en los valles"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Bb                     C"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": " Exaltamos al que es digno de  Alabanza"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Dm"
     },
     {
@@ -501,7 +461,7 @@
       "texto": "  Levantamos un sonido de Esperanza"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Dm"
     },
     {
@@ -533,7 +493,7 @@
       "texto": "  Exaltamos al que reina para siempre"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -549,7 +509,7 @@
       "texto": " Oh oh oh oh oh oh oh"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {

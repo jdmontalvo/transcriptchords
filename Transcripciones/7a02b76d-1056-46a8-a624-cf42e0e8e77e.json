@@ -1,0 +1,380 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — Hossana"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4 2 suaves 2 fuertes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Bm  A  F#  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Levantamos un clamor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por sanidad y redención"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Muéstranos lo que tu ves"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Los secretos de tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Un pueblo unido pide hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu libertad y salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm              A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Ármanos con tu valor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Lo que deseamos es revolución"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                           A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el cielo se parta en dos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G                          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Inúndanos En el desierto broten ríos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vida sopla hoy"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Hosanna al rey de salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna al Dios Altísimo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G           A             Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna, Jesucristo, Jesucristo es rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--paso-- solo notas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Db D B Db F# A B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Levantamos un clamor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por sanidad y redención"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Muéstranos lo que tu ves"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Los secretos de tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Un pueblo unido pide hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu libertad y salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm              A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Ármanos con tu valor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Lo que deseamos es revolución"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                           A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el cielo se parta en dos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G                          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Inúndanos En el desierto broten ríos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vida sopla hoy"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Hosanna al rey de salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna al Dios Altísimo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G           A             Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna, Jesucristo, Jesucristo es rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G    A     G - A - Bm - A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x4 creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Hosanna    Hosanna"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G    A        Bm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Hosanna al rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Hosanna al rey de salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna al Dios Altísimo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G           A             Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna, Jesucristo, Jesucristo es rey"
+    }
+  ]
+}

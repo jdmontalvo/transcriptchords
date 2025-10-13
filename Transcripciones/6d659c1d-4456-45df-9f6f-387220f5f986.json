@@ -1,0 +1,356 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Hosanna"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m7  Emaj7 F#m7 G#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                    C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Veo al rey de Gloria Viene con fuego y poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#m7            B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todos verán,  Todos verán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                    C#m7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Veo Su amor y gracia Mi pecado perdonó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Le alabaré Le alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]  Baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A              C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A               B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m  C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                    C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Veo cómo se levanta Una gran generación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F#m             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con compasión  Con compasión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E              C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Veo avivamiento Al buscarte y al orar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F#m           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me postraré  Me postraré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A              C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A               B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m  E  F#m  G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sáname y límpiame"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                      C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con mis ojos Tus obras quiero ver"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                   B          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quiero amarte como Tú me amas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Muéstrame Tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                      C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo lo que soy por Tu reino Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                        B            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Contigo quiero estar por la eternidad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental] x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] x2 --1 suave, 1 fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A              C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E     A     B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosann--a    Hosann--a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A               B     C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A             B  C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A             B  C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A                B  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hosanna en las alturas"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

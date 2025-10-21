@@ -1,0 +1,396 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Rojo — Mi Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (107 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m  D  A  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]---Solo piano y batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m        D         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios de milagros y amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m      D         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sanas y das salvación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres Tú.(corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2] Entra bajo y los demás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Brillas en la oscuridad."
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#m         D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Clamamos por tu libertad."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres Tú.(corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios es grande, mi Dios es fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nadie es igual, nadie le hace frente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios sana y salva, con Gloria se exalta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios, mi Dios, Oh oh oh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m  D  A  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Brillas en la oscuridad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#m         D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Clamamos por tu libertad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres Tú.(corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios es grande, mi Dios es fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nadie es igual, nadie le hace frente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios sana y salva, con Gloria se exalta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios, mi Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2  batería creciendo(corcheas)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m  D  A  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x2 creciendo corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y si Dios con nosotros"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " ¿Quién pues contra nosotros?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y si Dios nos levanta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " ¿Quién pues nos detendrá?"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Pulsos]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        F#m,  D          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "detendrá---aaa  oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E                       F#m D A E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Quién pues nos detendrá"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios es grande, mi Dios es fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nadie es igual, nadie le hace frente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m                     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios sana y salva, con Gloria se exalta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios, mi Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y si Dios con nosotros"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " ¿Quién pues contra nosotros?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y si Dios nos levanta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " ¿Quién pues nos detendrá?"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Pulsos]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        F#m,  D          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "detendrá---aaa  oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E                       F#m D A E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Quién pues nos detendrá"
+    }
+  ]
+}

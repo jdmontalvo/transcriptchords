@@ -1,0 +1,516 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Vivo Estás"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m      G#m    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Roto estaba mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A         C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pero tu mano me rescató"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C#m      G#m    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Del polvo yo volví a nacer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          A        C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La salvación en ti encontré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#m          G#m     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor no puedo expresar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A          C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te seguiré por la eternidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m      G#m  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En tu gracia caminaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A           C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En libertad siempre viviré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m      G#m     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti, en ti, en ti, soy libre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sé exaltado, sé exaltado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m        G#m       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor, tu amor, tu amor no se acaba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh  oh   oh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú vivo estás   en    mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A  C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay nadie en tu lu - gar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te necesi - to   Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A   C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi li - ber - tad  Ouh Ouh Uh OhOh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m              G#m    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al pasar por la oscuridad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A         C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su luz siempre me guiará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C#m      G#m      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mis cadenas Jesús rompió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A      C#m   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con su mano me rescató"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C#m      G#m  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Este mundo terminará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A        C#m   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te seguiré hasta el final"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m         G#m    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haz en mí Dios tu voluntad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A        C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Venga tu reino a este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m      G#m     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti, en ti, en ti, soy libre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sé exaltado, sé exaltado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m        G#m       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor, tu amor, tu amor no se acaba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh  oh   oh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú vivo estás   en    mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A  C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay nadie en tu lu - gar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te necesi - to   Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A   C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi li - ber - tad  Ouh Ouh Uh OhOh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]  baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m G#m A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro recortado] suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m      G#m     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti, en ti, en ti, soy libre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sé exaltado"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m      G#m     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti, en ti, en ti, soy libre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sé exaltado, sé exaltado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m        G#m       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor, tu amor, tu amor no se acaba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh  oh   oh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú vivo estás   en    mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A  C#m  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay nadie en tu lu - gar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m  G#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te necesi - to   Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A   C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi li - ber - tad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Outro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

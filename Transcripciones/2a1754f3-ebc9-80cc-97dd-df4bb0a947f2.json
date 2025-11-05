@@ -1,0 +1,604 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Somos Uno Worship — Alaba"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro batería]"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Refrain]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que toda la"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Creación"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabe a Dios, Alabe a Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo en el valle"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo en el monte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E             D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo en el día"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo en la noche"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo en el medio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Estando rodeado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque cuando alabo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú estás a mi lado"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras tenga aliento"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alma canta y"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón  mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso3]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo al sentirlo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y aun cuando no"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te alabo y sé"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que estás en control"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso4]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es más que un sonido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E             D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y cuando alabamos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caerá Jericó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras tenga aliento"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alma canta y"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón  mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me detengo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios vivo está"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A             E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cómo me voy a callar, mi alma"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   D - A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabo al que reina"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabo al Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabo a aquel que la tumba venció"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabo al que es bueno"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabo al que es fiel"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Le alabo porque"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro como Él"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro3]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pra--ise the Lord oh my soul"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pra--ise the Lord oh my soul"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me detengo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios vivo está"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A             E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cómo me voy a callar, mi alma"
+    },
+    {
+      "tipo": "letra",
+      "texto": "                      (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A----laba a Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m D A E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Refrain]x4"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que toda la"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Creación"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alabe a Dios, Alabe a Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro3]x2 baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pra--ise the Lord oh my soul"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m   D      A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pra--ise the Lord oh my soul"
+    }
+  ]
+}

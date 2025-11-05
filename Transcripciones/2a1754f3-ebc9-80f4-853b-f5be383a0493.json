@@ -1,0 +1,564 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Hermoso Nombre"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería--"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu fuiste el verbo en el principio"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Unigénito de Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El misterio de tu gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Revelado en tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm   A       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nombre de Jesús, mi Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada se iguala a Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso2] Inicia batería juego toms y caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Dejaste el cielo por salvarme"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G       Bm   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me viniste a rescatar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                     A   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Mi transgresión tú perdonaste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G     Bm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada nos separará"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm   A       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nombre de Jesús, mi Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada se iguala a Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Instrumental]x2  baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G  A  Bm  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La muerte venciste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El velo partiste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm         F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La tumba vacía ahora está"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los cielos declaran (Inicia juego toms fuerte)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gloria proclaman"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Resucitaste en majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Inigualable"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm          F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy y por siempre reinarás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyo es el reino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuya es la gloria  --Creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyo el poder y autoridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro3] Ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm   A       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nombre de Jesús, mi Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable es Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Puente2] Ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Inigualable"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable"
+    },
+    {
+      "tipo": "letra",
+      "texto": "            Bm          D/F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy y por siempre reinarás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyo es el reino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuya es la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tuyo el poder y autoridad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro3]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm   A       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El nombre de Jesús, mi Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable es Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Poderoso su nombre es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro nombre"
+    }
+  ]
+}

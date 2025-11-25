@@ -1,0 +1,396 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marcos Witt — Al Que Es Digno"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro suave]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C Bm Am Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C Bm D  C  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Paso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A7 G7    Fmaj7 Eb  Asus4 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo trompeta]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gmaj7 A7  F#m7  Bm7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gmaj7 A7  F#m7  Am7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gmaj7 A7  F#m7  B7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em G Em G     D  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Gmaj7           A         F#m    Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levantemos nuestras manos y adoremos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G       A       F#m      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a Jesús, Cordero de Glo--ooo-ria."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D7  G          A         F#m   B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y exaltemos su incomparable majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em       G       Em          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que vive por siempre, al Gran  Yo Soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A    D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Gmaj7           A         F#m    Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levantemos nuestras manos y adoremos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G       A       F#m      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a Jesús, Cordero de Glo--ooo-ria."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D7  G          A         F#m   B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y exaltemos su incomparable majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em       G       Em          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que vive por siempre, al Gran  Yo Soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A    D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo saxofón]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gmaj7   A   F#m     B7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gmaj7   C   Fmaj7   Am7 A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D                     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir la gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m                     A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es Digno, de recibir el honor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Gmaj7           A         F#m    Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levantemos nuestras manos y adoremos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G       A       F#m      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a Jesús, Cordero de Glo--ooo-ria."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D7  G          A         F#m   B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y exaltemos su incomparable majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em       G       Em          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que vive por siempre, al Gran  Yo Soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A    D      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G              A         F#m    Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levantemos nuestras manos y adoremos,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G       A       F#m        Am    D7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "a Jesús, Cordero de Glooooooooriaaaaaaaa."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G          A         F#m   B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y exaltemos su incomparable majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Em       G       Em          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "////Al que vive por siempre, al Gran  Yo Soy////"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A    C    G      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Jesús     A Jesús!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

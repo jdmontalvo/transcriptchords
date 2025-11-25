@@ -1,0 +1,412 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jesús Adrián Romero — Envíame A Mi"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x4  caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  Dm - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]  caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " La mies es mucha"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Em    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay gran necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           C              Gsus4 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y pocos obreros al campo van"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Hoy muchos se pierden"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viven sin dirección"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vagan como ovejas sin pastor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2 sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C Dm C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "yo iré por aquellos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "que vagan sin ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Paso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi, yo iré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  Dm - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]  caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " La mies es mucha"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Em    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay gran necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           C              Gsus4 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y pocos obreros al campo van"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Hoy muchos se pierden"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viven sin dirección"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vagan como ovejas sin pastor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C Dm C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "yo iré por aquellos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "que vagan sin ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Paso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi, yo iré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Em  F  C - G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Em  F  G - E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C     G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Heme aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C Dm C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "yo iré por aquellos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "que vagan sin ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Paso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Envíame a mi, yo iré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Outro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  Dm - C"
+    }
+  ]
+}

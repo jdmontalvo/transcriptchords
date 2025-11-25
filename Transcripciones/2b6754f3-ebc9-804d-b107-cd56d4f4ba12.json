@@ -1,0 +1,60 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Rey de Reyes Señor de Señores"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Rey de Reyes Señor de Señores "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gloria Aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo príncipe de paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gloria Aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

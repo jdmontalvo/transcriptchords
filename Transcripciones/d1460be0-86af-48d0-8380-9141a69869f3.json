@@ -1,7 +1,7 @@
 {
   "contenido": [
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "Miel San Marcos — No Hay Lugar Más Alto"
     },
     {
@@ -17,7 +17,7 @@
       "texto": "[Intro]x4"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "A  D"
     },
     {
@@ -29,7 +29,7 @@
       "texto": "[Verso]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A             E"
     },
     {
@@ -37,7 +37,7 @@
       "texto": "A tus pies arde mi corazón"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       F#m                D"
     },
     {
@@ -45,7 +45,7 @@
       "texto": "A tus pies entrego lo que soy"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      A             E"
     },
     {
@@ -53,7 +53,7 @@
       "texto": "Ese lugar de mi seguridad"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      F#m              D"
     },
     {
@@ -69,7 +69,7 @@
       "texto": "[Precoro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        D                              "
     },
     {
@@ -77,7 +77,7 @@
       "texto": "Me perdonaste"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                      E"
     },
     {
@@ -85,7 +85,7 @@
       "texto": "Me acercaste a tu presencia"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        F#m                       "
     },
     {
@@ -93,7 +93,7 @@
       "texto": "Me levantaste"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                    E"
     },
     {
@@ -109,7 +109,7 @@
       "texto": "[Coro]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A         D           "
     },
     {
@@ -117,7 +117,7 @@
       "texto": "No hay lugar más alto"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      E"
     },
     {
@@ -125,7 +125,7 @@
       "texto": "Más grande"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                F#m                    "
     },
     {
@@ -133,7 +133,7 @@
       "texto": "Que estar a tus pies"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                 A"
     },
     {
@@ -149,7 +149,7 @@
       "texto": "[Verso]Voz Christine D'Clario"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A             E"
     },
     {
@@ -157,7 +157,7 @@
       "texto": "A tus pies arde mi corazón"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       F#m                D"
     },
     {
@@ -165,7 +165,7 @@
       "texto": "A tus pies entrego lo que soy"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      A             E"
     },
     {
@@ -173,7 +173,7 @@
       "texto": "Ese lugar de mi seguridad"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      F#m              D"
     },
     {
@@ -189,7 +189,7 @@
       "texto": "[Precoro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        D                              "
     },
     {
@@ -197,7 +197,7 @@
       "texto": "Me perdonaste"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                      E"
     },
     {
@@ -205,7 +205,7 @@
       "texto": "Me acercaste a tu presencia"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        F#m                       "
     },
     {
@@ -213,7 +213,7 @@
       "texto": "Me levantaste"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                    E"
     },
     {
@@ -229,7 +229,7 @@
       "texto": "[Coro]x4"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A         D           "
     },
     {
@@ -237,7 +237,7 @@
       "texto": "No hay lugar más alto"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      E"
     },
     {
@@ -245,7 +245,7 @@
       "texto": "Más grande"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                F#m                    "
     },
     {
@@ -253,7 +253,7 @@
       "texto": "Que estar a tus pies"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                 A"
     },
     {
@@ -269,7 +269,7 @@
       "texto": "[Puente]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "    D           E        "
     },
     {
@@ -277,7 +277,7 @@
       "texto": "Y aquí permaneceré"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     A   E     F#m"
     },
     {
@@ -285,7 +285,7 @@
       "texto": "Postrado a tus pies"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     D          E                 "
     },
     {
@@ -293,7 +293,7 @@
       "texto": "Y aquí permaneceré "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "               F#m7       A"
     },
     {
@@ -309,7 +309,7 @@
       "texto": "[Coro]x2 Sin batería"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A         D           "
     },
     {
@@ -317,7 +317,7 @@
       "texto": "No hay lugar más alto"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      E"
     },
     {
@@ -325,7 +325,7 @@
       "texto": "Más grande"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                F#m                    "
     },
     {
@@ -333,7 +333,7 @@
       "texto": "Que estar a tus pies"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                 A"
     },
     {
@@ -349,7 +349,7 @@
       "texto": "[Ministración]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "         D              E                F#m"
     },
     {
@@ -357,7 +357,7 @@
       "texto": "Oh Maestro, queremos estar en tu presencia"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  A"
     },
     {
@@ -365,7 +365,7 @@
       "texto": "No apartarnos de ti jamás"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "          D                   E"
     },
     {
@@ -373,7 +373,7 @@
       "texto": "Te anhelamos Señor, Tus hijos te adoran"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "             F#m               A"
     },
     {
@@ -381,7 +381,7 @@
       "texto": "Tú eres El Amado, Eres el deseado de nuestro corazón"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "   D"
     },
     {
@@ -397,7 +397,7 @@
       "texto": "[Ministración]x4"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "D          E        F#m          C#m"
     },
     {
@@ -413,7 +413,7 @@
       "texto": "[Coro]x4 1 Picado 2 normal 1 sin batería"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        A         D           "
     },
     {
@@ -421,7 +421,7 @@
       "texto": "No hay lugar más alto"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      E"
     },
     {
@@ -429,7 +429,7 @@
       "texto": "Más grande"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                F#m                    "
     },
     {
@@ -437,7 +437,7 @@
       "texto": "Que estar a tus pies"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                 A"
     },
     {

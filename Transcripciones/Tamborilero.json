@@ -62,7 +62,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "ropopompom, ropopompom"
+      "texto": "Ropopompom, Ropopompom"
     },
     {
       "tipo": "acorde",
@@ -74,14 +74,18 @@
     },
     {
       "tipo": "letra",
-      "texto": "El niño Dios"
+      "texto": "         Gb"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "El niño Dios"
     },
     {
       "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
       "texto": "Gb                  "
     },
     {
@@ -89,43 +93,43 @@
       "texto": "Yo quisiera poner a tus pies                            "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Algún presente que te agrade señor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Db         "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "mas tu ya sabes que soy pobre también"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "        Gb             B       "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "y no poseo mas que un viejo tambor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " Gb          Db"
     },
     {
-      "tipo": "letra",
-      "texto": "ropopompom, ropopompom"
+      "tipo": "acorde",
+      "texto": "Ropopompom, Ropopompom"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Gb                                 Db           "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "En tu honor frente al portal tocaré   "
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "          Gb"
     },
     {
@@ -137,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "[Instrumental]"
     },
     {
@@ -149,23 +153,23 @@
       "texto": "Db"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Gb B  Gb  Db"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Gb                                Db"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Cuando Dios me vio tocando ante él"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "       Gb"
     },
     {
@@ -177,11 +181,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "[Verso] sube intensidad y velocidad"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G                   "
     },
     {
@@ -189,43 +193,43 @@
       "texto": "El camino que lleva a Belén"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Lo voy marcando con mi viejo tambor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "D               "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": " Nada hay mejor que te pueda ofrecer"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "           G           C      "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Su ronco acento es un canto de amor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": " G           D"
     },
     {
-      "tipo": "letra",
-      "texto": "ropopompom, ropopompom"
+      "tipo": "acorde",
+      "texto": "Ropopompom, Ropopompom"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G                                 D        "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Cuando Dios me vio tocando ante él"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "       G"
     },
     {

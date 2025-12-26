@@ -1,6 +1,14 @@
 {
   "contenido": [
     {
+      "tipo": "titulo",
+      "texto": "Jesús Adrián Romero — Soy Libre De Aflicción"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
     },
@@ -101,7 +109,7 @@
       "texto": " Mi silicio rompiste"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "C                Bm  (D D D Corte)"
     },
     {
@@ -122,7 +130,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Mi corazon agradecido está por tu bondad senor"
+      "texto": "Mi corazón agradecido está por tu bondad señor"
     },
     {
       "tipo": "acorde",
@@ -138,7 +146,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "nueva canción desde mi corazon"
+      "texto": "nueva canción desde mi corazón"
     },
     {
       "tipo": "letra",
@@ -221,7 +229,7 @@
       "texto": " Mi silicio rompiste"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "C                Bm  (D D D Corte)"
     },
     {
@@ -242,7 +250,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Mi corazon agradecido está por tu bondad senor"
+      "texto": "Mi corazón agradecido está por tu bondad señor"
     },
     {
       "tipo": "acorde",
@@ -258,7 +266,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "nueva canción desde mi corazon"
+      "texto": "nueva canción desde mi corazón"
     },
     {
       "tipo": "letra",
@@ -298,7 +306,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Mi corazon agradecido está por tu bondad senor"
+      "texto": "Mi corazón agradecido está por tu bondad señor"
     },
     {
       "tipo": "acorde",
@@ -314,7 +322,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "nueva canción desde mi corazon"
+      "texto": "nueva canción desde mi corazón"
     },
     {
       "tipo": "letra",
@@ -330,11 +338,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "          Em"
+      "texto": "          Em     E - D - A - G - Em"
     },
     {
-      "tipo": "acorde",
-      "texto": " Desde mi corazon    (E-D-A-G- Em)"
+      "tipo": "letra",
+      "texto": " Desde mi corazon  "
     }
   ]
 }

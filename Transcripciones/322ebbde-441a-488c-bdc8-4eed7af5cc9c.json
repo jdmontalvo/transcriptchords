@@ -1,0 +1,308 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marcos Witt — Derrama De Tu Fuego"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro batería] x1"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro acordeón]"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] x4 2 suaves, 2 fuertes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm Bb - Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Cm          Bb   Fm     Cm      Bb  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grande, poderoso eres tú, mi Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Cm          Bb  Fm     Cm       Bb  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuerte, poderoso eres tu, mi Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo reguetón "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm               Eb        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu Fuego sobrenatural"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm                Eb          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu gloria sobre este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]  ritmo intro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb   Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos mas de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos mas de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos mas de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Cm     Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu fuego hoy señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 ritmo intro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm Bb - Fm "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo reguetón "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm               Eb        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu Fuego sobrenatural"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm                Eb          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu gloria sobre este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb   Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Cm     Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu fuego hoy señor  /*Corte*/"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo acordeón] bombo negras"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo guitarra] ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C C C Bb Eb C   G Bb C D Eb D C    Bb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C C C Bb Eb C   Bb C Eb G Bb A G"
+    },
+    {
+      "tipo": "tag",
+      "texto": "Salida "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C G F Eb  C G F Eb  C "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo reguetón "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm               Eb        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu Fuego sobrenatural"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Cm                Eb          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu gloria sobre este lugar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb   Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb  Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm               Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelamos más de ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Cm     Bb    Fm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Derrama de tu fuego hoy señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 ritmo intro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm Bb - Fm "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

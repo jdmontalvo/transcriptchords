@@ -1,0 +1,436 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — Eres Rey De Los Cielos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "----inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A  E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Glorioso Salvador   Divino redentor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D                  A E D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Me pos-tra-re, ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                   F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Bendito hijo de Dios Hermoso rey de Sion"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D            A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Te ado-ra-re, y así declararé"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Eres rey de los cielos, eterno Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Exaltado por siempre, Jesús Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu gobiernas en toda la creación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Oh cordero inmolado, eres señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 entra batería ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A  E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo normal, adornos toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Glorioso Salvador   Divino redentor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D                 A E D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Me pos-tra-re, ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                    F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Bendito hijo de Dios  Hermoso rey de Sion"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D            A          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Te ado-ra-re, y así declararé"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] Sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Eres rey de los cielos, eterno Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Exaltado por siempre, Jesús Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu gobiernas en toda la creación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Oh cordero inmolado, eres señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro 2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Las naciones enteras se postrarán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y tu nombre por siempre bendecirán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por los siglos tu gloria, nos llenará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y veremos tu fuerza, y majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#m     Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Eres rey de los cielos, eterno Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Exaltado por siempre, Jesús Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu gobiernas en toda la creación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Oh cordero inmolado, eres señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro 2] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Las naciones enteras se postrarán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y tu nombre por siempre bendecirán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por los siglos tu gloria, nos llenará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y veremos tu fuerza, y majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Eres rey de los cielos, eterno Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Exaltado por siempre, Jesús Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu gobiernas en toda la creación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Oh cordero inmolado, eres señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro 2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Las naciones enteras se postrarán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y tu nombre por siempre bendecirán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por los siglos tu gloria, nos llenará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y veremos tu fuerza, y majestad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#m  Bm  D  Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A  E - D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A"
+    }
+  ]
+}

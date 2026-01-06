@@ -14,10 +14,10 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "---Inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -57,7 +57,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -97,7 +97,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]"
     },
     {
@@ -109,7 +109,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -149,7 +149,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -189,7 +189,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2"
     },
     {
@@ -201,48 +201,80 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]"
+      "tipo": "tag",
+      "texto": "[Puente] creciendo corcheas"
     },
     {
       "tipo": "acorde",
-      "texto": "       F           G            Am               Em"
+      "texto": "       F           G            "
     },
     {
       "tipo": "letra",
-      "texto": "Aunque pase por el valle de las sombra y muerte"
+      "texto": "Aunque pase por el valle"
     },
     {
       "tipo": "acorde",
-      "texto": "       F          G         Am          Em"
+      "texto": "       Am               Em"
     },
     {
       "tipo": "letra",
-      "texto": "Ya no temo, yo confío, Tú estás conmigo"
+      "texto": "De las sombra y muerte"
     },
     {
       "tipo": "acorde",
-      "texto": "      F           G           Am          Em"
+      "texto": "       F          G         "
     },
     {
       "tipo": "letra",
-      "texto": "Y si caigo o me pierdo, vienes a buscarme"
+      "texto": "Ya no temo, yo confío"
     },
     {
       "tipo": "acorde",
-      "texto": "        F             G            Am            Em"
+      "texto": "      Am          Em"
     },
     {
       "tipo": "letra",
-      "texto": "No me olvidas y me encuentras Y nunca te rindes"
+      "texto": "Tú estás conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F           G          "
+    },
+    {
+      "tipo": "tag",
+      "texto": "Y si caigo o me pierdo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am          Em"
     },
     {
       "tipo": "letra",
+      "texto": "Vienes a buscarme"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F             G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me olvidas y me encuentras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am            Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y nunca te rindes"
+    },
+    {
+      "tipo": "acorde",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2  sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -281,8 +313,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "Acaba en F"
+      "tipo": "tag",
+      "texto": "[Final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
     }
   ]
 }

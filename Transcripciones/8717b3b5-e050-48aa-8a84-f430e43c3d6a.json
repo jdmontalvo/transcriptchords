@@ -1,0 +1,452 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jesús Adrián Romero — A Sus Pies"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "tag",
+      "texto": "---Inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   Dm   E     Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am G  F   Esus4   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                               Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Cuando el mundo te inunda de fatalidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G               G/B          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y te agobia la vida con su mucho afán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                           Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y se llena tu alma de preocupación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm7b5                          Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Y se seca la fuente de tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                  A/C#         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Cuando quieras huir porque no puedes más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                  G/B          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Porque sólo te sientes entre los demás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                                   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y no hay más en tus ojos brillo y emoción"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm7b5                            Esus4       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Y se cierra tu boca porque no hay canción"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]  inicia ritmo suave caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes sentarte a sus pies"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y de sus manos beber"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D              F       Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La plenitud que tu alma necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes sentarte a sus pies"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y cada día tener"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  D              F          Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Una nueva canción y nueva vida"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] sube intensidad "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am              Dm    E7            Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " A sus pies hay paz, gracia y bendición"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F             Dm     B7         Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A sus pies tendrás, luz y dirección"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                Dm   B7                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  La plenitud en él       nunca se agotará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F            E           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Puedes descansar en su presencia"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] solo marcando hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am     G    F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm    F6/C   Bm7b5"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo suave caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                               Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Cuando el mundo te inunda de fatalidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G               G/B          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y te agobia la vida con su mucho afán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                           Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y se llena tu alma de preocupación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm7b5                          Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Y se seca la fuente de tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                  A/C#         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Cuando quieras huir porque no puedes más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                  G/B          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Porque sólo te sientes entre los demás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                                   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Y no hay más en tus ojos brillo y emoción"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm7b5                            Esus4       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Y se cierra tu boca porque no hay canción"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]  sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes sentarte a sus pies"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y de sus manos beber"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D              F       Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La plenitud que tu alma necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes sentarte a sus pies"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y cada día tener"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  D              F          Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Una nueva canción y nueva vida"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] mantiene intensidad fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am              Dm    E7            Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " A sus pies hay paz, gracia y bendición"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F             Dm     B7         Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A sus pies tendrás, luz y dirección"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                Dm   B7                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  La plenitud en él       nunca se agotará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F            E           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Puedes descansar en su presencia"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "----Modula a Bbm"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental] fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm     Ebm     F7     Bbm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F#     Ebm     Cm7b5  F      F7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "----Modula a Am"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] mantiene intensidad fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am              Dm    E7            Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " A sus pies hay paz, gracia y bendición"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F             Dm     B7         Esus4  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A sus pies tendrás, luz y dirección"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                Dm   B7                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  La plenitud en él       nunca se agotará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Puedes descansar............"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F   Dm    Bm7b5    Esus4    E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " En su presencia"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jesús Adrián Romero — Un Destello De Tu Gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A  E  F#m  D "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                          C#m   F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un momento en Tu presencia aahhh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un instante de Tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                         C#m  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un destello de Tu gloria aahh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un minuto nada más"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo daría, no importaría"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que pasar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E                D  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que esperar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                          C#m   F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un momento en Tu presencia aahhh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un instante de Tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                         C#m  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un destello de Tu gloria aahh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un minuto nada más"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo daría, no importaría"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que pasar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E                D  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que esperar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E         A            C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo hambre de Ti, de Tu presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m             D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu fragancia, de Tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A             C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hambre que duele, que debilita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que desespera por Ti "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                          C#m   F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un momento en Tu presencia aahhh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un instante de Tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                         C#m  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por un destello de Tu gloria aahh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por un minuto nada más"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo daría, no importaría"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que pasar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E                D  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo que tenga que esperar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E         A            C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo hambre de Ti, de Tu presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m             D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu fragancia, de Tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A             C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hambre que duele, que debilita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que desespera por Ti "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                A    C#7             "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo hambre de ti   ohoh "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hambre de ti señor   "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Final] "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Juan Carlos Alvarado — Eres Señor Vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (150 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x3  1 suave,2 ritmo suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7      E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto     y te alabo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm7   C       Fmaj7         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque sé  que me proteges"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm7      Gsus4  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque estoy de tu lado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7   E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto y te adoro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm7     C    Fmaj7      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque se que nunca jamás "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm7      Gsus4  G   Esus4 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me dejaras desamparado. (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - F   G - Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                            G - F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres señor vencedor el invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres campeón ganador en batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                 E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres mi Rey y mi Dios,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am - G – F -E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "el que cuida a su pueblo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                            G - F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres señor vencedor el invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres campeón ganador en batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                 E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres mi Rey y mi Dios,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Am  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "el que cuida a su pueblo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] Disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7      E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto     y te alabo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm7   C       Fmaj7         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque sé  que me proteges"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm7      Gsus4  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque estoy de tu lado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7   E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto y te adoro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm7     C    Fmaj7      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque se que nunca jamás "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm7      Gsus4  G  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me dejaras desamparado. "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - F   G - Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                            G - F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres señor vencedor el invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres campeón ganador en batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                 E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres mi Rey y mi Dios,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am - G – F -E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "el que cuida a su pueblo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                            G - F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres señor vencedor el invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres campeón ganador en batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                 E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres mi Rey y mi Dios,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Am  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "el que cuida a su pueblo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4  2 disco,2 picado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7      E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto     y te alabo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm7   C       Fmaj7         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque sé  que me proteges"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm7      Gsus4  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque estoy de tu lado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C     Bm7   E7     Am7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso yo te canto y te adoro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm7     C    Fmaj7      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque se que nunca jamás "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm7      Gsus4  G   Esus4 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me dejaras desamparado. (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - F   G - Am"
+    }
+  ]
+}

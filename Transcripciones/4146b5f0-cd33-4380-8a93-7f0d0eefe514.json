@@ -1,0 +1,444 @@
+{
+  "contenido": [
+    {
+      "tipo": "letra",
+      "texto": "New Wine — Incomprensible Amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m E B F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No entiendo cómo siendo un pecador"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuiste a la cruz por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo entregaste todo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No te reservaste nada"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Conociendo la maldad que había en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y todos mis errores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me despreciaste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si no que me abrasaste"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Diste tu sangre por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Diste tu vida por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo diste todo por mi,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] --inicia batería, suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m E B F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] --juego toms suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No entiendo cómo siendo un pecador"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuiste a la cruz por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo entregaste todo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No te reservaste nada"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Conociendo la maldad que había en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y todos mis errores"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me despreciaste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si no que me abrasaste"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 subiendo en corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Diste tu sangre por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Diste tu vida por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo diste todo por mi,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G#m         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor es alto Es profundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y es ancho Sobrenatural"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G#m  E           B F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Sobrenatural     Sobrenatural"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E                          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  En cada clavo que traspasó tu cuerpo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F# D#m              G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pensabas en mi    Lo hacías por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E                      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En cada latigazo que te dieron"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F# D#m              G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pensabas en mi    Lo hacías por mi"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      E                          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  En cada clavo que traspasó tu cuerpo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F# D#m              G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pensabas en mi    Lo hacías por mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E                      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En cada latigazo que te dieron"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F# D#m              E    F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pensabas en mi    Lo hacías por mi (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G#m         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor es alto Es profundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y es ancho Sobrenatural"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G#m  E           B F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Sobrenatural     Sobrenatural"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G#m         E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor es alto Es profundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y es ancho Sobrenatural"
+    }
+  ]
+}

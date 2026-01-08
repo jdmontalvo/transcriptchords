@@ -1,0 +1,508 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Sublime Gracia"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (71 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Em  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alma estaba  rota y herida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pero tu gracia la restauró"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Manos vacías que tu llenaste"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy libre en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy libre en ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sublime gracia del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que a un pecador salvó uoh oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui ciego más hoy veo yo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Perdido y Él me halló"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora puedo ver ehhhhh ehh  er"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh puedo ver sus ojos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quebrantado fue ehhhhh ehh  eh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Em       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darnos su salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Em  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2] juego toms suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu no me juzgas por mis fracasos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú me aceptas tal como soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "toma mi vida como vasija"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D                Em     D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "para mostrar tu gloria en mi  uohhh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sublime gracia del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que a un pecador salvó uoh oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui ciego más hoy veo yo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Perdido y Él me halló"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora puedo ver ehhhhh ehh  er"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh puedo ver sus ojos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quebrantado fue ehhhhh ehh  eh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Em       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darnos su salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D Em C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Voces]x4 1 toms suave,2 crece corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  G    D    Em   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " OHHH ohoh OHHH ohoh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    G           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sublime gracia del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que a un pecador salvó uoh oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui ciego más hoy veo yo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Perdido y Él me halló"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora puedo ver ehhhhh ehh  er"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh puedo ver sus ojos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quebrantado fue ehhhhh ehh  eh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Em       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darnos su salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D Em C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Voces]x2 juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  G    D    Em   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " OHHH ohoh OHHH ohoh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 1 toms, 1 creciendo semi-corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    G           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sublime gracia del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Em          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que a un pecador salvó uoh oh oh oh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui ciego más hoy veo yo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Perdido y Él me halló"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x3 2 fuertes 1 sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora puedo ver ehhhhh ehh  er"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Em        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh puedo ver sus ojos de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quebrantado fue ehhhhh ehh  eh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Em       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darnos su salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

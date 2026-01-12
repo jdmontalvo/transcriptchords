@@ -17,8 +17,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2  inicia con ritmo"
+      "tipo": "tag",
+      "texto": "[Intro]x2  inicia con ritmo suave"
     },
     {
       "tipo": "acorde",
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -105,8 +105,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -173,8 +173,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso2]"
+      "tipo": "tag",
+      "texto": "[Verso2] ritmo suave"
     },
     {
       "tipo": "acorde",
@@ -218,7 +218,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Voy conquistar"
+      "texto": "Voy conquistar (sube intensidad)"
     },
     {
       "tipo": "acorde",
@@ -249,7 +249,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -321,7 +321,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]  Corte al inicio"
     },
     {
@@ -381,7 +381,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] "
     },
     {
@@ -449,7 +449,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

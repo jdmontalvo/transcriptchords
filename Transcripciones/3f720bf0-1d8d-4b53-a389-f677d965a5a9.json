@@ -17,8 +17,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro1]x2"
+      "tipo": "tag",
+      "texto": "[Intro1]x2  bombo negras"
     },
     {
       "tipo": "acorde",
@@ -29,8 +29,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro2]"
+      "tipo": "tag",
+      "texto": "[Intro2]  jalado"
     },
     {
       "tipo": "acorde",
@@ -45,8 +45,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -57,8 +57,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] disco"
     },
     {
       "tipo": "acorde",
@@ -89,8 +89,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]x2"
+      "tipo": "tag",
+      "texto": "[Precoro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -129,8 +129,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -169,8 +169,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2  disco"
     },
     {
       "tipo": "acorde",
@@ -181,8 +181,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2"
+      "tipo": "tag",
+      "texto": "[Puente]x2 1 bombo negras,1 disco"
     },
     {
       "tipo": "acorde",
@@ -221,8 +221,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -261,8 +261,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 polka(picado)"
     },
     {
       "tipo": "acorde",
@@ -273,8 +273,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 polka(picado)"
     },
     {
       "tipo": "acorde",
@@ -313,7 +313,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]x5"
     },
     {
@@ -329,11 +329,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro] "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "F E   A G#  C B A B "
     }
   ]

@@ -13,8 +13,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2  ritmo caja suave en  negras"
     },
     {
       "tipo": "acorde",
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]---Solo piano y batería"
     },
     {
@@ -57,7 +57,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2] Entra bajo y los demás"
     },
     {
@@ -89,7 +89,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -129,7 +129,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -173,7 +173,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -217,7 +217,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2  batería creciendo(corcheas)"
     },
     {
@@ -229,7 +229,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2 creciendo corcheas"
     },
     {
@@ -269,7 +269,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Pulsos]x2"
     },
     {
@@ -293,8 +293,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2  Ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -333,8 +333,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2"
+      "tipo": "tag",
+      "texto": "[Puente]x2  ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -373,7 +373,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Pulsos]x2"
     },
     {

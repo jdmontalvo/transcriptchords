@@ -13,15 +13,15 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro batería]"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "x4"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Refrain]x2"
     },
     {
@@ -41,7 +41,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -81,7 +81,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -121,7 +121,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -145,7 +145,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro1]"
     },
     {
@@ -185,7 +185,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso3]"
     },
     {
@@ -225,7 +225,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso4]"
     },
     {
@@ -265,7 +265,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -289,7 +289,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro1]"
     },
     {
@@ -333,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]"
     },
     {
@@ -365,7 +365,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro1]"
     },
     {
@@ -389,7 +389,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2"
     },
     {
@@ -401,7 +401,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2"
     },
     {
@@ -465,7 +465,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro3]x2"
     },
     {
@@ -489,7 +489,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]x3"
     },
     {
@@ -525,7 +525,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro1]"
     },
     {
@@ -549,7 +549,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2"
     },
     {
@@ -561,7 +561,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Refrain]x4"
     },
     {
@@ -581,7 +581,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro3]x2 baja intensidad"
     },
     {

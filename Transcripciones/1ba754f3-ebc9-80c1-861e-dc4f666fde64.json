@@ -17,7 +17,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "------------Bueno es Dios------------"
     },
     {
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -37,7 +37,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Pulsos]x2"
     },
     {
@@ -61,7 +61,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Pulsos2]x2"
     },
     {
@@ -101,7 +101,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4"
     },
     {
@@ -113,7 +113,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -157,7 +157,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] picado"
     },
     {
@@ -213,7 +213,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]x4  2 bombo negras, 2 picado"
     },
     {
@@ -229,7 +229,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "-------Grita, Canta, Danza------------"
     },
     {
@@ -237,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -257,7 +257,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -297,7 +297,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -317,7 +317,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {
@@ -333,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "-------Yo tengo gozo, tengo alegria------------"
     },
     {
@@ -341,7 +341,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -361,7 +361,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -453,7 +453,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -493,7 +493,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

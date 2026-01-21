@@ -1,15 +1,15 @@
 {
   "contenido": [
     {
+      "tipo": "titulo",
+      "texto": "Miel San Marcos — Viento Recio"
+    },
+    {
       "tipo": "letra",
       "texto": "Transcripción por David M Guitar (150 BPM)"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]2 suaves, corte 2 fuertes"
     },
     {
@@ -21,7 +21,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -45,7 +45,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -69,7 +69,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Corte]"
     },
     {
@@ -81,7 +81,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -121,7 +121,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -133,7 +133,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -157,7 +157,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -197,7 +197,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -209,7 +209,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2 baja intensidad"
     },
     {
@@ -221,7 +221,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Breakdown]x2"
     },
     {
@@ -233,7 +233,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2"
     },
     {
@@ -273,7 +273,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -313,7 +313,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
@@ -353,7 +353,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Final]"
     },
     {

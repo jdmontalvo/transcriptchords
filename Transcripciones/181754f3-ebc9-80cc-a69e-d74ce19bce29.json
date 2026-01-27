@@ -13,7 +13,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2 1 instrumentos, 1 voz(oh oh oh oh oh)"
     },
     {
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -65,7 +65,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]  notas fantasma caja"
     },
     {
@@ -133,7 +133,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]  Inicia ritmo"
     },
     {
@@ -173,7 +173,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -237,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental] aplausos y guitarra solamente,solo ride"
     },
     {
@@ -249,7 +249,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] solo aplausos y guitarra --1 ritmo"
     },
     {
@@ -325,7 +325,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]"
     },
     {
@@ -349,7 +349,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -413,7 +413,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2 bajar intensidad"
     },
     {
@@ -425,7 +425,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2]x4 2 sin batería--1 platos bombo a tiempo,1 bombo negras"
     },
     {
@@ -449,7 +449,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]x2  1/2 bombo negras, 1+1/2 bombo corcheas"
     },
     {
@@ -477,7 +477,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {

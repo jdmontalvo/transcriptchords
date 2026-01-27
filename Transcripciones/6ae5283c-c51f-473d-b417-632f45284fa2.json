@@ -21,7 +21,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]--sólo notas, no acordes"
     },
     {
@@ -57,7 +57,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -113,7 +113,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Paso] sólo notas"
     },
     {
@@ -153,7 +153,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -185,7 +185,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x2"
     },
     {
@@ -221,7 +221,7 @@
       "texto": "-------Aleluya------"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -233,7 +233,7 @@
       "texto": "                        (Paso)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -261,7 +261,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -333,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2   1 normal 1 picado"
     },
     {
@@ -369,7 +369,7 @@
       "texto": "------Cristo es mi Señor"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4 2 sólo guitarra 2 toda la banda"
     },
     {
@@ -381,7 +381,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -457,7 +457,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -529,7 +529,7 @@
       "texto": "-----Tú harás--------"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -561,7 +561,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -601,7 +601,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]"
     },
     {
@@ -613,7 +613,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] uno normal 1 contrapunto coro"
     },
     {
@@ -637,7 +637,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Final]"
     },
     {

@@ -21,7 +21,7 @@
       "texto": "---inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -97,7 +97,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -137,8 +137,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]--oh oh oh  --entra batería juego toms"
+      "tipo": "tag",
+      "texto": "[Intro]--oh oh oh--entra batería juego toms"
     },
     {
       "tipo": "acorde",
@@ -153,7 +153,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]--juego toms y creciendo"
     },
     {
@@ -217,7 +217,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] x2 --ritmo"
     },
     {
@@ -257,7 +257,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]--oh oh oh (bajar intensidad)"
     },
     {
@@ -269,7 +269,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] x4  2 suaves, 1 juego toms, 1 creciendo corcheas"
     },
     {
@@ -309,7 +309,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]"
     },
     {
@@ -321,7 +321,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -361,7 +361,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] x4"
     },
     {
@@ -401,7 +401,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x4  bajar intensidad, ministro puede continuar"
     },
     {
@@ -413,7 +413,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2] x3 --creciendo bombo negras juego toms"
     },
     {
@@ -453,7 +453,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] x3  1 creciendo semicorcheas,1 corcheas 1 suave"
     },
     {
@@ -493,7 +493,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x4 ohoh y aqui yo quiero estar"
     },
     {
@@ -505,7 +505,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -545,7 +545,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x3 2 fuertes 1 suave"
     },
     {

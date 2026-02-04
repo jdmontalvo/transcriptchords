@@ -1,0 +1,492 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Danilo Montero — Al Estar Aqui"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A   F#m   A    D    Amaj7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bm7   G   Esus4   E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A   F#m   D       D    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al estar en la presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de Tu divinidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D          Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y al contemplar la hermosura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Esus4 - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A         C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi espíritu se alegra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        D     Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm7      F#m      E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti      Te adoro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]  inicia ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando veo la grandeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu dulce amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D         Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y compruebo la pureza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Esus4 - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A          C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi espíritu se alegra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D      Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm7      F#m      E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti      Te adoro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Asus4   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y al estar   aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m7            D      Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Delante de Ti te adoraré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Postrado   ante Ti,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D          Esus4       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón te adora oh Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y siempre quiero estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y contemplar Tu santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Interludio] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  G   Em7  Bm7 - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1] ritmo suave caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al estar en la presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de Tu divinidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D          Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y al contemplar la hermosura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Esus4 - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A         C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi espíritu se alegra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        D     Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm7      F#m      E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti      Te adoro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando veo la grandeza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu dulce amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D         Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y compruebo la pureza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Esus4 - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De Tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A          C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi espíritu se alegra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D      Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En Tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm7      F#m      E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti      Te adoro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Asus4   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y al estar   aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m7            D      Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Delante de Ti te adoraré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Postrado   ante Ti,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D          Esus4       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi corazón te adora oh Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y siempre quiero estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para adorar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y contemplar Tu santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E                D     F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti   (Te adoro a Ti--segunda)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro] bajando intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm7        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoro a Ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D    Dm     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adooo--ooro a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

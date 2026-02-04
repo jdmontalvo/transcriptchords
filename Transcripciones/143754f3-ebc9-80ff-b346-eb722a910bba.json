@@ -1,0 +1,448 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — La Cosecha"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x3 1 sin batería, 1 hihat contra, 1 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am               F    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alza tus ojos y mira "
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La cosecha esta lista"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am              G       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El tiempo ha llegado "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La mies está madura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                F        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esfuérzate y sé valiente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levántate y predica"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am             G          "
+    },
+    {
+      "tipo": "letra",
+      "texto": "En todas las naciones "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que Cristo es la vida"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G F  G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y  será--a llena la tierra de su gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am G F  G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se cubrirá-a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E               Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como las aguas cubren la mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 1 solo hihat,1 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am               F    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alza tus ojos y mira "
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La cosecha esta lista"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am              G       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El tiempo ha llegado "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La mies está madura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                F        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esfuérzate y sé valiente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Levántate y predica"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am             G          "
+    },
+    {
+      "tipo": "letra",
+      "texto": "En todas las naciones "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que Cristo es la vida"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G F  G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y  será--a llena la tierra de su gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am G F  G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se cubrirá-a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E               Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como las aguas cubren la mar (corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] pulsos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E                Am  Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no hay otro nom--bre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E         Am    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dado a los hom--bres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm   Am   Am  F     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucri--sto es el Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G F  G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y  será--a llena la tierra de su gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am G F  G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se cubrirá-a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E               Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como las aguas cubren la mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F        G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Avívame, Avívame, con tu espíritu"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F        G     E        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Avívame, Avívame, con tu poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo](igual que el coro)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Am  G  F G   Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Am G F  G    E   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G F  G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y  será--a llena la tierra de su gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am G F  G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se cubrirá-a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E               Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como las aguas cubren la mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2]x5 2 normal 2 capela 1 normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F        G    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Avívame, Avívame, con tu espíritu"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F        G     E        Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Avívame, Avívame, con tu poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G F  G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y  será--a llena la tierra de su gloria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am G F  G           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se cubrirá-a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E               Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como las aguas cubren la mar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 1 hihat a contra,3 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   G - Am"
+    }
+  ]
+}

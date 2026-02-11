@@ -21,7 +21,7 @@
       "texto": "---Inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro] guitarra"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -105,7 +105,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -129,7 +129,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro] inicia batería..suave con Ride"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]--juego toms y caja"
     },
     {
@@ -213,7 +213,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4"
     },
     {
@@ -237,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo] guitarra"
     },
     {
@@ -249,7 +249,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x4 1 solo ride,1 bombo corcheas, 2 creciendo semicorcheas"
     },
     {
@@ -273,7 +273,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4"
     },
     {
@@ -297,7 +297,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4 Oh oh oh  2 fuertes 2 suaves"
     },
     {

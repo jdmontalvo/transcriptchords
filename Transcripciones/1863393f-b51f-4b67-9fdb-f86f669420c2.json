@@ -1,15 +1,15 @@
 {
   "contenido": [
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "Transcripción por David M Guitar"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "--inicia sin batería--"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -21,31 +21,47 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": "       C#m            G#m     A        C#m   B"
+      "texto": "       C#m            G#m    "
     },
     {
       "tipo": "letra",
-      "texto": "En mi corazón hay un clamor, deseo insacia---ble"
+      "texto": "En mi corazón hay un clamor"
     },
     {
       "tipo": "acorde",
-      "texto": "    C#m          G#m       A            C#m    B"
+      "texto": "  A       C#m   B"
     },
     {
       "tipo": "letra",
-      "texto": "Me rindo a ti mi Dios, Entregado iré en pos de ti"
+      "texto": "Deseo insacia---ble"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#m          G#m       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me rindo a ti mi Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A            C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entregado iré en pos de ti"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -62,19 +78,19 @@
     },
     {
       "tipo": "letra",
-      "texto": "Pues su sed  Saciarás"
+      "texto": "Pues su sed  saciarás"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": " C#m                       B"
+      "texto": "C#m                       B"
     },
     {
       "tipo": "letra",
@@ -109,7 +125,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro] --entra batería juego toms"
     },
     {
@@ -121,31 +137,47 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] --juego redoblante"
     },
     {
       "tipo": "acorde",
-      "texto": "       C#m            G#m     A        C#m   B"
+      "texto": "       C#m            G#m    "
     },
     {
       "tipo": "letra",
-      "texto": "En mi corazón hay un clamor, deseo insacia---ble"
+      "texto": "En mi corazón hay un clamor"
     },
     {
       "tipo": "acorde",
-      "texto": "    C#m          G#m       A            C#m    B"
+      "texto": "  A       C#m   B"
     },
     {
       "tipo": "letra",
-      "texto": "Me rindo a ti mi Dios, Entregado iré en pos de ti"
+      "texto": "Deseo insacia---ble"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#m          G#m       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me rindo a ti mi Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A            C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entregado iré en pos de ti"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]---creciendo"
     },
     {
@@ -169,12 +201,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 --ritmo"
     },
     {
       "tipo": "acorde",
-      "texto": " C#m                       B"
+      "texto": "C#m                       B"
     },
     {
       "tipo": "letra",
@@ -209,7 +241,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]"
     },
     {
@@ -221,8 +253,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x4 corte en el tercero"
+      "tipo": "tag",
+      "texto": "[Puente]x4 corte en el 3ro"
     },
     {
       "tipo": "acorde",
@@ -261,12 +293,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] x4"
     },
     {
       "tipo": "acorde",
-      "texto": " C#m                       B"
+      "texto": "C#m                       B"
     },
     {
       "tipo": "letra",
@@ -301,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] x3"
     },
     {
@@ -341,12 +373,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] x2 baja intensidad"
     },
     {
       "tipo": "acorde",
-      "texto": " C#m                       B"
+      "texto": "C#m                       B"
     },
     {
       "tipo": "letra",

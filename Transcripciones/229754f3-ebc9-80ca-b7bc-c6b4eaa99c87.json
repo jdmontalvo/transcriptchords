@@ -38,11 +38,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Más que un anhelo,  mas que un deseo"
+      "texto": " Más que un anhelo,  más que un deseo"
     },
     {
       "tipo": "acorde",
-      "texto": "G#m      F#        E"
+      "texto": "G#m      F#          E"
     },
     {
       "tipo": "letra",
@@ -50,11 +50,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m        B   C#m       E"
+      "texto": "G#m        B    C#m           E"
     },
     {
       "tipo": "letra",
-      "texto": " Hambre de verte de conocerte"
+      "texto": " Hambre de verte   de conocerte"
     },
     {
       "tipo": "acorde",
@@ -70,31 +70,47 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]"
+      "texto": "[Coro]  --intensidad media"
     },
     {
       "tipo": "acorde",
-      "texto": " G#m   B  C#m        E  G#m   B     F#"
+      "texto": "G#m    B  C#m        E  "
     },
     {
       "tipo": "letra",
-      "texto": "Llénanos,    de tu amor   sácianos señor"
+      "texto": " Llénanos,    de tu amor"
     },
     {
       "tipo": "acorde",
-      "texto": "G#m    B  C#m       E   G#m      B    F#"
+      "texto": "G#m     B      F#"
     },
     {
       "tipo": "letra",
-      "texto": " Danos más   de tu luz,    De tu plenitud"
+      "texto": "   Sácianos señor"
     },
     {
       "tipo": "letra",
+      "texto": "G#m    B  C#m       E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Danos más   de tu luz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m        B      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    De tu plenitud"
+    },
+    {
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Verso2]"
+      "texto": "[Verso2] --caja suave"
     },
     {
       "tipo": "acorde",
@@ -113,7 +129,7 @@
       "texto": " No separarnos ya más"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      B   C#m          E"
     },
     {
@@ -122,54 +138,70 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m      F#       E"
+      "texto": "G#m       F#       E"
     },
     {
       "tipo": "letra",
-      "texto": "Que no vacilan jamás"
+      "texto": " Que no vacilan jamás"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]"
+      "texto": "[Coro] --intensidad media"
+    },
+    {
+      "tipo": "letra",
+      "texto": "G#m    B  C#m        E  "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Llénanos,    de tu amor"
     },
     {
       "tipo": "acorde",
-      "texto": " G#m   B  C#m        E  G#m   B     F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Llénanos,    de tu amor   sácianos señor"
+      "texto": "G#m     B      F#"
     },
     {
       "tipo": "acorde",
-      "texto": "G#m    B  C#m       E   G#m      B    F#"
+      "texto": "   Sácianos señor"
     },
     {
       "tipo": "letra",
-      "texto": " Danos más   de tu luz,    De tu plenitud"
+      "texto": "G#m    B  C#m       E   "
     },
     {
       "tipo": "letra",
+      "texto": " Danos más   de tu luz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m        B      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    De tu plenitud"
+    },
+    {
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Solo]  --batería sube intensidad----"
+      "texto": "[Solo]  --sube intensidad"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m  B  C#m  E     G#m  B  F#"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m  B  C#m  E F#  G#m  B  F#  E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -178,11 +210,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#                  E                 G#m   F#"
+      "texto": "F#                      E                "
     },
     {
       "tipo": "letra",
-      "texto": " Tu presencia es mi alimento mi porción"
+      "texto": " Tu presencia es mi alimento"
+    },
+    {
+      "tipo": "letra",
+      "texto": "          G#m - F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi porción"
     },
     {
       "tipo": "acorde",
@@ -193,7 +233,7 @@
       "texto": "La grosura que alimenta el corazón"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -201,20 +241,36 @@
       "texto": "[Coro]"
     },
     {
-      "tipo": "acorde",
-      "texto": " G#m   B  C#m        E  G#m   B     F#"
+      "tipo": "letra",
+      "texto": "G#m    B  C#m        E  "
     },
     {
       "tipo": "letra",
-      "texto": "Llénanos,    de tu amor   sácianos señor"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G#m    B  C#m       E   G#m      B    F#"
+      "texto": " Llénanos,    de tu amor"
     },
     {
       "tipo": "letra",
-      "texto": " Danos más   de tu luz,    De tu plenitud"
+      "texto": "G#m     B      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Sácianos señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "G#m    B  C#m       E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Danos más   de tu luz"
+    },
+    {
+      "tipo": "letra",
+      "texto": "G#m        B      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    De tu plenitud"
     },
     {
       "tipo": "letra",
@@ -222,18 +278,18 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Verso1]  bajar intensidad y relentizar"
+      "texto": "[Verso1]  bajar intensidad y velocidad"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m            B   C#m           E"
     },
     {
       "tipo": "letra",
-      "texto": " Más que un anhelo,  mas que un deseo"
+      "texto": " Más que un anhelo,  más que un deseo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "G#m      F#        E"
     },
     {

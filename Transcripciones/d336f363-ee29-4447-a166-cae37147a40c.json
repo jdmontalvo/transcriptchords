@@ -17,7 +17,7 @@
       "texto": "--Inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -69,7 +69,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]   --Creciendo corcheas"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  Sube intensidad"
     },
     {
@@ -173,7 +173,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -245,7 +245,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -277,8 +277,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro2] ---solo batería--"
+      "tipo": "tag",
+      "texto": "[Coro2] ---juego toms"
     },
     {
       "tipo": "acorde",
@@ -318,14 +318,14 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "---Modula a "
     },
     {
-      "tipo": "letra",
-      "texto": "---Modula a F#m----"
+      "tipo": "acorde",
+      "texto": "F#m"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]x4"
     },
     {
@@ -357,7 +357,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]   ---baja intensidad"
     },
     {

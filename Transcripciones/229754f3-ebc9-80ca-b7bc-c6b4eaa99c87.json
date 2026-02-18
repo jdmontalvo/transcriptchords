@@ -13,7 +13,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]   --batería/pad suave----"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -69,7 +69,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]  --intensidad media"
     },
     {
@@ -89,7 +89,7 @@
       "texto": "   Sácianos señor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m    B  C#m       E   "
     },
     {
@@ -109,7 +109,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2] --caja suave"
     },
     {
@@ -129,7 +129,7 @@
       "texto": " No separarnos ya más"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m      B   C#m          E"
     },
     {
@@ -149,11 +149,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] --intensidad media"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m    B  C#m        E  "
     },
     {
@@ -169,7 +169,7 @@
       "texto": "   Sácianos señor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m    B  C#m       E   "
     },
     {
@@ -189,15 +189,15 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]  --sube intensidad"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m  B  C#m  E     G#m  B  F#"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m  B  C#m  E F#  G#m  B  F#  E"
     },
     {
@@ -205,7 +205,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
@@ -217,7 +217,7 @@
       "texto": " Tu presencia es mi alimento"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "          G#m - F#"
     },
     {
@@ -237,11 +237,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m    B  C#m        E  "
     },
     {
@@ -249,7 +249,7 @@
       "texto": " Llénanos,    de tu amor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m     B      F#"
     },
     {
@@ -257,7 +257,7 @@
       "texto": "   Sácianos señor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m    B  C#m       E   "
     },
     {
@@ -265,7 +265,7 @@
       "texto": " Danos más   de tu luz"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m        B      F#"
     },
     {
@@ -277,11 +277,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]  bajar intensidad y velocidad"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m            B   C#m           E"
     },
     {
@@ -289,7 +289,7 @@
       "texto": " Más que un anhelo,  más que un deseo"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "G#m      F#        E"
     },
     {

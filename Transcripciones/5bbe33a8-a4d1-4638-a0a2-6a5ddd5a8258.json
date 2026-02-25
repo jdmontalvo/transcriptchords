@@ -21,7 +21,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -77,7 +77,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  --juego platos"
     },
     {
@@ -109,7 +109,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]  --baja intensidad"
     },
     {
@@ -121,7 +121,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] (entra batería)"
     },
     {
@@ -161,7 +161,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4  1 juego toms,1 creciendo,2 ritmo doble caja"
     },
     {
@@ -193,7 +193,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x2"
     },
     {
@@ -217,7 +217,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x4 2 suaves,1 juego toms,1 creciendo semicorcheas"
     },
     {
@@ -257,7 +257,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -289,7 +289,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]x2"
     },
     {

@@ -13,8 +13,8 @@
       "texto": "Transcriipción por David M Guitar"
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 --toms suave"
     },
     {
       "tipo": "acorde",
@@ -25,8 +25,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] --toms suave"
     },
     {
       "tipo": "acorde",
@@ -66,7 +66,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "soy tu salvador soy tu redentor"
+      "texto": "soy tu salvador soy tu redentor --caja suave"
     },
     {
       "tipo": "acorde",
@@ -89,8 +89,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro] --caja suave"
     },
     {
       "tipo": "acorde",
@@ -113,8 +113,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] Sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -153,7 +153,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x3  2 fuertes 1 suave"
     },
     {
@@ -165,8 +165,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] --caja normal ritmo suave"
     },
     {
       "tipo": "acorde",
@@ -229,7 +229,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -253,8 +253,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -293,7 +293,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x4"
     },
     {
@@ -305,8 +305,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro] juego toms"
     },
     {
       "tipo": "acorde",
@@ -329,8 +329,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 Sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -369,7 +369,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[PosCoro]x2"
     },
     {
@@ -385,7 +385,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4"
     },
     {
@@ -397,7 +397,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro suave]"
     },
     {

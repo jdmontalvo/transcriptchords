@@ -2,11 +2,11 @@
   "contenido": [
     {
       "tipo": "titulo",
-      "texto": "Rojo — No Me Soltarás"
+      "texto": "Blest — Dios De Esta Ciudad"
     },
     {
       "tipo": "letra",
-      "texto": "Transcripción por David M Guitar"
+      "texto": "Transcripción por David M Guitar (79 BPM)"
     },
     {
       "tipo": "letra",
@@ -14,59 +14,331 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Intro] inicia sin batería"
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "B  B"
+      "texto": "Bbm Ab Gb"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": "         B"
+      "texto": "                    Bbm"
     },
     {
       "tipo": "letra",
-      "texto": "Aunque yo esté en valle"
-    },
-    {
-      "tipo": "letra",
-      "texto": "de la muerte y dolor"
+      "texto": "Tú eres rey de este pueblo"
     },
     {
       "tipo": "acorde",
-      "texto": "     G#m"
+      "texto": "                     Db"
     },
     {
       "tipo": "letra",
-      "texto": "Tu amor me quita todo temor"
+      "texto": "Eres Dios en esta ciudad"
     },
     {
       "tipo": "acorde",
-      "texto": "                B"
+      "texto": "              Gb              Gb"
     },
     {
       "tipo": "letra",
-      "texto": "Y si llego a estar en el"
-    },
-    {
-      "tipo": "letra",
-      "texto": "centro de la tempestad"
+      "texto": "El Señor de esta nación, Eres Dios"
     },
     {
       "tipo": "acorde",
-      "texto": "    G#m"
+      "texto": "                 Bbm"
     },
     {
       "tipo": "letra",
-      "texto": "No dudaré por que estas aquí"
+      "texto": "Eres nuestra esperanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres luz en la oscuridad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Gb         Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres paz al cansado eres Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm     Ab       Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro como tu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Grandes cosas vienen ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas Dios hará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Db    Ab  Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en este pueblo-o-ooo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] --entra batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Bbm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú eres rey de este pueblo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios en esta ciudad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Gb              Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Señor de esta nación, Eres Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Bbm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres nuestra esperanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres luz en la oscuridad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Gb         Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres paz al cansado eres Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro 2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm     Ab       Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro como tu"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm     Ab       Gb     Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro como tu----uuu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Grandes cosas vienen ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas Dios hará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Db    Ab  Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en este pueblo-o-ooo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro incompleto]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Grandes cosas vienen ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Ab                         Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas Dios hará----aaaaaa"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Db   Gb   Db Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm     Ab       Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay otro como tu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x5 1 suave 1 creciendo 2 fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Grandes cosas vienen ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas Dios hará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Db    Ab  Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en este pueblo-o-ooo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Db Gb Db Gb"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm Gb Db Gb Db"
     },
     {
       "tipo": "letra",
@@ -74,39 +346,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Precoro] --inicia ritmo"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "         G#m F#   B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y no temeré  del mal"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "               G#m F#    B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Pues mi Dios conmi--go está"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "             G#m F#   B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y si Dios conmi--go está"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "              F#               E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "De quién temeré?, de quién temeré?"
+      "texto": ""
     },
     {
       "tipo": "letra",
@@ -114,343 +354,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Coro] sube intensidad"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en la calma la tormenta"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en lo alto en lo bajo"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E                    B F# E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Dios nunca me dejarás"
-    },
-    {
-      "tipo": "letra",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "[Verso2]"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "            B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Puedo ver la luz que se acerca"
-    },
-    {
-      "tipo": "letra",
-      "texto": "al que busca de ti"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "    G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Gloriosa luz cual otra no hay"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "          B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y terminarán los problemas"
-    },
-    {
-      "tipo": "letra",
-      "texto": " mientras llega el fin"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "     G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Viviremos conociéndote a ti"
-    },
-    {
-      "tipo": "letra",
       "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Precoro]"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "         G#m F#   B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y no temeré  del mal"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "               G#m F#    B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Pues mi Dios conmi--go está"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "             G#m F#   B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y si Dios conmi--go está"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "              F#               E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "De quién temeré?, de quién temeré?"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Coro]"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en la calma la tormenta"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en lo alto en lo bajo"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E                    B F# E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Dios nunca me dejarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Puente]x2"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "                B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y puedo ver la luz que se"
-    },
-    {
-      "tipo": "letra",
-      "texto": "acerca al que busca de ti"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "         G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Y terminarán los problemas"
-    },
-    {
-      "tipo": "letra",
-      "texto": "mientras llega el fin"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": " Voy a alabarte"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E                   B  F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": " voy a alabarte  solo a ti"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Coro]Baja intensidad"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en la calma la tormenta"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en lo alto en lo bajo"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E                    B F# E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Dios nunca me dejarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Instrumental]"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B   Gm"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F# E B  F# - E"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Coro]x2 Sube intensidad"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en la calma la tormenta"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G#m"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "letra",
-      "texto": "en lo alto en lo bajo"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "F#"
-    },
-    {
-      "tipo": "letra",
-      "texto": "No, no, no me soltarás"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E                    B F# E"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Dios nunca me dejarás"
     },
     {
       "tipo": "letra",

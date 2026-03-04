@@ -17,16 +17,16 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro] disco"
     },
     {
       "tipo": "acorde",
       "texto": "C   F    Am - C   F"
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso]  bombo negras"
     },
     {
       "tipo": "acorde",
@@ -65,8 +65,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro] disco"
     },
     {
       "tipo": "acorde",
@@ -77,8 +77,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso]  ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -117,8 +117,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -161,8 +161,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Solo]"
+      "tipo": "tag",
+      "texto": "[Solo] ritmo síncopa"
     },
     {
       "tipo": "acorde",
@@ -185,7 +185,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] mitad capela, mitad subiendo y corte."
     },
     {
@@ -225,8 +225,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2  disco"
     },
     {
       "tipo": "acorde",
@@ -265,7 +265,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {

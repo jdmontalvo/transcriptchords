@@ -1,0 +1,416 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "New Wine — Eres Mi Paz"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (63 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] solo piano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Ebmaj7  F  Gm  Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 solo piano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm                         Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Jehová Shalom encuentra en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "un corazón justo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "confiado en ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] juego caja con acento, entran los demás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Ebmaj7  F  Gm  Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm                         Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Jehová Shalom encuentra en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "un corazón justo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "confiado en ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 juego toms suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Ebmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Cm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Confió en ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en ti señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo1]x2juego toms suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm  Eb  Cm  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 juego toms media"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Ebmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Cm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Confió en ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F                F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en ti señor (Segunda vez creciendo y corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2 ritmo intensidad media"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando pase por el fuego no me quemaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En el valle de la sombra me acompañarás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando pase por las aguas no me abnegarán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahí estarás"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Interludio]x2  juego toms fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Eb      F    Gm7     Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Woooh, Woooh, Woooh, Woooh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2 ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Ebmaj7  F  Gm  Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2  Baja intensidad(solo piano)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Cm Bb  Ebmaj7  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2]x6  2 suaves,2 toms suave ,2 toms fuerte y creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Cm                          Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mi alma en ti hallara descanso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                          Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mi alma en ti hallara descanso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  No me dejarás   Ahi estarás"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Interludio2]x4 --última creciendo y corte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Ebmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Shalom, Shalom"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Shalom, Shalom"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm      Bb      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Shalom, eres mi paz"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x3 2 ritmo,1 creciendo semicorcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Ebmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi paz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Cm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Confió en ti señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en ti señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm                         Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Jehová Shalom encuentra en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "un corazón justo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "confiado en ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jesús Adrián Romero — Con Manos Vacías"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (52 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2  ritmo suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m  C#  B  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] solo hihat y bombo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Con manos vacías vengo a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#         Ddim       D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  no tengo nada que darte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m                       D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  No hay nada de valor en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B            G#m      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " No puedo impre--sionarte"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2] solo hihat y bombo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te puedo entregar mi corazón,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#          Ddim      D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Pero esta que--brantado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Recíbelo mi buen pastor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           G#m      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu puedes res--taurarlo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] entra caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B         C#                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Pongo mi vida a tu servicio Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B         C#                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  No será mucho pero la entrego hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           C#                 D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Y si mis manos hoy vacías están"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m          D#m7  A#     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes llenarlas con "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D#m   C#       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gran poder y amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m  C#  B  C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Con manos vacías vengo a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#         Ddim       D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  no tengo nada que darte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m                       D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  No hay nada de valor en mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B            G#m      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": " No puedo impre--sionarte"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te puedo entregar mi corazón,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#          Ddim      D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Pero esta que--brantado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Recíbelo mi buen pastor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           G#m      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu puedes res--taurarlo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2  sube intensidad caja fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B         C#                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Pongo mi vida a tu servicio Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B         C#                    D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  No será mucho pero la entrego hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           C#                 D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Y si mis manos hoy vacías están"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#m          D#m7  A#     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Puedes llenarlas con "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D#m   C#       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gran poder y amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             D#m  C#  F#  A#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor (paso 1era vez)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] baja intensidad caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             D#m                       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos Señor)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             B                                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos Señor) hombres"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos Señor) mujeres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             D#m                                "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos) x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             B                                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos) x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             D#m                                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos) x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#             B                                "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "(Usa mis manos) x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 D#m C# B      F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Usa mis manos Señor"
+    }
+  ]
+}

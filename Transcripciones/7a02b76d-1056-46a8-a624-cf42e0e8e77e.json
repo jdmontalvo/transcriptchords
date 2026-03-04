@@ -17,8 +17,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x4 2 suaves 2 fuertes"
+      "tipo": "tag",
+      "texto": "[Intro]x4 1 sin batería,1 caja suave,2 fuertes"
     },
     {
       "tipo": "acorde",
@@ -29,8 +29,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] ritmo semicorcheas"
     },
     {
       "tipo": "acorde",
@@ -101,8 +101,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro] "
     },
     {
       "tipo": "acorde",
@@ -133,7 +133,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -177,7 +177,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -249,7 +249,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -281,7 +281,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -313,7 +313,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x2"
     },
     {
@@ -325,7 +325,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x4 creciendo"
     },
     {
@@ -349,7 +349,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {

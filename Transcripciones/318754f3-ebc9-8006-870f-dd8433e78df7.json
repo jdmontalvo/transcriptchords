@@ -1,0 +1,692 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Yo te adoro Señor"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C  Em E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 jalado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am    D      G      Em    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tu glorioso eres, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am         B7       Em   E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre es digno de alabar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am   D          G         Em   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has mi corazón puro y santo ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B7                   Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro con todo mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x6 subiendo velocidad, corte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em - D   Em - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] Disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em               B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo con salmos te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em  B7      Em  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo el día te alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am    D      G      Em    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tu glorioso eres, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am         B7       Em   E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre es digno de alabar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am   D          G         Em   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has mi corazón puro y santo ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B7                   Em - Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro con todo mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em               B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo con salmos te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em  B7      Em  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo el día te alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am    D      G      Em    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tu glorioso eres, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am         B7       Em   E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre es digno de alabar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am   D          G         Em   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has mi corazón puro y santo ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B7                   Em - B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro con todo mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2 Disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te amo,   yo te amo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo confío en ti, yo confío en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te amo yo te amo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En la roca me refugiaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] Disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em               B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo con salmos te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Em              Am    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro señor con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em  B7      Em  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo el día te alabaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am    D      G      Em    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tu glorioso eres, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am         B7       Em   E   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre es digno de alabar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am   D          G         Em   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has mi corazón puro y santo ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B7                   Em - B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo te adoro con todo mi corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2 Disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te amo,   yo te amo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo confío en ti, yo confío en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te amo yo te amo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#                    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En la roca me refugiaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "titulo",
+      "texto": "--Cantaré al señor por siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em                Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Señor por siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C          D    Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su diestra es todo poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] juego hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em         D D                 Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha echado la mar, quien los perseguía"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D D           Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jinete y caballo  ha echado la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Em           D D                 Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha echado la mar,  quien los perseguía"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D D               E F# G A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jinete y caballo  ha echado la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Echó a la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am           B     D  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los carros del Faraón ¡Hey hey!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara , Laralaralala"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C  D  Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro2] juego hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em         D D              Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi padre es Dios, y yo le exalto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D D             Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi padre es Dios    y le exaltaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em         D D              Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi padre es Dios, y yo le exalto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D D              E F# G A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi padre es Dios    y le exaltaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Echó a la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am           B     D  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los carros del Faraón ¡Hey hey!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara , Laralaralala"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C  D  Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em                Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré al Señor por siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C          D    Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su diestra es todo poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] juego hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Em         D D                 Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha echado la mar, quien los perseguía"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D D           Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jinete y caballo  ha echado la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Em           D D                 Em Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ha echado la mar,  quien los perseguía"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D D               E F# G A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jinete y caballo  ha echado la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Echó a la mar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am           B     D  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los carros del Faraón ¡Hey hey!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4 ritmo último breakdown "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Em          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara , Laralaralala"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C  D  Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Laralaralara"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

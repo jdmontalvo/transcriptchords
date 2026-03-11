@@ -1,0 +1,344 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Avivamiento — Aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] (Igual que coro)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb    Dm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb    F - C - F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Padre yo te quiero amar y"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F             Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tocar tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bb          C            F   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y rendirme a tus pies oh mi señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F             Bb     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quiero estar cerca de ti "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm           C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y adorarte con todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am        A7          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y rendirte toda gloria, aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bb       Dm        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Bb        F  C  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluuuuuuya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2] solo hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando sienta yo caer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Firme en ti estaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb         C         F   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tú eres mi refugio oh señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F            Bb     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No importa donde pueda estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En valles de dificultad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am       A7       Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoraré cantando aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bb       Dm        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Bb        F  C  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluuuuuuya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2] inicia ritmo caja normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando sienta yo caer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F            Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Firme en ti estaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb         C         F   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues tú eres mi refugio oh señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F            Bb     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No importa donde pueda estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En valles de dificultad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am       A7       Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adoraré cantando aleluya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2  Corte en F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bb       Dm        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Bb        F  C  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluuuuuuya"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Modula a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2 fuerte (no canta, letra solo guía)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E    Am   F      C  Em   "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Ale--luya     Alelu--ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am   F       C   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Aleluya     alelu--ya "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Modula a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x6  fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Fm  Gb      Bbm       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gb       Db  Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aleluya, Alelu--ya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Termina en"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Gb"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Danilo Montero — Cantaré De Tu Amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C F "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por mucho tiempo busqué"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Una razón de vivir"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F         G          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " En medio de mil preguntas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Fm               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor me respondió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Ahora veo la luz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y ya no tengo temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          G         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu reino vino a mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y ahora vivo para ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am         G       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Rendiré mi corazón ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu serás mi pasión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am           G         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y mis pasos se guiarán por tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm        G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Jesús y mi rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu gran amor cantaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por mucho tiempo busqué"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Una razón de vivir"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F         G          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " En medio de mil preguntas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Fm               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor me respondió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F               C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Ahora veo la luz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y ya no tengo temor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          G         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu reino vino a mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y ahora vivo para ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am         G       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Rendiré mi corazón ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu serás mi pasión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am           G         F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y mis pasos se guiarán por tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm        G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Jesús y mi rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu gran amor cantaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Modula a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D A  Bm - A - G "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cantaré de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Bm         A       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Rendiré mi corazón ante ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu serás mi pasión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm          A          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y mis pasos se guiarán por tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Em        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Jesús y mi rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu gran amor cantaré  "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro1]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Em        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Jesús y mi rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De tu gran amor cantaré  "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro2]  caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

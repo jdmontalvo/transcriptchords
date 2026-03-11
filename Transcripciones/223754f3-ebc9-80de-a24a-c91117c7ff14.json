@@ -2,6 +2,10 @@
   "contenido": [
     {
       "tipo": "titulo",
+      "texto": "Ebenezer — Ante El Rey"
+    },
+    {
+      "tipo": "letra",
       "texto": "Transcripción por David M Guitar (158 BPM)"
     },
     {
@@ -26,7 +30,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": " Dm                  C  "
+      "texto": " Dm                  C"
     },
     {
       "tipo": "letra",
@@ -42,7 +46,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "A7                     "
+      "texto": "A7"
     },
     {
       "tipo": "letra",
@@ -58,7 +62,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm                        "
+      "texto": "Dm"
     },
     {
       "tipo": "letra",
@@ -110,11 +114,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  C                               "
+      "texto": "  C"
     },
     {
       "tipo": "letra",
-      "texto": "Cuándo nos llamo "
+      "texto": "Cuándo nos llamo"
     },
     {
       "tipo": "acorde",
@@ -210,11 +214,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     "
+      "texto": "    Eb"
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia "
+      "texto": "Por su misericordia"
     },
     {
       "tipo": "acorde",
@@ -270,7 +274,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": " Dm                  C  "
+      "texto": " Dm                  C"
     },
     {
       "tipo": "letra",
@@ -286,7 +290,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "A7                     "
+      "texto": "A7"
     },
     {
       "tipo": "letra",
@@ -302,7 +306,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm                        "
+      "texto": "Dm"
     },
     {
       "tipo": "letra",
@@ -354,11 +358,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  C                               "
+      "texto": "  C"
     },
     {
       "tipo": "letra",
-      "texto": "Cuándo nos llamo "
+      "texto": "Cuándo nos llamo"
     },
     {
       "tipo": "acorde",
@@ -454,11 +458,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     "
+      "texto": "    Eb"
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia "
+      "texto": "Por su misericordia"
     },
     {
       "tipo": "acorde",
@@ -546,11 +550,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     "
+      "texto": "    Eb"
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia "
+      "texto": "Por su misericordia"
     },
     {
       "tipo": "acorde",

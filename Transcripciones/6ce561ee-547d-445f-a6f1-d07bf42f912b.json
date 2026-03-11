@@ -1,0 +1,392 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jose Luis Reyes — Haz Llover"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (72 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  G  Dm  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am                 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haz llover sobre este lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "sediento estoy de Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven y sacia hoy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " la sed que hay en mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lléname de Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven que necesito"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Em             Am  F  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que refresques mi interior"
+    },
+    {
+      "tipo": "letra",
+      "texto": "                  (inicia batería)"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven que quiero más de Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haz me rebozar mi copa hasta sentir"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu presencia estremeciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Am            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi interior Ven y tócame"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Dm          F           Am  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y abrázame, envuélveme en ti Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está cayendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria descendiendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está ardiendo en mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está sanando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria restaurando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está, hoy sobre mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ven que quiero más de Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haz me rebozar mi copa hasta sentir"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu presencia estremeciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Am            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi interior Ven y tócame"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Dm          F           Am  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y abrázame, envuélveme en ti Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está cayendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria descendiendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está ardiendo en mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está sanando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria restaurando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está, hoy sobre mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo guitarra]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C   Gm  F   C"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C   Gm  F   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está cayendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria descendiendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está ardiendo en mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu lluvia está sanando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu gloria restaurando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Tu fuego está, hoy sobre mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x5  4 fuertes, 1 capela"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C    G     Dm Am   C    G    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lluuu-via    Ca-e   hoy sobre mi"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

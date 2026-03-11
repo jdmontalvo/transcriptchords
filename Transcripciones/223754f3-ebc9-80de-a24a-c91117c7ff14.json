@@ -1,7 +1,7 @@
 {
   "contenido": [
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "Transcripción por David M Guitar (158 BPM)"
     },
     {
@@ -9,8 +9,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2  bombo negras y hihat"
     },
     {
       "tipo": "acorde",
@@ -21,32 +21,56 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": " Dm                  C - Gm"
+      "texto": " Dm                  C  "
     },
     {
       "tipo": "letra",
-      "texto": "Nuestro corazón suspira  cánticos de amor"
+      "texto": "Nuestro corazón suspira"
     },
     {
       "tipo": "acorde",
-      "texto": "A7                     Dm                  C"
+      "texto": "Gm"
     },
     {
       "tipo": "letra",
-      "texto": "Agradecimiento hay más allá de nuestra voz"
+      "texto": "Cánticos de amor"
     },
     {
       "tipo": "acorde",
-      "texto": "Dm                        C - Gm"
+      "texto": "A7                     "
     },
     {
       "tipo": "letra",
-      "texto": "Pues el Rey nos escogió para  estar ante el"
+      "texto": "Agradecimiento hay más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Dm             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Allá de nuestra voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues el Rey nos escogió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para  estar ante el"
     },
     {
       "tipo": "acorde",
@@ -61,7 +85,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -70,7 +94,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Nos vistio de amor, su sangre nos limpio"
+      "texto": "Nos vistió de amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su sangre nos limpio"
     },
     {
       "tipo": "acorde",
@@ -82,11 +110,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  C                                Dm"
+      "texto": "  C                               "
     },
     {
       "tipo": "letra",
-      "texto": "Cuándo nos llamo éramos un pueblo sin valor"
+      "texto": "Cuándo nos llamo "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Éramos un pueblo sin valor"
     },
     {
       "tipo": "acorde",
@@ -95,10 +131,6 @@
     {
       "tipo": "letra",
       "texto": "Y hoy entramos ante el Rey"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
     },
     {
       "tipo": "letra",
@@ -113,7 +145,7 @@
       "texto": "Traemos nuestras danzas de amor"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "      EbMaj7                Bb"
     },
     {
@@ -133,8 +165,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2  Polka"
     },
     {
       "tipo": "acorde",
@@ -146,10 +178,6 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
       "texto": "Con su amor y su bondad"
     },
     {
@@ -158,7 +186,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+      "texto": "Entramos hoy, ante su altar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Traemos cánticos de amor"
     },
     {
       "tipo": "acorde",
@@ -178,11 +210,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     Bb"
+      "texto": "    Eb                     "
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia hoy entramos ante el Rey"
+      "texto": "Por su misericordia "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy entramos ante el Rey"
     },
     {
       "tipo": "acorde",
@@ -197,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Poscoro]"
     },
     {
@@ -213,8 +253,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 bombo negras y hihat"
     },
     {
       "tipo": "acorde",
@@ -225,32 +265,56 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": " Dm                  C - Gm"
+      "texto": " Dm                  C  "
     },
     {
       "tipo": "letra",
-      "texto": "Nuestro corazón suspira  cánticos de amor"
+      "texto": "Nuestro corazón suspira"
     },
     {
       "tipo": "acorde",
-      "texto": "A7                     Dm                  C"
+      "texto": "Gm"
     },
     {
       "tipo": "letra",
-      "texto": "Agradecimiento hay más allá de nuestra voz"
+      "texto": "Cánticos de amor"
     },
     {
       "tipo": "acorde",
-      "texto": "Dm                        C - Gm"
+      "texto": "A7                     "
     },
     {
       "tipo": "letra",
-      "texto": "Pues el Rey nos escogió para  estar ante el"
+      "texto": "Agradecimiento hay más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Dm             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Allá de nuestra voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues el Rey nos escogió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C - Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para  estar ante el"
     },
     {
       "tipo": "acorde",
@@ -265,8 +329,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro] redobles"
     },
     {
       "tipo": "acorde",
@@ -274,7 +338,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Nos vistio de amor, su sangre nos limpio"
+      "texto": "Nos vistió de amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su sangre nos limpio"
     },
     {
       "tipo": "acorde",
@@ -286,11 +354,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  C                                Dm"
+      "texto": "  C                               "
     },
     {
       "tipo": "letra",
-      "texto": "Cuándo nos llamo éramos un pueblo sin valor"
+      "texto": "Cuándo nos llamo "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Éramos un pueblo sin valor"
     },
     {
       "tipo": "acorde",
@@ -299,10 +375,6 @@
     {
       "tipo": "letra",
       "texto": "Y hoy entramos ante el Rey"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
     },
     {
       "tipo": "letra",
@@ -317,8 +389,8 @@
       "texto": "Traemos nuestras danzas de amor"
     },
     {
-      "tipo": "acorde",
-      "texto": "     Eb                    Bb"
+      "tipo": "letra",
+      "texto": "      EbMaj7                Bb"
     },
     {
       "tipo": "letra",
@@ -337,8 +409,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 Polka"
     },
     {
       "tipo": "acorde",
@@ -350,10 +422,6 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
       "texto": "Con su amor y su bondad"
     },
     {
@@ -362,7 +430,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+      "texto": "Entramos hoy, ante su altar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Traemos cánticos de amor"
     },
     {
       "tipo": "acorde",
@@ -382,11 +454,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     Bb"
+      "texto": "    Eb                     "
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia hoy entramos ante el Rey"
+      "texto": "Por su misericordia "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy entramos ante el Rey"
     },
     {
       "tipo": "acorde",
@@ -401,8 +481,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Instrumental]"
+      "tipo": "tag",
+      "texto": "[Instrumental] polka"
     },
     {
       "tipo": "acorde",
@@ -421,8 +501,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] Polka"
     },
     {
       "tipo": "acorde",
@@ -434,10 +514,6 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
       "texto": "Con su amor y su bondad"
     },
     {
@@ -446,7 +522,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Entramos hoy, ante su altar, Traemos cánticos de amor"
+      "texto": "Entramos hoy, ante su altar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Traemos cánticos de amor"
     },
     {
       "tipo": "acorde",
@@ -466,11 +546,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Eb                     Bb"
+      "texto": "    Eb                     "
     },
     {
       "tipo": "letra",
-      "texto": "Por su misericordia hoy entramos ante el Rey"
+      "texto": "Por su misericordia "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy entramos ante el Rey"
     },
     {
       "tipo": "acorde",
@@ -485,7 +573,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Poscoro]"
     },
     {

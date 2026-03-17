@@ -2,11 +2,19 @@
   "contenido": [
     {
       "tipo": "titulo",
+      "texto": "Juan Carlos Alvarado — Yo Te Adoro Señor/Yo Te Amo/Cantaré Al Señor Por Siempre"
+    },
+    {
+      "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
     },
     {
       "tipo": "letra",
       "texto": "--Yo te adoro Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -26,7 +34,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Am    D      G      Em    "
+      "texto": "    Am    D      G      Em"
     },
     {
       "tipo": "letra",
@@ -34,7 +42,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Am         B7       Em   E   "
+      "texto": "      Am         B7       Em   E"
     },
     {
       "tipo": "letra",
@@ -42,7 +50,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Am   D          G         Em   "
+      "texto": "       Am   D          G         Em"
     },
     {
       "tipo": "letra",
@@ -78,7 +86,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -94,7 +102,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -118,7 +126,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Am    D      G      Em    "
+      "texto": "    Am    D      G      Em"
     },
     {
       "tipo": "letra",
@@ -126,7 +134,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Am         B7       Em   E   "
+      "texto": "      Am         B7       Em   E"
     },
     {
       "tipo": "letra",
@@ -134,7 +142,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Am   D          G         Em   "
+      "texto": "       Am   D          G         Em"
     },
     {
       "tipo": "letra",
@@ -154,11 +162,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso] "
+      "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -174,7 +182,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -198,7 +206,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Am    D      G      Em    "
+      "texto": "    Am    D      G      Em"
     },
     {
       "tipo": "letra",
@@ -206,7 +214,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Am         B7       Em   E   "
+      "texto": "      Am         B7       Em   E"
     },
     {
       "tipo": "letra",
@@ -214,7 +222,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Am   D          G         Em   "
+      "texto": "       Am   D          G         Em"
     },
     {
       "tipo": "letra",
@@ -278,7 +286,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -294,7 +302,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Em              Am    "
+      "texto": "      Em              Am"
     },
     {
       "tipo": "letra",
@@ -318,7 +326,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Am    D      G      Em    "
+      "texto": "    Am    D      G      Em"
     },
     {
       "tipo": "letra",
@@ -326,7 +334,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "      Am         B7       Em   E   "
+      "texto": "      Am         B7       Em   E"
     },
     {
       "tipo": "letra",
@@ -334,7 +342,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Am   D          G         Em   "
+      "texto": "       Am   D          G         Em"
     },
     {
       "tipo": "letra",
@@ -393,8 +401,8 @@
       "texto": ""
     },
     {
-      "tipo": "titulo",
-      "texto": "--Cantaré al señor por siempre"
+      "tipo": "letra",
+      "texto": "--Cantaré al señor por siempre---"
     },
     {
       "tipo": "letra",
@@ -666,7 +674,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x4 ritmo último breakdown "
+      "texto": "[Coro]x4 ritmo último breakdown"
     },
     {
       "tipo": "acorde",

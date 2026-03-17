@@ -2,27 +2,31 @@
   "contenido": [
     {
       "tipo": "titulo",
+      "texto": "Generasion — Alaba"
+    },
+    {
+      "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
-    },
-    {
-      "tipo": "letra",
-      "texto": " "
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "E  A - G# - F#m - E - D# - E "
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E  A - G# - F#m - E - D# - E"
+    },
+    {
       "tipo": "letra",
-      "texto": "[Verso1] "
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
     },
     {
       "tipo": "acorde",
@@ -42,7 +46,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m                          B                   "
+      "texto": "F#m                          B"
     },
     {
       "tipo": "letra",
@@ -74,7 +78,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m                     B                  "
+      "texto": "F#m                     B"
     },
     {
       "tipo": "letra",
@@ -90,10 +94,10 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] bombo negras"
     },
     {
@@ -138,10 +142,10 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2] ritmo normal"
     },
     {
@@ -194,7 +198,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "F#m                     B                   "
+      "texto": "F#m                     B"
     },
     {
       "tipo": "letra",
@@ -210,10 +214,10 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] bombo negras"
     },
     {
@@ -261,7 +265,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
@@ -330,10 +334,10 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]x2"
     },
     {
@@ -370,11 +374,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
       "tipo": "letra",
@@ -394,22 +398,22 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "E  A - G# - F#m - E - D# - E "
+      "texto": "E  A - G# - F#m - E - D# - E"
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] bombo negras"
     },
     {
@@ -457,7 +461,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
@@ -526,10 +530,10 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]x2"
     },
     {
@@ -566,7 +570,7 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
       "tipo": "letra",
@@ -574,7 +578,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "E C#m A   "
+      "texto": "E C#m A"
     },
     {
       "tipo": "acorde",
@@ -582,7 +586,7 @@
     },
     {
       "tipo": "letra",
-      "texto": " "
+      "texto": ""
     },
     {
       "tipo": "letra",

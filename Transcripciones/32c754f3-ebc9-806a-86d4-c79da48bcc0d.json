@@ -1,0 +1,576 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Montesanto — Cómo David"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am                 Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alzaré mis ojos a los montes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7                Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿De dónde vendrá mi socorro?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am                Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi socorro viene de Jehová"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7                    Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que hizo los cielos y la tierra"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No se dormirá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que guarda mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E7              Am   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por siempre me defenderá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No se cansará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que guarda mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De día y de noche"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    F - E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde ahora y para siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Amén"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]  solo acústica"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] --juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haré así, como David"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me reiré del gigante"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venga contra mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza será mi arma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando levanto mis manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él gana mis batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y como David escribió este salmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F                   E     F - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora lo tomo y lo vuelvo mi canto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am                 Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alzaré mis ojos a los montes"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7                Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿De dónde vendrá mi socorro?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am                Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi socorro viene de Jehová (Amén)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7                    Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que hizo los cielos y la tierra"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] ritmo síncopa y creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No se dormirá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que guarda mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E7              Am   G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por siempre me defenderá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Fmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No se cansará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El que guarda mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De día y de noche"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    F - E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde ahora y para siempre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] --polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haré así, como David"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me reiré del gigante"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venga contra mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza será mi arma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando levanto mis manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él gana mis batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y como David escribió este salmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F                   E     F - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora lo tomo y lo vuelvo mi canto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Rif] juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A A A  F F F  E E E  A A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A A A  F F F  E E E  A A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A A A  F F F  E E E  A A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  E  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x3 1juego toms, 1 síncopa, 1 redobles"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             A A A  F F F  E E E  A A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras yo alabo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él pelea mis batallas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mientras yo alabo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él pelea mis batallas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No es con mis fuerzas que yo venceré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F           E       Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Es por Su Espíritu que tiene Poder"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Rap o solo]x4 2 suaves, 1 juego caja,1 redobles"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am C Dm E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] --polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am          C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Haré así, como David"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me reiré del gigante"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que venga contra mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza será mi arma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando levanto mis manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él gana mis batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y como David escribió este salmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora lo tomo y lo vuelvo mi canto"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y como David escribió este salmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F                   E     F - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ahora lo tomo y lo vuelvo mi canto.."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " ¡Amén!"
+    }
+  ]
+}

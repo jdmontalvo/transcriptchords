@@ -21,7 +21,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -61,7 +61,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -101,7 +101,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2"
     },
     {
@@ -113,7 +113,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]  --juego toms muy suave"
     },
     {
@@ -153,7 +153,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  bombo negras"
     },
     {
@@ -193,7 +193,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2 baja intensidad"
     },
     {
@@ -205,7 +205,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
@@ -277,7 +277,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]x6 4 juego toms, 2 creciendo"
     },
     {
@@ -293,7 +293,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]x2"
     },
     {
@@ -353,7 +353,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2]x5 2 sin bastería,2 juego toms,1 creciendo"
     },
     {
@@ -377,7 +377,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]"
     },
     {

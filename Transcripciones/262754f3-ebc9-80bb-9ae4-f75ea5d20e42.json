@@ -17,7 +17,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -73,7 +73,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C#m   B       E           E B A B"
+      "texto": "C#m           E           E B A B"
     },
     {
       "tipo": "letra",
@@ -138,7 +138,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C#m   B       E            E B A B"
+      "texto": "C#m           E            E B A B"
     },
     {
       "tipo": "letra",
@@ -149,7 +149,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instumental]"
     },
     {
@@ -165,7 +165,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] eco(Gloria Aleluya)"
     },
     {
@@ -209,7 +209,7 @@
       "texto": "--modula a C--"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -238,7 +238,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm    C       F           F C A# C"
+      "texto": "Dm            F           F C A# C"
     },
     {
       "tipo": "letra",
@@ -274,7 +274,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm    C       F           F C  F# G#"
+      "texto": "Dm            F           F C  F# G#"
     },
     {
       "tipo": "letra",
@@ -289,7 +289,7 @@
       "texto": "--modula a C#--"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "D#m    C#       F#        F# C# B C#"
+      "texto": "D#m             F#        F# C# B C#"
     },
     {
       "tipo": "letra",
@@ -354,7 +354,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "D#m   C#      F#          F# C#  F# C#"
+      "texto": "D#m           F#          F# C#  F# C#"
     },
     {
       "tipo": "letra",
@@ -365,7 +365,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2"
     },
     {
@@ -374,7 +374,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+      "texto": " Gloria Gloria Aleluya,"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya"
     },
     {
       "tipo": "acorde",
@@ -382,7 +386,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+      "texto": " Gloria Gloria Aleluya,"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya"
     },
     {
       "tipo": "acorde",
@@ -390,7 +398,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+      "texto": " Gloria Gloria Aleluya,"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya"
     },
     {
       "tipo": "acorde",
@@ -398,7 +410,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Gloria Gloria Aleluya,Gloria Gloria Aleluya"
+      "texto": " Gloria Gloria Aleluya,"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Gloria Gloria Aleluya"
     }
   ]
 }

@@ -13,7 +13,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -65,7 +65,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] entra bajo"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -153,7 +153,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -174,11 +174,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm                C              Bb"
+      "texto": "Dm                C             "
     },
     {
       "tipo": "letra",
-      "texto": " Cuando no vi mi valor te entregaste por mi"
+      "texto": " Cuando no vi mi valor "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": " te entregaste por mi"
     },
     {
       "tipo": "acorde",
@@ -193,7 +201,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -269,7 +277,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -281,24 +289,16 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x4 1 bajo,1 toms suave,2 toms fuerte"
     },
     {
       "tipo": "acorde",
-      "texto": "Dm"
+      "texto": "Dm                        C"
     },
     {
       "tipo": "letra",
-      "texto": "  No hay sombra"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "        C"
-    },
-    {
-      "tipo": "letra",
-      "texto": "que no alumbres"
+      "texto": "  No hay sombra que no alumbres        "
     },
     {
       "tipo": "acorde",
@@ -318,19 +318,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm"
+      "texto": "Dm                        C"
     },
     {
       "tipo": "letra",
-      "texto": "  No hay pared"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "           C"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Que no derrumbas"
+      "texto": "  No hay pared Que no derrumbes           "
     },
     {
       "tipo": "acorde",
@@ -353,7 +345,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -429,7 +421,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {

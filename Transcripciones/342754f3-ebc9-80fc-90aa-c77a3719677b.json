@@ -1,0 +1,432 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Matthew Hotton — Primero Nos Amó"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E A C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán bello es quien murió por mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C#m                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui perdonado, yo fui encontrado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caminaré en tus promesas permaneceré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m                   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti miraré solo en ti confiaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A                E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu cruz la que me salvó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu amor que me rescató"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso canto adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es el Gran Yo Soy"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]  juego toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  E                     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán bello es quien murió por mí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         C#m                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fui perdonado, yo fui encontrado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caminaré en tus promesas permaneceré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m                   B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A ti miraré solo en ti confiaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A                E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu cruz la que me salvó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu amor que me rescató"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso canto adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es el Gran Yo Soy"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu sangre que me limpió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu voz la que me llamó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A                E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue la gracia de un buen padre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La que me enamoró"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A E C#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Todos deben conocer"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Que hay alguien"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m        B         E   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   Que primero nos amó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2]x3  1 suave, 2 juego caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m     B              E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy yo canto esta canción"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "para que todos oigan"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que hay alguien"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que primero nos amó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente3]--creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C#m        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "ooh oo-oo-oo--ooh"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        E   C#m   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que primero nos amó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "ooooohoooh (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] --sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A                E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu cruz la que me salvó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C#m             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu amor que me rescató"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por eso canto adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m            B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al que es el Gran Yo Soy"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        A                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu sangre que me limpió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m               B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue tu voz la que me llamó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A                E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fue la gracia de un buen padre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m      B    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La que me enamoró"
+    }
+  ]
+}

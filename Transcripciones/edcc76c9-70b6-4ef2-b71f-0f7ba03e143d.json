@@ -17,7 +17,7 @@
       "texto": "---Inicia sin batería"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -69,7 +69,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -121,7 +121,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -133,7 +133,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2   --inicia batería"
     },
     {
@@ -142,7 +142,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Y Llename (Llename) Llename ,(Llename) Llename"
+      "texto": "Y Lléname (Lléname)"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Lléname ,(Lléname) Lléname"
     },
     {
       "tipo": "acorde",
@@ -150,7 +154,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Con tu presencia (Llename) Llename ,(Llename) Llename"
+      "texto": "Con tu presencia (Lléname) "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lléname ,(Lléname) Lléname"
     },
     {
       "tipo": "acorde",
@@ -158,7 +166,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Con tu poder (Llename) Llename ,(Llename) Llename"
+      "texto": "Con tu poder (Lléname) "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lléname ,(Lléname) Lléname"
     },
     {
       "tipo": "acorde",
@@ -177,7 +189,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]   baja intensidad"
     },
     {
@@ -217,7 +229,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

@@ -1,0 +1,492 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — Lo Único Que Quiero"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (68 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B F# D#m C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  B                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelo, Conocerte más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vivir en santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En la intimidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Contigo, Siempre quiero estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gloria contemplar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por la eternidad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] juego platos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D#m                      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vengo a tus pies para entregar mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D#m                    C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por siempre cantare de tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] ritmo caja muy suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Amor que me rescato"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me limpio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me da vida eterna"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu sangre abrió el camino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca se cerrara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] entra batería caja normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  B                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Anhelo, Conocerte más"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vivir en santidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En la intimidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B                    F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Contigo, Siempre quiero estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gloria contemplar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por la eternidad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] Ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D#m                      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vengo a tus pies para entregar mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D#m                    C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por siempre cantare de tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Amor que me rescato"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me limpio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me da vida eterna"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu sangre abrió el camino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca se cerrara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 1 capela 1 creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "lo único que quiero es adorarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             D#m                      C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vengo a tus pies para entregar mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo único que quiero es agradarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D#m                    C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por siempre cantare de tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Amor que me rescato"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me limpio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que me da vida eterna"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu sangre abrió el camino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca se cerrara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tengo libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

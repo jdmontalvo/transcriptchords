@@ -1,0 +1,416 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Generación 12 — Eres Todo Para Mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (162 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] hihat, ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C F Am G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C Gm Dm F - Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Vivo por conocerte a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vivo por entregarme a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi deseo eres tu mi Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                   C  "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Al estar cerca de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Puedo escuchar tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi deseo eres tu mi Cristo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] jalado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             Am          "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Todo el tiempo, esperando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                   Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu amor sin condición"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm           Am            "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Cada momento, yo te deseo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C           F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te deseo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 Dm            "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu estas conmigo, tú me ayudas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am          G       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me sostienes  Eres todo para mí "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Gm              "
+    },
+    {
+      "tipo": "letra",
+      "texto": "En los tiempos de dolor me cuidas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          F      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me proteges   Eres todo para mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am C G Dm Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Vivo por conocerte a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vivo por entregarme a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi deseo eres tu mi Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                   C  "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Al estar cerca de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Puedo escuchar tu corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi deseo eres tu mi Cristo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] jalado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             Am          "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Todo el tiempo, esperando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                   Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu amor sin condición"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm           Am            "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Cada momento, yo te deseo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C           F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Yo te deseo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 Dm            "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu estas conmigo, tú me ayudas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am          G       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me sostienes  Eres todo para mí "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Gm              "
+    },
+    {
+      "tipo": "letra",
+      "texto": "En los tiempos de dolor me cuidas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          F      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me proteges   Eres todo para mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental] ride"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am C Dm F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2 1 suave 1 jalado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am            C            "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu estas conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm             F "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi amigo, eres mi amigo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C Gm Dm  F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                 Dm            "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu estas conmigo, tú me ayudas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am          G       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me sostienes  Eres todo para mí "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Gm              "
+    },
+    {
+      "tipo": "letra",
+      "texto": "En los tiempos de dolor me cuidas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm          F      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me proteges   Eres todo para mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro] coro suave"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

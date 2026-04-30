@@ -1,0 +1,776 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Juan Carlos Alvarado — Glorifícate/Más Que Vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x3 1 solo batería y guitarra, 2 normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Am  F G Am E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] x2 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am                  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Glorifícate Señor Glorifícate Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y que todos tus enemigos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Am Am G G Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caigan ante ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             E         Am          Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quien es ese rey que se viste de poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F       G         Am  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es Jehová de los ejércitos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C              E     Am        Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es varón de guerra fuerte y valiente"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm        Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es el poderoso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F          G     E E E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vencedor en batalla  (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am                  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Glorifícate Señor Glorifícate Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y que todos tus enemigos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Am Am G G Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caigan ante ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C             E          Am       Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quien es ese rey que se viste de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F     G        Am  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es Jesús el Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C            E         Am         Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vino como siervo pero vuelve como rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm           Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En caballo blanco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm          G       E E E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con espada y a Juzgar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo saxo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Am  F G Am E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am                  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Glorifícate Señor Glorifícate Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y que todos tus enemigos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Am Am G G Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caigan ante ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F            G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y que todos tus enemigos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Am Am G G Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Caigan ante ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Más que vencedor--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]  solo hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am   F   Dm    F G Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Celebra victorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  El Triunfo de Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te ha hecho más que Vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mayor es el que esta en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el que esta en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me ha hecho más que vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab       G        Gbm     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo lo puedo en cristo que me fortalece"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab     G          Gbm    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si Dios esta conmigo quien contra mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Ab       G   Gbm      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy más que vencedor en cristo!!"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F       G     F  G  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedo--o--or"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Celebra victorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  El Triunfo de Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te ha hecho más que Vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mayor es el que esta en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el que esta en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me ha hecho más que vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab       G        Gbm     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo lo puedo en cristo que me fortalece"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab     G          Gbm    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si Dios esta conmigo quien contra mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Ab       G   Gbm      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy más que vencedor en cristo!!"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F       G     F  G  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedo--o--or"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Celebra victorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  El Triunfo de Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te ha hecho más que Vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mayor es el que esta en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el que esta en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me ha hecho más que vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2 compases como 1 verso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 capela solo batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Celebra victorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  El Triunfo de Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te ha hecho más que Vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mayor es el que esta en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el que esta en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me ha hecho más que vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab       G        Gbm     F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Todo lo puedo en cristo que me fortalece"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am       Ab     G          Gbm    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si Dios esta conmigo quien contra mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am  Ab       G   Gbm      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy más que vencedor en cristo!!"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F       G     F  G  Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mas que vencedo--o--or"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] disco"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Celebra victorioso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  El Triunfo de Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm            F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Te ha hecho más que Vencedor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Mayor es el que esta en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Que el que esta en el mundo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm             F       G   Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Me ha hecho más que vencedor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Termina con \"Celebra victorioso\""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Marco Barrientos — Quiero Mirar Tu Hermosura"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (67 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental  pad]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D               A                "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios me abro a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a ti   Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G               Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Estoy dispuesto y en tus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo rindo todo  Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Abre mis ojos  déjame verte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                 G            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Quita las vendas que me han cegado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Abre mis ojos  yo quiero verte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                G          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Muestra tu gloria y tu gran bondad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Quiero mirar tu hermosura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y contemplar tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Abre mis ojos, Jesucristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em            A          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Muestra tu gloria y tu bondad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] juego hihat suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D               A                "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios me abro a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me entrego a ti   Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G               Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Estoy dispuesto y en tus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lo rindo todo  Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Abre mis ojos  déjame verte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                 G            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Quita las vendas que me han cegado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Abre mis ojos  yo quiero verte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em                G          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Muestra tu gloria y tu gran bondad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Quiero mirar tu hermosura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y contemplar tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Abre mis ojos, Jesucristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em            A          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Muestra tu gloria y tu bondad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Quiero mirar tu hermosura"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Y contemplar tu majestad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         A          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Abre mis ojos, Jesucristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em            A          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Muestra tu gloria y tu bondad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G A Bm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

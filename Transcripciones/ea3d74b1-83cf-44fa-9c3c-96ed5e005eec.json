@@ -1,0 +1,420 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Juan Carlos Alvarado — El Borde De Su Manto"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am G F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am G F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am G F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm G G7  Esus4 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G                    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo tocare el borde de su manto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera ver su rostro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G               F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera tocar sus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      Dm       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libre seria  yo se"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G                   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo tocare el borde de su manto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G          F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera oír su voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G                  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera acercarme a el"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      Dm       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libre seria  yo se"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G              F      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Un toque del maestro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm  F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para ser liberado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G               F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Una mirada de mi salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G                    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo tocare el borde de su manto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera ver su rostro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      G               F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si tan solo pudiera tocar sus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C      Dm       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libre seria  yo se"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G              F      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Un toque del maestro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm  F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para ser liberado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G               F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Una mirada de mi salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su nombre es Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C E Am G F C  Dm - F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G              F      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Un toque del maestro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Dm  F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para ser liberado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque delante de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B          E    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo soy alguien que necesita"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G               F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Una mirada de mi salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x3 3 suave, 2 fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C   E   Am     C    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesús     Jesús,    Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C          Dm  F - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nombre sin igual"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C   E   Am     C    F"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C          Dm  F - G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

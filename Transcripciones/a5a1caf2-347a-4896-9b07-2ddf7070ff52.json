@@ -1,0 +1,420 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Desde Mi Interior"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (70 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia solo hihat--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F   C - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F               C          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mil veces te falle, Mas tu fuiste fiel"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F               C          G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gracia me levantó, Me basta tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am       F                C    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios eterno tu luz por siempre brillará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am      F         C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu gloria incomparable sin final."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2  --solo ride"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F   C - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]---ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F           C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Señor tu voluntad permanecerá,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F              C      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti me quiero perder en adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F               C    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios eterno tu luz por siempre brillara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F        C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu gloria incomparable sin final."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "                  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yeeee...  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          C                 Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " De mi Corazón te doy el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Consume todo mi interior, Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                Am                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu justicia y amor me abrazan Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Dm         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te amo desde mi interior"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 Inicia batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F   C - G"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F           C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Señor tu voluntad permanecerá,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F              C      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En ti me quiero perder en adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F               C    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios eterno tu luz por siempre brillara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F        C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu gloria incomparable sin final"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          C                 Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " De mi Corazón te doy el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Consume todo mi interior, Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                Am                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu justicia y amor me abrazan Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Dm         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te amo desde mi interior"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F               C    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Dios eterno tu luz por siempre brillará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Am       F        C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu gloria incomparable sin final."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C        F       G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El clamor mi ser es contigo estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F        G         F     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde mi interior mi alma clamará"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  C"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am G"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]--baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          C                 Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": " De mi Corazón te doy el control"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Consume todo mi interior, Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F                Am                G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Tu justicia y amor me abrazan Señor (creciendo)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Dm         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te amo desde mi interior"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am        F             C    G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios eterno tu luz por siempre brillara"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Am       F          C      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu gloria incomparable sin final"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C        F       G      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El clamor mi ser es contigo estar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F        G         F     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde mi interior mi alma clamará"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F        G          F    G    F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde mi interior mi alma clamará"
+    }
+  ]
+}

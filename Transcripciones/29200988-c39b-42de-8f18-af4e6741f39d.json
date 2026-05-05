@@ -21,7 +21,7 @@
       "texto": "--Inicia sin batería--"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -85,7 +85,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x2"
     },
     {
@@ -121,7 +121,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]x2  inicia hihat platos suave"
     },
     {
@@ -149,8 +149,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso1]  inicia ritmo cortado bombo y caja"
+      "tipo": "tag",
+      "texto": "[Verso1]  ritmo cortado bombo y caja"
     },
     {
       "tipo": "acorde",
@@ -201,7 +201,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x2 bombo negras y toms, creciendo"
     },
     {
@@ -237,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]x4 ritmo"
     },
     {
@@ -261,7 +261,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]x2 ---baja sin batería"
     },
     {
@@ -273,8 +273,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x10  3 suave,1 toms suave,2 bombo negras,3 bombo corcheas,1 creciendo semicorcheas"
+      "tipo": "tag",
+      "texto": "[Puente]x10  3 suave,1 toms suave,2 bombo negras,3 bombo corcheas,1 semicorcheas"
     },
     {
       "tipo": "acorde",
@@ -289,7 +289,7 @@
       "texto": "                    (corte en la última)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4"
     },
     {
@@ -317,7 +317,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x4  1 Bombo negras,2 bombo corcheas,2 ritmo"
     },
     {
@@ -333,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

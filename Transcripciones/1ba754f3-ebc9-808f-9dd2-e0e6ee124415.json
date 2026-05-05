@@ -10,10 +10,10 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "--inicia con hihat suave---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
@@ -101,8 +101,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro]  juego toms"
     },
     {
       "tipo": "acorde",
@@ -157,8 +157,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] juego toms"
     },
     {
       "tipo": "acorde",
@@ -197,8 +197,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso2] empieza batería ritmo"
+      "tipo": "tag",
+      "texto": "[Verso2] empieza batería juego toms y caja"
     },
     {
       "tipo": "acorde",
@@ -273,8 +273,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro 2]"
+      "tipo": "tag",
+      "texto": "[Precoro 2] creciendo"
     },
     {
       "tipo": "acorde",
@@ -289,8 +289,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -329,7 +329,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]"
     },
     {
@@ -377,8 +377,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]x2 baja intensidad(juego toms)"
+      "tipo": "tag",
+      "texto": "[Precoro]x2 1 juego toms suave, 1 fuerte y creciendo"
     },
     {
       "tipo": "acorde",
@@ -437,7 +437,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -477,7 +477,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro2]"
     },
     {
@@ -525,7 +525,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Final] baja intensidad"
     },
     {

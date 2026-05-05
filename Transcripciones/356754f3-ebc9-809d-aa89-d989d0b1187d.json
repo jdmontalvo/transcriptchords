@@ -1,0 +1,512 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Soy intocable/Dios pelea por mi Ledy Murillo"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] suave y creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm  Gm  C  F  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb  Gm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando el miedo se levanta "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y quiere hablar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando el viento me recuerda"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi debilidad"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo me aferro a tus promesas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No me voy a derrumbar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque sé que estás conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A              A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y no me vas a soltar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]    "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque el valle sea oscuro"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No caminaré en temor   --caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu presencia me rodea "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi protector"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cada lágrima que cae "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú la vienes a sanar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y en el medio de la guerra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A               A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sé que tú vas a pelear."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]  caja en 4to--creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú vas delante de mí"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Abriendo el camino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con fuego en tus ojos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El cielo está conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No hay poder del mal"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que pueda detener"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Dios invencible"
+    },
+    {
+      "tipo": "letra",
+      "texto": "que lucha por mi ser"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo normal, corte en \"soy\""
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                     Gm   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy intocable bajo tus alas "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                             F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy invencible si tú vas conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " No hay cadenas, no hay condena"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi victoria está en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy intocable bajo tu sombra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                           Gm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy imparable si tú estás aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque ruja el enemigo (corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi escudo eres tú.    "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso3] alterna caja suave y normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm                           Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si la oscuridad me cerca, no me moveré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tus palabras son mi espada"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En tu nombre venceré."
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm                   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cada paso que yo doy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Está sellado en tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Bb        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y mi alma declara fuerte    --creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La victoria del Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    (corte)          (creciendo)"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro2] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada puede tocarme"
+    },
+    {
+      "tipo": "letra",
+      "texto": "nada me detendrá"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque el cielo pelea"
+    },
+    {
+      "tipo": "letra",
+      "texto": "cuando empiezo a orar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Camino sola, tu espíritu va"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y el enemigo huye "
+    },
+    {
+      "tipo": "letra",
+      "texto": "cuando escucha tu voz hablar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "                           (creciendo)"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] corte al inicio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                     Gm   C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy intocable bajo tus alas "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                             F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy invencible si tú vas conmigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                          Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " No hay cadenas, no hay condena"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi victoria está en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy intocable bajo tu sombra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                           Gm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy imparable si tú estás aquí"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aunque ruja el enemigo (corte)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi escudo eres tú"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                  Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": " En el centro de la batalla"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F         Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alma canta a ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Gm   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No temo a lo que venga"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "si tú peleas por mí"
+    }
+  ]
+}

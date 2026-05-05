@@ -17,16 +17,16 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x4 Songo batería"
+      "tipo": "tag",
+      "texto": "[Intro Songo]x4 "
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -37,7 +37,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Al Rey Hossana"
+      "texto": "Al Rey Hosanna"
     },
     {
       "tipo": "acorde",
@@ -61,7 +61,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -94,11 +94,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "De su salvación yo cantaré (Corte1)"
+      "texto": "De su salvación yo cantaré "
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "                      (Corte1)"
     },
     {
       "tipo": "acorde",
@@ -130,14 +130,18 @@
     },
     {
       "tipo": "letra",
-      "texto": "De su redención yo cantaré (Corte2)"
+      "texto": "De su redención yo cantaré "
+    },
+    {
+      "tipo": "letra",
+      "texto": "                      (Corte2)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -146,7 +150,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Al Rey Hossana"
+      "texto": "Al Rey Hosanna"
     },
     {
       "tipo": "acorde",
@@ -161,7 +165,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -194,11 +198,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "De su salvación yo cantaré (Corte1)"
+      "texto": "De su salvación yo cantaré "
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "                      (Corte1)"
     },
     {
       "tipo": "acorde",
@@ -230,14 +234,18 @@
     },
     {
       "tipo": "letra",
-      "texto": "De su redención yo cantaré (Corte2)"
+      "texto": "De su redención yo cantaré "
+    },
+    {
+      "tipo": "letra",
+      "texto": "                      (Corte2)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -246,7 +254,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Al Rey Hossana"
+      "texto": "Al Rey Hosanna"
     },
     {
       "tipo": "acorde",
@@ -261,16 +269,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]"
     },
     {
       "tipo": "acorde",
-      "texto": "      Cm           Gm"
+      "texto": "       Cm          "
     },
     {
       "tipo": "letra",
-      "texto": "Yo me asombro me maravillo"
+      "texto": "Yo me asombro (yo me asombro)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me maravillo (me maravillo)"
     },
     {
       "tipo": "acorde",
@@ -282,26 +298,38 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Cm          Gm"
+      "texto": "       Cm          "
     },
     {
       "tipo": "letra",
-      "texto": "No hay nadie mas glorioso"
+      "texto": "No hay nadie (no hay nadie)"
     },
     {
       "tipo": "acorde",
-      "texto": "       A           D"
+      "texto": "        Gm"
     },
     {
       "tipo": "letra",
-      "texto": "Tan hermoso como mi Rey (Corte2)"
+      "texto": "Más glorioso (más glorioso)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tan hermoso como mi Rey "
+    },
+    {
+      "tipo": "letra",
+      "texto": "                    (Corte2)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]"
     },
     {
@@ -345,19 +373,19 @@
       "texto": ""
     },
     {
-      "tipo": "acorde",
-      "texto": "Gm"
+      "tipo": "tag",
+      "texto": "[Corte]"
     },
     {
-      "tipo": "letra",
-      "texto": "Corte"
+      "tipo": "acorde",
+      "texto": "Gm"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x6"
     },
     {
@@ -366,7 +394,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Al Rey Hossana"
+      "texto": "Al Rey Hosanna"
     },
     {
       "tipo": "acorde",
@@ -381,7 +409,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

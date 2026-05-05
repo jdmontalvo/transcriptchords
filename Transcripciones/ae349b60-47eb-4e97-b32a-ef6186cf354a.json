@@ -17,8 +17,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2  1 suave, 1 ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -50,35 +50,59 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "                             (corte segunda)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
       "tipo": "acorde",
-      "texto": "          C                            Gm"
+      "texto": "          C                            "
     },
     {
       "tipo": "letra",
-      "texto": "Con tu poder y brazo fuerte les libraste"
+      "texto": "Con tu poder y brazo fuerte "
     },
     {
       "tipo": "acorde",
-      "texto": "             C                         Gm"
+      "texto": "       Gm"
     },
     {
       "tipo": "letra",
-      "texto": "El mar se abrió, el pueblo en seco caminó"
+      "texto": "Les libraste"
     },
     {
       "tipo": "acorde",
-      "texto": "             C                         Gm"
+      "texto": "             C                         "
     },
     {
       "tipo": "letra",
-      "texto": "Dios de Abraham, Dios de Issac y de Jacob"
+      "texto": "El mar se abrió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El pueblo en seco caminó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C                         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios de Abraham"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios de Issac y de Jacob"
     },
     {
       "tipo": "acorde",
@@ -86,14 +110,14 @@
     },
     {
       "tipo": "letra",
-      "texto": "yo soy tu hijo, declarandote Señor"
+      "texto": "yo soy tu hijo, declarándote Señor"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -117,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -138,11 +162,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "              C                           Gm"
+      "texto": "              C                           "
     },
     {
       "tipo": "letra",
-      "texto": "Dios de Abraham, Dios de Issac, Dios de Jacob"
+      "texto": "Dios de Abraham"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                         Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios de Issac, Dios de Jacob"
     },
     {
       "tipo": "acorde",
@@ -150,14 +182,14 @@
     },
     {
       "tipo": "letra",
-      "texto": "yo soy tu hijo, declarandote Señor"
+      "texto": "yo soy tu hijo, declarándote Señor"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -181,7 +213,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x2"
     },
     {
@@ -193,7 +225,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4 2 capela, 2 normal"
     },
     {
@@ -217,7 +249,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]x3"
     },
     {

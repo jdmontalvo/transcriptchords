@@ -1,15 +1,19 @@
 {
   "contenido": [
     {
+      "tipo": "titulo",
+      "texto": "Marcos Witt — Mi Primer Amor"
+    },
+    {
       "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "--Inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -21,48 +25,48 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": "A          E"
+      "texto": "A          E     F#m7"
     },
     {
       "tipo": "letra",
-      "texto": "  Oh Jesus,"
+      "texto": "  Oh Jesús   mis pasos me han llevado      "
     },
     {
       "tipo": "acorde",
-      "texto": "    F#m7                     E   D      A"
+      "texto": "    E   D        A"
     },
     {
       "tipo": "letra",
-      "texto": "Mis pasos me han llevado tan le-jos  de Ti"
+      "texto": "Tan le-jos  de Ti"
     },
     {
       "tipo": "acorde",
-      "texto": "     E"
+      "texto": "     E           F#m7 "
     },
     {
       "tipo": "letra",
-      "texto": "Mi alma"
+      "texto": "Mi alma  Se ha secado en el desierto"
     },
     {
       "tipo": "acorde",
-      "texto": "        F#m7                    E     D"
+      "texto": "     E     D               "
     },
     {
       "tipo": "letra",
-      "texto": "Se ha secado en el desierto dentro de mi"
+      "texto": "Dentro de mi"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Precoro]"
+      "tipo": "tag",
+      "texto": "[Precoro] juego platos y hihat"
     },
     {
       "tipo": "acorde",
@@ -70,7 +74,7 @@
     },
     {
       "tipo": "letra",
-      "texto": " Escúchame, mi Jesús"
+      "texto": "Escúchame, mi Jesús"
     },
     {
       "tipo": "acorde",
@@ -101,8 +105,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro]  Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -134,47 +138,79 @@
     },
     {
       "tipo": "letra",
-      "texto": "Llevame hoy al Santo Lugar Jesús"
+      "texto": "Llévame hoy al Santo Lugar Jesús"
     },
     {
       "tipo": "acorde",
-      "texto": "D           Dm        A"
+      "texto": "D            Dm           A"
     },
     {
       "tipo": "letra",
-      "texto": "Donde-eeeeeee     te conoci"
+      "texto": "Donde-eeeeeee     te conocí"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "            (Corte)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
       "tipo": "acorde",
-      "texto": "A  E  F#m7  ( E - D )"
+      "texto": "A  E  F#m7   E - D "
+    },
+    {
+      "tipo": "letra",
+      "texto": "            (Corte)"
     },
     {
       "tipo": "letra",
       "texto": "--Ministración o volver al verso---"
     },
     {
+      "tipo": "tag",
+      "texto": "[Verso]  Ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A          E     F#m7"
+    },
+    {
       "tipo": "letra",
-      "texto": ""
+      "texto": "  Oh Jesús   mis pasos me han llevado      "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    E   D        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tan le-jos  de Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E           F#m7 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alma  Se ha secado en el desierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E     D               "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dentro de mi"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x3"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
+      "tipo": "tag",
+      "texto": "[Coro]x3 1 caja suave, 2 fuerte"
     },
     {
       "tipo": "acorde",
@@ -206,7 +242,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Llevame hoy al Santo Lugar Jesus"
+      "texto": "Llévame hoy al Santo Lugar Jesús"
     },
     {
       "tipo": "acorde",
@@ -214,7 +250,95 @@
     },
     {
       "tipo": "letra",
-      "texto": "Donde-eeeeeee     te conoci"
+      "texto": "Donde-eeeeeee     te conocí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental] caja suave "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dmaj7      A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dmaj7      A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D        Bm7 - E - A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Amaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Primer amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Te adorare por siempre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D              F       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo quiero estar pegado a Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Amaj7          Bm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llévame hoy al Santo Lugar Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D           Dm        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Donde-eeeeeee     te conocí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dmaj7      A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dmaj7      A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D        Bm7 - E - A"
     },
     {
       "tipo": "letra",
@@ -223,10 +347,6 @@
     {
       "tipo": "letra",
       "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "Repetir coro suavemente hasta acabar..."
     }
   ]
 }

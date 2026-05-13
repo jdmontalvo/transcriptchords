@@ -1,0 +1,492 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Generación 12 — Encontre"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B Emaj7 G#m - F# - Emaj7  B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B                         Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré agua que da vida, encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Agua que da vida, encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           F#                Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Es un manantial que sacia mi alma"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B                    Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré pan de vida, encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pan de vida encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#       Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y jamás seré igual"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B            G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, hoy me rindo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo tengo este corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darte mi adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B             G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, yo me inclino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor  (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré a Jesús,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                    Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "mi buen pastor encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                              G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "A Jesús, mi buen pastor, encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él me cuida y me da descanso"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                        Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "paz que no se puede comprender"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                           G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Paz que no se puede comprender"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F#              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y ahora mi alma te canta"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B            G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, hoy me rindo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo tengo este corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darte mi adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B             G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, yo me inclino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2  juego caja, caja y bombo creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B  C#m7 - G#m  E - F#   B - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x4 2 juego toms, 2 crece corcheas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       E            F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán grande es Tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada me falta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada me falta"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] ritmo fuerte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B            G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, hoy me rindo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo tengo este corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darte mi adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B             G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, yo me inclino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso3] juego caja"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "aquel que Su sangre derramó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                       G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y con Sus heridas me sanó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#             Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Encontré a Cristo, mi Salvador"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Puedo ver las marcas en Sus manos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "y en Sus pies"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                               G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El amor del Cielo demostrado en Él"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#             Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh Jesús, cordero de Dios."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro] Sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B            G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, hoy me rindo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo tengo este corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para darte mi adoración"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      B             G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo, yo me inclino"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Emaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuán hermoso eres Tú, Señor"
+    }
+  ]
+}

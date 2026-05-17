@@ -210,6 +210,46 @@
     },
     {
       "tipo": "tag",
+      "texto": "[Precoro] caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dmaj7      A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Escúchame, mi Jesús"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dmaj7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El amor de mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La luz de mi existir"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D      Bm7    E   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No puedo vivir   sin Ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
       "texto": "[Coro]x3 1 caja suave, 2 fuerte"
     },
     {
@@ -217,7 +257,7 @@
       "texto": "          Amaj7"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "Mi Primer amor"
     },
     {
@@ -225,7 +265,7 @@
       "texto": "        Bm7"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Te adorare por siempre"
     },
     {
@@ -241,7 +281,7 @@
       "texto": "       Amaj7          Bm7"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Llévame hoy al Santo Lugar Jesús"
     },
     {
@@ -249,7 +289,7 @@
       "texto": "D           Dm        A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Donde-eeeeeee     te conocí"
     },
     {
@@ -273,7 +313,7 @@
       "texto": "D        Bm7 - E - A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
@@ -285,7 +325,7 @@
       "texto": "          Amaj7"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "Mi Primer amor"
     },
     {
@@ -293,7 +333,7 @@
       "texto": "        Bm7"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Te adorare por siempre"
     },
     {

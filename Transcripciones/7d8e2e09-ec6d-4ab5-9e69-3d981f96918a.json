@@ -22,7 +22,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     Cm              Bb"
+      "texto": "    Cm              Bb"
     },
     {
       "tipo": "letra",
@@ -30,11 +30,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     Ab  Bb   Cm"
+      "texto": "     Ab   Bb     Cm"
     },
     {
       "tipo": "letra",
-      "texto": "Los mu--ros caerán "
+      "texto": "Los muros    caerán "
     },
     {
       "tipo": "acorde",
@@ -46,11 +46,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     Ab  Bb      Cm    C-Eb-F-G Bb-Bb-C"
+      "texto": "     Ab   Bb      Cm  C-Eb-F-G Bb-Bb-C"
     },
     {
       "tipo": "letra",
-      "texto": "Los mu--ros    caerán"
+      "texto": "Los muros     caerán"
     },
     {
       "tipo": "letra",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro] ritmo"
+      "texto": "[Coro] Normal"
     },
     {
       "tipo": "acorde",
@@ -101,8 +101,8 @@
       "texto": "[Intro] ritmo"
     },
     {
-      "tipo": "letra",
-      "texto": " Cm  Ab  Bb  Cm X1"
+      "tipo": "acorde",
+      "texto": " Cm  Ab  Bb  Cm "
     },
     {
       "tipo": "letra",
@@ -114,35 +114,51 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  Cm              Bb"
+      "texto": "  Cm             "
     },
     {
       "tipo": "letra",
-      "texto": "Cuando yo danzo aumenta  Dios mis fuerzas"
+      "texto": "Cuando yo danzo"
     },
     {
       "tipo": "acorde",
-      "texto": "     Ab  Bb    Cm"
+      "texto": "   Bb"
     },
     {
       "tipo": "letra",
-      "texto": "Los mu--ros   caerán"
+      "texto": "Aumenta  Dios mis fuerzas"
     },
     {
       "tipo": "acorde",
-      "texto": "Cm                  Bb"
+      "texto": "     Ab   Bb     Cm"
     },
     {
       "tipo": "letra",
-      "texto": "Cuando yo grito mis enemigos huyen"
+      "texto": "Los muros     caerán"
     },
     {
       "tipo": "acorde",
-      "texto": "    Ab  Bb     Cm      C-Eb-F-G Bb-Bb-C"
+      "texto": "Cm                  "
     },
     {
       "tipo": "letra",
-      "texto": "Los mu--ros    caerán"
+      "texto": "Cuando yo grito "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mis enemigos huyen"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Ab   Bb     Cm    C-Eb-F-G Bb-Bb-C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los muros    caerán"
     },
     {
       "tipo": "letra",
@@ -206,7 +222,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Instumental]x4 bombo negras"
+      "texto": "[Instrumental]x4 bombo negras"
     },
     {
       "tipo": "acorde",
@@ -222,11 +238,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "         Cm     Bb          Cm     Bb"
+      "texto": "         Cm    Bb          Cm     Bb"
     },
     {
       "tipo": "letra",
-      "texto": "Caen los muros,    caen los muros    "
+      "texto": "Caen los muros   (caen los muros)"
     },
     {
       "tipo": "letra",
@@ -246,7 +262,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": " Ab            Gm    Cm          Bb"
+      "texto": "Ab            Gm    Cm          Bb"
     },
     {
       "tipo": "letra",

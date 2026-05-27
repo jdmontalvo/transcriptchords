@@ -2,6 +2,10 @@
   "contenido": [
     {
       "tipo": "titulo",
+      "texto": "Marcos Witt — Has Cambiado Mi Lamento En Baile"
+    },
+    {
+      "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
     },
     {
@@ -86,7 +90,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2 "
+      "texto": "[Verso]x2"
     },
     {
       "tipo": "acorde",
@@ -150,7 +154,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2 "
+      "texto": "[Verso2]x2"
     },
     {
       "tipo": "acorde",
@@ -162,7 +166,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C     D     Em    "
+      "texto": "C     D     Em"
     },
     {
       "tipo": "letra",
@@ -202,7 +206,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     B               Em      "
+      "texto": "     B               Em"
     },
     {
       "tipo": "letra",
@@ -222,7 +226,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2 "
+      "texto": "[Verso2]x2"
     },
     {
       "tipo": "acorde",
@@ -234,7 +238,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C     D     Em    "
+      "texto": "C     D     Em"
     },
     {
       "tipo": "letra",
@@ -274,7 +278,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     B               Em      "
+      "texto": "     B               Em"
     },
     {
       "tipo": "letra",
@@ -294,7 +298,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2 "
+      "texto": "[Verso]x2"
     },
     {
       "tipo": "acorde",
@@ -358,7 +362,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2 "
+      "texto": "[Verso2]x2"
     },
     {
       "tipo": "acorde",
@@ -370,7 +374,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C     D     Em    "
+      "texto": "C     D     Em"
     },
     {
       "tipo": "letra",
@@ -394,7 +398,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C     D     Em    "
+      "texto": "C     D     Em"
     },
     {
       "tipo": "letra",

@@ -30,23 +30,23 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G    Bm - Em"
+      "texto": "G   Bm - Em"
     },
     {
       "tipo": "acorde",
-      "texto": "G    Bm - Em"
+      "texto": "G   Bm - Em"
     },
     {
       "tipo": "acorde",
-      "texto": "G    Bm - Em"
+      "texto": "G   Bm - Em"
     },
     {
       "tipo": "acorde",
-      "texto": "G    Bm - Em"
+      "texto": "G   Bm - Em"
     },
     {
       "tipo": "acorde",
-      "texto": "C  Bm"
+      "texto": "C Bm"
     },
     {
       "tipo": "letra",
@@ -58,15 +58,15 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                 B7  Em"
+      "texto": "Bm           G     B7 Em"
     },
     {
       "tipo": "letra",
-      "texto": "  Camino a Carapungo voy"
+      "texto": "   Camino a Carapungo voy"
     },
     {
       "tipo": "acorde",
-      "texto": "G                 B7  Em"
+      "texto": "Em         G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -74,7 +74,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                   B7  Em"
+      "texto": "Em         G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -82,7 +82,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                  B7  Em"
+      "texto": "Em        G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -90,7 +90,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     C               Bm"
+      "texto": " Em        C         Bm"
     },
     {
       "tipo": "letra",
@@ -118,15 +118,15 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                 B7  Em"
+      "texto": "Bm           G     B7 Em"
     },
     {
       "tipo": "letra",
-      "texto": "  Camino a Carapungo voy"
+      "texto": "   Camino a Carapungo voy"
     },
     {
       "tipo": "acorde",
-      "texto": "G                 B7  Em"
+      "texto": "Em         G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -134,7 +134,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                   B7  Em"
+      "texto": "Em         G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -142,7 +142,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                  B7  Em"
+      "texto": "Em        G        B7 Em"
     },
     {
       "tipo": "letra",
@@ -150,7 +150,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     C               Bm"
+      "texto": " Em        C         Bm"
     },
     {
       "tipo": "letra",
@@ -178,7 +178,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   C                    G"
+      "texto": "           C            G"
     },
     {
       "tipo": "letra",
@@ -186,7 +186,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    C                  G"
+      "texto": "           C           G"
     },
     {
       "tipo": "letra",
@@ -194,7 +194,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  Bm             Em"
+      "texto": "       Bm         Em"
     },
     {
       "tipo": "letra",
@@ -202,7 +202,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  Bm             Em"
+      "texto": "       Bm         Em"
     },
     {
       "tipo": "letra",
@@ -210,7 +210,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   C                   Bm"
+      "texto": "        C               Bm"
     },
     {
       "tipo": "letra",
@@ -278,7 +278,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   B7                   Em"
+      "texto": "         B7             Em"
     },
     {
       "tipo": "letra",
@@ -286,7 +286,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   B7                   Em"
+      "texto": "          B7            Em"
     },
     {
       "tipo": "letra",
@@ -294,7 +294,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                   B7  Em"
+      "texto": "           G         B7  Em"
     },
     {
       "tipo": "letra",
@@ -302,7 +302,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G                   B7  Em"
+      "texto": "           G         B7  Em"
     },
     {
       "tipo": "letra",
@@ -310,7 +310,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  Bm             Em"
+      "texto": "       Bm          Em"
     },
     {
       "tipo": "letra",
@@ -318,7 +318,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "  Bm             Em"
+      "texto": "       Bm         Em"
     },
     {
       "tipo": "letra",
@@ -326,7 +326,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "     C                 Bm"
+      "texto": "            C           Bm"
     },
     {
       "tipo": "letra",

@@ -13,7 +13,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro guitarra]"
     },
     {
@@ -57,7 +57,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Pulsos] en Dm"
     },
     {
@@ -73,7 +73,7 @@
       "texto": "Dm Bb Gm Dm   A A A A"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Modulación]"
     },
     {
@@ -89,11 +89,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -101,7 +101,7 @@
       "texto": "Majestad, Gloria a Nuestro Rey"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      F"
     },
     {
@@ -109,7 +109,7 @@
       "texto": "Su poder, Infinito Es"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -125,7 +125,7 @@
       "texto": "El nos per-do-nó"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -133,7 +133,7 @@
       "texto": "El es fiel, Gloria a nuestro Dios"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       F"
     },
     {
@@ -141,7 +141,7 @@
       "texto": "Por amor, él nos rescato"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -161,11 +161,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Dm"
     },
     {
@@ -193,7 +193,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -213,7 +213,7 @@
       "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "C"
     },
     {
@@ -221,7 +221,7 @@
       "texto": "Reinas con justicia, Reinas con poder"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      Dm"
     },
     {
@@ -241,11 +241,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -253,7 +253,7 @@
       "texto": "Majestad, Gloria a Nuestro Rey"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      F"
     },
     {
@@ -261,7 +261,7 @@
       "texto": "Su poder, Infinito Es"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -277,7 +277,7 @@
       "texto": "El nos per-do-nó"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -285,7 +285,7 @@
       "texto": "El es fiel, Gloria a nuestro Dios"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       F"
     },
     {
@@ -293,7 +293,7 @@
       "texto": "Por amor, él nos rescato"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "     Am"
     },
     {
@@ -313,11 +313,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Dm"
     },
     {
@@ -345,7 +345,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -365,7 +365,7 @@
       "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "C"
     },
     {
@@ -373,7 +373,7 @@
       "texto": "Reinas con justicia, Reinas con poder"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      Dm"
     },
     {
@@ -393,7 +393,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo 1] suave, crece y corte"
     },
     {
@@ -405,7 +405,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo 2] Fuerte"
     },
     {
@@ -417,11 +417,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro 2]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Dm"
     },
     {
@@ -445,7 +445,7 @@
       "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "              F"
     },
     {
@@ -457,7 +457,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro suave] primera parte suave, segunda parte subiendo en picado y corte"
     },
     {
@@ -477,7 +477,7 @@
       "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "C"
     },
     {
@@ -485,7 +485,7 @@
       "texto": "Reinas con justicia, Reinas con poder"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      Dm"
     },
     {
@@ -505,7 +505,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -525,7 +525,7 @@
       "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "C"
     },
     {
@@ -533,7 +533,7 @@
       "texto": "Reinas con justicia, Reinas con poder"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "      Dm"
     },
     {

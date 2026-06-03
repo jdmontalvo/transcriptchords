@@ -2,7 +2,7 @@
   "contenido": [
     {
       "tipo": "titulo",
-      "texto": "Paul Wilbur — Kadosh"
+      "texto": "Jesús Adrián Romero — Libertad"
     },
     {
       "tipo": "letra",
@@ -10,15 +10,15 @@
     },
     {
       "tipo": "letra",
-      "texto": "--inicia sin batería--"
+      "texto": ""
     },
     {
       "tipo": "tag",
-      "texto": "[Intro]x2"
+      "texto": "[Intro]x6 2 disco suave 4 disco fuerte"
     },
     {
-      "tipo": "acorde",
-      "texto": "Gm  Cm - Dm  Gm"
+      "tipo": "letra",
+      "texto": "Dm7 Dm7 Dm9 - Dm7   Bb  A7"
     },
     {
       "tipo": "letra",
@@ -26,15 +26,71 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "Gm     Cm - Dm  Gm"
+      "texto": "[Verso]"
     },
     {
       "tipo": "letra",
-      "texto": "Kadosh, Kadosh, Kadosh"
+      "texto": "            Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me has dado libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salí de mi prisión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Bb            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gran poder en mi rompió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C           Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Las cadenas de mi gran opresión"
+    },
+    {
+      "tipo": "letra",
+      "texto": "            Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me has dado salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cautivo ya no soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No vivo mas en condenación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C          Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He sido libre por tu gran amor"
     },
     {
       "tipo": "letra",
@@ -42,15 +98,39 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Precoro]x2"
+      "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "  F       Dm        Gm"
+      "texto": "     Dm           Bb  A7"
     },
     {
       "tipo": "letra",
-      "texto": "Adonai Elohim tz'va'ot,"
+      "texto": "Libertad tu me has dado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm           C  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad de mis cadenas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bb            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad no soy esclavo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     C         Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy tan libre puedo casi volar"
     },
     {
       "tipo": "letra",
@@ -58,15 +138,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2  inicia acústica"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "Gm     Cm - Dm  Gm"
+      "texto": "[Intro]x2 bombo negras  (Corte)"
     },
     {
       "tipo": "letra",
-      "texto": "Kadosh, Kadosh, Kadosh"
+      "texto": "Dm7 Dm7 Dm9 - Dm7   Bb  A7"
     },
     {
       "tipo": "letra",
@@ -74,15 +150,71 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Precoro]x2"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "  F       Dm        Gm"
+      "texto": "[Verso]"
     },
     {
       "tipo": "letra",
-      "texto": "Adonai Elohim tz'va'ot"
+      "texto": "            Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me has dado libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salí de mi prisión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Bb            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu gran poder en mi rompió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C           Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Las cadenas de mi gran opresión"
+    },
+    {
+      "tipo": "letra",
+      "texto": "            Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me has dado salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": "        Dm7 Dm7 Dm9 - Dm7   Bb  A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cautivo ya no soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb              F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No vivo mas en condenación"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   C          Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He sido libre por tu gran amor"
     },
     {
       "tipo": "letra",
@@ -90,15 +222,39 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2 juego toms y caja suave"
+      "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "  G      F        C      G"
+      "texto": "     Dm           Bb  A7"
     },
     {
       "tipo": "letra",
-      "texto": "Asher hayah, V'hoveh v'yavo"
+      "texto": "Libertad tu me has dado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm           C  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad de mis cadenas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bb            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad no soy esclavo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     C         Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy tan libre puedo casi volar"
     },
     {
       "tipo": "letra",
@@ -106,15 +262,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2  juego toms"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "Gm     Cm - Dm  Gm"
+      "texto": "[Intro]x4 2 suave 2 disco"
     },
     {
       "tipo": "letra",
-      "texto": "Santo, san--to, santo"
+      "texto": "Dm7 Dm7 Dm9 - Dm7   Bb  A7"
     },
     {
       "tipo": "letra",
@@ -122,15 +274,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Precoro2]x2 juego toms caja suave"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "  F   Dm           Gm"
+      "texto": "[Solo]x8"
     },
     {
       "tipo": "letra",
-      "texto": "Señor Rey de los ejércitos"
+      "texto": "Dm7 Dm7 Dm9 - Dm7   Bb  A7"
     },
     {
       "tipo": "letra",
@@ -138,15 +286,31 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2 ritmo y toms"
+      "texto": "[Puente]x2 1 jalado, 1 ritmo"
     },
     {
       "tipo": "acorde",
-      "texto": "  G      F        C      G"
+      "texto": "          Dm             C"
     },
     {
       "tipo": "letra",
-      "texto": "Asher hayah, V'hoveh v'yavo"
+      "texto": "Libre soy en Jesús libre por su cruz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He visto en el la luz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G        A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿Por qué no vienes tu?   (corte segundo)"
     },
     {
       "tipo": "letra",
@@ -154,15 +318,39 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro2]x2"
+      "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "      G         F      C        G"
+      "texto": "     Dm           Bb  A7"
     },
     {
       "tipo": "letra",
-      "texto": "Quién fue, quién es y quién vendrá"
+      "texto": "Libertad tu me has dado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Dm           C  G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad de mis cadenas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bb            F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Libertad no soy esclavo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     C         Am A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Soy tan libre puedo casi volar"
     },
     {
       "tipo": "letra",
@@ -170,27 +358,15 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Solo]x4 ritmo"
+      "texto": "[Final]"
     },
     {
       "tipo": "acorde",
-      "texto": " G     F    C     G"
+      "texto": "     Dm"
     },
     {
       "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "tag",
-      "texto": "[interludio]x2"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "   G   F  C     G"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Lalala la la"
+      "texto": "Libertad"
     }
   ]
 }

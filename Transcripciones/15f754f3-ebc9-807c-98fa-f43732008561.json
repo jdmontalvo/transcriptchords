@@ -34,7 +34,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro guitarra]"
+      "texto": "[Intro guitarra] jueo toms"
     },
     {
       "tipo": "acorde",
@@ -58,11 +58,19 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Pulsos] en Dm"
+      "texto": "[Pulsos] "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm"
     },
     {
       "tipo": "letra",
       "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro 3] ritmo"
     },
     {
       "tipo": "acorde",
@@ -71,6 +79,10 @@
     {
       "tipo": "acorde",
       "texto": "Dm Bb Gm Dm   A A A A"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -90,7 +102,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]"
+      "texto": "[Verso] ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -182,11 +194,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm              Am           F"
+      "texto": "Dm              Am           "
     },
     {
       "tipo": "letra",
-      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+      "texto": " Honra y Gloria  Sean Dadas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Cordero de Dios"
     },
     {
       "tipo": "letra",
@@ -198,19 +218,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C                                Dm"
+      "texto": "C                                "
     },
     {
       "tipo": "letra",
-      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+      "texto": "Alto y Sublime eres el Señor  "
     },
     {
       "tipo": "acorde",
-      "texto": "                      Am           G  C   F"
+      "texto": "    Dm"
     },
     {
       "tipo": "letra",
-      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+      "texto": "Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor"
     },
     {
       "tipo": "acorde",
@@ -230,11 +266,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   Am            G  C   F      Dm7"
+      "texto": "                   Am           "
     },
     {
       "tipo": "letra",
-      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+      "texto": "Somos fruto de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F      Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor   (Corte)"
     },
     {
       "tipo": "letra",
@@ -242,7 +286,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]"
+      "texto": "[Verso] Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -334,11 +378,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm              Am           F"
+      "texto": "Dm              Am           "
     },
     {
       "tipo": "letra",
-      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+      "texto": " Honra y Gloria  Sean Dadas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Cordero de Dios (creciendo)"
     },
     {
       "tipo": "letra",
@@ -350,19 +402,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C                                Dm"
+      "texto": "C                                "
     },
     {
       "tipo": "letra",
-      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+      "texto": "Alto y Sublime eres el Señor  "
     },
     {
       "tipo": "acorde",
-      "texto": "                      Am           G  C   F"
+      "texto": "    Dm"
     },
     {
       "tipo": "letra",
-      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+      "texto": "Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor"
     },
     {
       "tipo": "acorde",
@@ -382,11 +450,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   Am            G  C   F      Dm7"
+      "texto": "                   Am           "
     },
     {
       "tipo": "letra",
-      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+      "texto": "Somos fruto de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F      Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor   (Corte)"
     },
     {
       "tipo": "letra",
@@ -406,7 +482,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Solo 2] Fuerte"
+      "texto": "[Solo 2] Ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -438,11 +514,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm              Am           F"
+      "texto": "Dm              Am           "
     },
     {
       "tipo": "letra",
-      "texto": " Honra y Gloria  Sean Dadas al Cordero de Dios"
+      "texto": " Honra y Gloria  Sean Dadas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Cordero de Dios "
     },
     {
       "tipo": "acorde",
@@ -450,7 +534,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "al Cordero de Dios"
+      "texto": "al Cordero de Dios  (Corte)"
     },
     {
       "tipo": "letra",
@@ -458,23 +542,39 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro suave] primera parte suave, segunda parte subiendo en picado y corte"
+      "texto": "[Coro suave] mitad suave, mitad creciendo "
     },
     {
       "tipo": "acorde",
-      "texto": "C                                Dm"
+      "texto": "C                                "
     },
     {
       "tipo": "letra",
-      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+      "texto": "Alto y Sublime eres el Señor  "
     },
     {
       "tipo": "acorde",
-      "texto": "                      Am           G  C   F"
+      "texto": "    Dm"
     },
     {
       "tipo": "letra",
-      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+      "texto": "Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor"
     },
     {
       "tipo": "acorde",
@@ -494,11 +594,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   Am            G  C   F"
+      "texto": "                   Am           "
     },
     {
       "tipo": "letra",
-      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+      "texto": "Somos fruto de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F      Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor   (Corte)"
     },
     {
       "tipo": "letra",
@@ -510,19 +618,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "C                                Dm"
+      "texto": "C                                "
     },
     {
       "tipo": "letra",
-      "texto": "Alto y Sublime eres el Señor Poderoso Invencible"
+      "texto": "Alto y Sublime eres el Señor  "
     },
     {
       "tipo": "acorde",
-      "texto": "                      Am           G  C   F"
+      "texto": "    Dm"
     },
     {
       "tipo": "letra",
-      "texto": "Incomparable eres oh Rey, nuestro sal-va-dor"
+      "texto": "Poderoso Invencible"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Am           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Incomparable eres oh Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor"
     },
     {
       "tipo": "acorde",
@@ -542,11 +666,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   Am            G  C   F"
+      "texto": "                   Am           "
     },
     {
       "tipo": "letra",
-      "texto": "Somos fruto de tu amor, Nuestro sal-va-dor"
+      "texto": "Somos fruto de tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G  C   F    Dm7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nuestro sal-va-dor   "
     },
     {
       "tipo": "letra",

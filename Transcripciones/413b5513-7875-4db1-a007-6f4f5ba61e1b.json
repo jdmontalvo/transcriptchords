@@ -13,8 +13,8 @@
       "texto": "Transcripción por David M Guitar"
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro]  Juego platos"
     },
     {
       "tipo": "acorde",
@@ -30,7 +30,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Verso]x2"
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 Juego platos"
     },
     {
       "tipo": "acorde",
@@ -69,8 +73,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] ritmo "
     },
     {
       "tipo": "acorde",
@@ -138,7 +142,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "De  Jesús   Eeee-esss"
+      "texto": "De  Jesús   Eeee-esss  (baja intensidad)"
     },
     {
       "tipo": "acorde",
@@ -146,7 +150,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Su nombre es poder"
+      "texto": "Su nombre es poder "
     },
     {
       "tipo": "letra",
@@ -161,8 +165,8 @@
       "texto": "--Aumenta velocidad"
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2"
+      "tipo": "tag",
+      "texto": "[Verso]x2 ritmo/disco"
     },
     {
       "tipo": "acorde",
@@ -201,8 +205,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -241,11 +245,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -285,7 +285,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] x3"
     },
     {
@@ -325,7 +325,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]x2"
     },
     {

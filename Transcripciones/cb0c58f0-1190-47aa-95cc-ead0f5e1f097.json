@@ -14,10 +14,10 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "--Inicia sin batería"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2 suave"
     },
     {
@@ -38,7 +38,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo es el que vive, santo es el que reina"
+      "texto": "Santo es el que vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo es el que reina"
     },
     {
       "tipo": "acorde",
@@ -46,15 +50,27 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo en las alturas, santo aquí en la tierra"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B                     Abm"
+      "texto": "Santo en las alturas"
     },
     {
       "tipo": "letra",
-      "texto": "Santo en el pesebre, santo en el sepulcro"
+      "texto": "Santo aquí en la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el pesebre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Abm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el sepulcro"
     },
     {
       "tipo": "acorde",
@@ -69,8 +85,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro] Juego toms suave y ride"
     },
     {
       "tipo": "acorde",
@@ -81,7 +97,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] ---juego toms"
     },
     {
@@ -157,8 +173,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2 sube intensidad, creciendo semicorcheas"
+      "tipo": "tag",
+      "texto": "[Coro]x2 creciendo semicorcheas"
     },
     {
       "tipo": "acorde",
@@ -166,7 +182,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo es el que vive, santo es el que reina"
+      "texto": "Santo es el que vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo es el que reina"
     },
     {
       "tipo": "acorde",
@@ -174,15 +194,27 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo en las alturas, santo aquí en la tierra"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B                     Abm"
+      "texto": "Santo en las alturas"
     },
     {
       "tipo": "letra",
-      "texto": "Santo en el pesebre, santo en el sepulcro"
+      "texto": "Santo aquí en la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el pesebre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Abm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el sepulcro"
     },
     {
       "tipo": "acorde",
@@ -197,8 +229,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Solo]x2"
+      "tipo": "tag",
+      "texto": "[Solo]x2 Ritmo"
     },
     {
       "tipo": "acorde",
@@ -209,16 +241,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x4    (1 negras,1 corcheas,1 semicorcheas,1 picado corcheas)"
+      "tipo": "tag",
+      "texto": "[Puente]x4 --1 negras,1 corcheas,1 semicorcheas,1 picado corcheas"
     },
     {
       "tipo": "acorde",
-      "texto": "       B                              Db"
+      "texto": "       B                             "
     },
     {
       "tipo": "letra",
-      "texto": "Todos lo verán, como Rey en las nubes volverá"
+      "texto": "Todos lo verán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como Rey en las nubes volverá"
     },
     {
       "tipo": "acorde",
@@ -241,8 +281,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo"
     },
     {
       "tipo": "acorde",
@@ -250,7 +290,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo es el que vive, santo es el que reina"
+      "texto": "Santo es el que vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo es el que reina"
     },
     {
       "tipo": "acorde",
@@ -258,15 +302,27 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo en las alturas, santo aquí en la tierra"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B                     Abm"
+      "texto": "Santo en las alturas"
     },
     {
       "tipo": "letra",
-      "texto": "Santo en el pesebre, santo en el sepulcro"
+      "texto": "Santo aquí en la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el pesebre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Abm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el sepulcro"
     },
     {
       "tipo": "acorde",
@@ -281,16 +337,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x4 2 fuertes 2 suaves"
+      "tipo": "tag",
+      "texto": "[Puente]x4 2 furte, 2 suaves"
     },
     {
       "tipo": "acorde",
-      "texto": "       B                              Db"
+      "texto": "       B                             "
     },
     {
       "tipo": "letra",
-      "texto": "Todos lo verán, como Rey en las nubes volverá"
+      "texto": "Todos lo verán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como Rey en las nubes volverá"
     },
     {
       "tipo": "acorde",
@@ -313,8 +377,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x4 (nos unimos al cántico nuevo, ministración)"
+      "tipo": "tag",
+      "texto": "[Intro]x4  ministración"
     },
     {
       "tipo": "acorde",
@@ -322,10 +386,14 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "Nos unimos al cántico nuevo "
     },
     {
       "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
       "texto": "[Puente 2]x7 2 sin batería, 2 juego con platos,2 juego caja,1 creciendo"
     },
     {
@@ -349,16 +417,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2"
+      "tipo": "tag",
+      "texto": "[Puente]x2 ritmo"
     },
     {
       "tipo": "acorde",
-      "texto": "       B                              Db"
+      "texto": "       B                             "
     },
     {
       "tipo": "letra",
-      "texto": "Todos lo verán, como Rey en las nubes volverá"
+      "texto": "Todos lo verán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Como Rey en las nubes volverá"
     },
     {
       "tipo": "acorde",
@@ -381,7 +457,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2   baja intensidad"
     },
     {
@@ -390,7 +466,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo es el que vive, santo es el que reina"
+      "texto": "Santo es el que vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo es el que reina"
     },
     {
       "tipo": "acorde",
@@ -398,15 +478,27 @@
     },
     {
       "tipo": "letra",
-      "texto": "Santo en las alturas, santo aquí en la tierra"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "B                     Abm"
+      "texto": "Santo en las alturas"
     },
     {
       "tipo": "letra",
-      "texto": "Santo en el pesebre, santo en el sepulcro"
+      "texto": "Santo aquí en la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B                     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el pesebre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Abm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Santo en el sepulcro"
     },
     {
       "tipo": "acorde",
@@ -421,7 +513,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {

@@ -13,8 +13,8 @@
       "texto": "---No callaré-----"
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -25,8 +25,8 @@
       "texto": "                        paso(solo notas)"
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] juego bombo y caja y toms"
     },
     {
       "tipo": "acorde",
@@ -46,11 +46,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Dm   Am         F               G"
+      "texto": "    Dm   Am       F               G"
     },
     {
       "tipo": "letra",
-      "texto": "Tu fuego arde en mi   y  naide lo apagará"
+      "texto": "Tu fuego arde en mi y  nadie lo apagará"
     },
     {
       "tipo": "acorde",
@@ -65,8 +65,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] disco"
     },
     {
       "tipo": "acorde",
@@ -78,11 +78,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "        Am     F      C    G     Am      G"
+      "texto": "        Am     F      "
     },
     {
       "tipo": "letra",
-      "texto": "Proclamaré tu nombre  poderoso   salvador"
+      "texto": "Proclamaré tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C    G     Am      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "poderoso   salvador"
     },
     {
       "tipo": "acorde",
@@ -90,22 +98,30 @@
     },
     {
       "tipo": "letra",
-      "texto": "no      no   callaré"
+      "texto": "no       no   callaré"
     },
     {
       "tipo": "acorde",
-      "texto": "     Am     F      C     G    Am       G"
+      "texto": "     Am     F     "
     },
     {
       "tipo": "letra",
-      "texto": "gritaré tu nombre majestuoso gran yo soy"
+      "texto": "gritaré tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C     G    Am       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso gran yo soy"
     },
     {
       "tipo": "acorde",
       "texto": "             Am   F   C   G"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[no callare  hey  hey  hey  ]  x4"
     },
     {
@@ -113,8 +129,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x2"
+      "tipo": "tag",
+      "texto": "[Intro]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -125,8 +141,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] juego bombo y caja y toms"
     },
     {
       "tipo": "acorde",
@@ -146,11 +162,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Dm   Am         F               G"
+      "texto": "    Dm   Am       F               G"
     },
     {
       "tipo": "letra",
-      "texto": "Tu fuego arde en mi   y  naide lo apagará"
+      "texto": "Tu fuego arde en mi y  nadie lo apagará"
     },
     {
       "tipo": "acorde",
@@ -165,7 +181,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -178,11 +194,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "        Am     F      C    G     Am      G"
+      "texto": "        Am     F      "
     },
     {
       "tipo": "letra",
-      "texto": "Proclamaré tu nombre  poderoso   salvador"
+      "texto": "Proclamaré tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C    G     Am      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "poderoso   salvador"
     },
     {
       "tipo": "acorde",
@@ -190,22 +214,30 @@
     },
     {
       "tipo": "letra",
-      "texto": "no      no   callaré"
+      "texto": "no       no   callaré"
     },
     {
       "tipo": "acorde",
-      "texto": "     Am     F      C     G    Am       G"
+      "texto": "     Am     F     "
     },
     {
       "tipo": "letra",
-      "texto": "gritaré tu nombre majestuoso gran yo soy"
+      "texto": "gritaré tu nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C     G    Am       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Majestuoso gran yo soy"
     },
     {
       "tipo": "acorde",
       "texto": "             Am   F   C   G"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[no callare  hey  hey  hey  ]  x4"
     },
     {
@@ -213,7 +245,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Paso] Armónicos naturales guitarra"
     },
     {
@@ -225,7 +257,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio] (No acordes solo notas)"
     },
     {
@@ -241,15 +273,19 @@
       "texto": ""
     },
     {
+      "tipo": "tag",
+      "texto": "[Refrain]x8"
+    },
+    {
       "tipo": "letra",
-      "texto": "// No puedo callar (no puedo callar)// x8"
+      "texto": "No puedo callar (no puedo callar)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Reggae]x2"
     },
     {
@@ -273,7 +309,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo 1]x2"
     },
     {
@@ -285,7 +321,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Picado]x4"
     },
     {
@@ -309,20 +345,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo 2]x4 picado"
     },
     {
       "tipo": "acorde",
-      "texto": " Am G"
+      "texto": "Am G"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "Baja intensidad hasta que entre la voz (Am)"
+      "tipo": "tag",
+      "texto": "[Paso] Baja intensidad hasta que entre la voz "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
     },
     {
       "tipo": "titulo",
@@ -333,8 +373,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2"
+      "tipo": "tag",
+      "texto": "[Verso]x2 disco"
     },
     {
       "tipo": "acorde",
@@ -378,18 +418,26 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Dm                C       F    Dm   E"
+      "texto": "    Dm                C       "
     },
     {
       "tipo": "letra",
-      "texto": "Celebrando con gran gozo  el rey estaá aqui"
+      "texto": "Celebrando con gran gozo "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F    Dm   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El rey está aquí"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -405,7 +453,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso] x1"
     },
     {
@@ -450,19 +498,27 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    Dm                C       F    Dm   E"
+      "texto": "    Dm                C       "
     },
     {
       "tipo": "letra",
-      "texto": "Celebrando con gran gozo  el rey estaá aqui"
+      "texto": "Celebrando con gran gozo "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    F    Dm   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El rey está aquí"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro] mitad disco, mitad picado"
     },
     {
       "tipo": "acorde",
@@ -477,7 +533,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Cambio]"
     },
     {
@@ -501,7 +557,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Rif]x4 solo notas"
     },
     {
@@ -513,7 +569,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4 1 suave, 1 bombo negras, 2 normal"
     },
     {
@@ -553,7 +609,7 @@
       "texto": "              (última)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]x2"
     },
     {
@@ -565,7 +621,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Interludio]x8 4 suaves 4 fuertes"
     },
     {
@@ -581,7 +637,7 @@
       "texto": ""
     },
     {
-      "tipo": "titulo",
+      "tipo": "letra",
       "texto": "-------El señor es mi rey----"
     },
     {
@@ -589,7 +645,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Corte]"
     },
     {
@@ -601,7 +657,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -621,7 +677,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -685,7 +741,7 @@
       "texto": "-----Cristo no está muerto----"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -713,7 +769,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x3"
     },
     {
@@ -761,7 +817,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]"
     },
     {
@@ -789,7 +845,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro] x4 2 suaves 2 fuertes"
     },
     {
@@ -801,7 +857,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -841,7 +897,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -881,7 +937,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4 1 suave,1 ritno, 2 picado"
     },
     {

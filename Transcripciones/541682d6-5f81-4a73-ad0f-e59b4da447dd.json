@@ -30,27 +30,43 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       C                                F"
+      "texto": "       C                               "
     },
     {
       "tipo": "letra",
-      "texto": "Tú me llevas al lugar donde encontré descanso"
+      "texto": "Tú me llevas"
     },
     {
       "tipo": "acorde",
-      "texto": "G                         Am         F"
+      "texto": "                           F"
     },
     {
       "tipo": "letra",
-      "texto": "Renuevas mis fuerzas, tú guías mis pasos"
+      "texto": "Al lugar donde encontré descanso"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "G                         Am         F"
+      "texto": "G                         "
     },
     {
       "tipo": "letra",
-      "texto": "Renuevas mis fuerzas, tú guías mis pasos"
+      "texto": " Renuevas mis fuerzas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú guías mis pasos"
     },
     {
       "tipo": "letra",
@@ -114,35 +130,59 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       C                                F"
+      "texto": "       C                                "
     },
     {
       "tipo": "letra",
-      "texto": "En tus brazos cada miedo y temor se apagan"
+      "texto": "En tus brazos"
     },
     {
       "tipo": "acorde",
-      "texto": "      C                              F"
+      "texto": "                       F"
     },
     {
       "tipo": "letra",
-      "texto": "Tú me enseñas a confiar cuando mi fe desmaya"
+      "texto": "Cada miedo y temor se apagan"
     },
     {
       "tipo": "acorde",
-      "texto": "G                         Am         F"
+      "texto": "      C                            "
     },
     {
       "tipo": "letra",
-      "texto": "Renuevas mis fuerzas, tú guías mis pasos"
+      "texto": "Tú me enseñas"
     },
     {
       "tipo": "acorde",
-      "texto": "G                         Am         F"
+      "texto": "                           F"
     },
     {
       "tipo": "letra",
-      "texto": "Renuevas mis fuerzas, tú guías mis pasos"
+      "texto": "A confiar cuando mi fe desmaya"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G                         "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Renuevas mis fuerzas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Am        F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú guías mis pasos"
     },
     {
       "tipo": "letra",
@@ -269,7 +309,7 @@
       "texto": "Y nunca te rindes"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": ""
     },
     {

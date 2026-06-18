@@ -637,7 +637,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "-------El señor es mi rey----"
     },
     {
@@ -798,11 +798,15 @@
     },
     {
       "tipo": "acorde",
-      "texto": "    C                       C"
+      "texto": "    C                       "
     },
     {
       "tipo": "letra",
-      "texto": "Lo siento en mis manos, lo siento en los pies"
+      "texto": "Lo siento en mis manos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "lo siento en los pies"
     },
     {
       "tipo": "acorde",

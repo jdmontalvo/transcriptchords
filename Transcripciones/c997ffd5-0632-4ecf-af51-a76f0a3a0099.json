@@ -1,7 +1,7 @@
 {
   "contenido": [
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "Ebenezer — Así Como David Danzaba"
     },
     {
@@ -17,7 +17,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -29,16 +29,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "          Am                             G"
+      "texto": "          Am                             "
     },
     {
       "tipo": "letra",
-      "texto": "Cuando el Señor hiciere volver la cautividad"
+      "texto": "Cuando el Señor hiciere volver"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La cautividad"
     },
     {
       "tipo": "acorde",
@@ -46,26 +54,34 @@
     },
     {
       "tipo": "letra",
-      "texto": "seremos como los que sueñan"
+      "texto": "Seremos como los que sueñan"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "   Am                         G"
+      "texto": "   Am                        "
     },
     {
       "tipo": "letra",
-      "texto": "Mi boca llenará de risa, mis labios de alabanza,"
+      "texto": "Mi boca llenará de risa"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G"
     },
     {
       "tipo": "letra",
+      "texto": "Mis labios de alabanza,"
+    },
+    {
+      "tipo": "acorde",
       "texto": "  Dm"
     },
     {
@@ -73,7 +89,7 @@
       "texto": "Entonces dirán las naciones"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "         E"
     },
     {
@@ -85,11 +101,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -97,7 +113,7 @@
       "texto": "Me gozaré, me gozaré, me gozaré,"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  G"
     },
     {
@@ -106,27 +122,43 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            Dm                           E7"
+      "texto": "            Dm                           "
     },
     {
       "tipo": "letra",
-      "texto": "Pues ha llevado todo dolor, me ha hecho libre"
+      "texto": "Pues ha llevado todo dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "          Am                             G"
+      "texto": "          Am                             "
     },
     {
       "tipo": "letra",
-      "texto": "Cuando el Señor hiciere volver la cautividad"
+      "texto": "Cuando el Señor hiciere volver"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La cautividad"
     },
     {
       "tipo": "acorde",
@@ -134,26 +166,34 @@
     },
     {
       "tipo": "letra",
-      "texto": "seremos como los que sueñan"
+      "texto": "Seremos como los que sueñan"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "   Am                         G"
+      "texto": "   Am                        "
     },
     {
       "tipo": "letra",
-      "texto": "Mi boca llenará de risa, mis labios de alabanza,"
+      "texto": "Mi boca llenará de risa"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G"
     },
     {
       "tipo": "letra",
+      "texto": "Mis labios de alabanza,"
+    },
+    {
+      "tipo": "acorde",
       "texto": "  Dm"
     },
     {
@@ -161,7 +201,7 @@
       "texto": "Entonces dirán las naciones"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "         E"
     },
     {
@@ -173,11 +213,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -185,7 +225,7 @@
       "texto": "Me gozaré, me gozaré, me gozaré,"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  G"
     },
     {
@@ -194,27 +234,43 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            Dm                           E7"
+      "texto": "            Dm                           "
     },
     {
       "tipo": "letra",
-      "texto": "Pues ha llevado todo dolor, me ha hecho libre"
+      "texto": "Pues ha llevado todo dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2"
     },
     {
       "tipo": "acorde",
-      "texto": " Am                      G"
+      "texto": " Am                      "
     },
     {
       "tipo": "letra",
-      "texto": "Así como David cantaba, así como David danzaba"
+      "texto": "Así como David cantaba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Así como David danzaba"
     },
     {
       "tipo": "acorde",
@@ -222,7 +278,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "así como David fluía en su presencia"
+      "texto": "Así como David fluía en su presencia"
     },
     {
       "tipo": "letra",
@@ -233,11 +289,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2]x2 (Contrapunto con el coro)"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "        Am"
     },
     {
@@ -245,7 +301,7 @@
       "texto": "Yo cantaré, yo danzaré en"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       G"
     },
     {
@@ -253,7 +309,7 @@
       "texto": "tu presencia, me gozaré"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "          Dm"
     },
     {
@@ -261,7 +317,7 @@
       "texto": "Y solo en tí, me alegraré"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "           E7"
     },
     {
@@ -273,7 +329,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -285,11 +341,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -297,7 +353,7 @@
       "texto": "Me gozaré, me gozaré, me gozaré,"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  G"
     },
     {
@@ -306,18 +362,26 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            Dm                           E7"
+      "texto": "            Dm                           "
     },
     {
       "tipo": "letra",
-      "texto": "Pues ha llevado todo dolor, me ha hecho libre"
+      "texto": "Pues ha llevado todo dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -329,11 +393,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x3  2 normal/ 1 breakdown"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "       Am"
     },
     {
@@ -341,7 +405,7 @@
       "texto": "Me gozaré, me gozaré, me gozaré,"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "                  G"
     },
     {
@@ -350,11 +414,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "            Dm                           E7"
+      "texto": "            Dm                           "
     },
     {
       "tipo": "letra",
-      "texto": "Pues ha llevado todo dolor, me ha hecho libre"
+      "texto": "Pues ha llevado todo dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             E7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
     },
     {
       "tipo": "letra",

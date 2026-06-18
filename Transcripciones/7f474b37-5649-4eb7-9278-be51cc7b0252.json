@@ -21,7 +21,7 @@
       "texto": "----Inicia sin batería----"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -89,7 +89,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]"
     },
     {
@@ -113,7 +113,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -185,7 +185,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -241,7 +241,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]x2  --- inicia juego platos"
     },
     {
@@ -265,7 +265,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  juego platos"
     },
     {
@@ -337,7 +337,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2] ritmo normal subiendo intensidad"
     },
     {
@@ -393,7 +393,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Precoro]  --sube intensidad y creciendo"
     },
     {
@@ -417,7 +417,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -489,7 +489,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

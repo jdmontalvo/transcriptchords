@@ -6,7 +6,7 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "--inicia sin batería--"
     },
     {
       "tipo": "letra",
@@ -17,7 +17,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso 1]"
     },
     {
@@ -77,8 +77,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro 1]"
+      "tipo": "tag",
+      "texto": "[Coro 1] ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -117,16 +117,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso 2]"
     },
     {
       "tipo": "acorde",
-      "texto": "           Ab          Db             Ab"
+      "texto": "           Ab         "
     },
     {
       "tipo": "letra",
-      "texto": "Yo amo Tu voz, Me has guiado por el fuego"
+      "texto": "Yo amo Tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Db             Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me has guiado por el fuego"
     },
     {
       "tipo": "acorde",
@@ -165,7 +173,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro 1]"
     },
     {
@@ -198,14 +206,14 @@
     },
     {
       "tipo": "letra",
-      "texto": "Yo cantaré de la bondad de Dios"
+      "texto": "Yo cantaré de la bondad de Dios "
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2"
     },
     {
@@ -253,7 +261,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Instrumental]  baja intensidad"
     },
     {
@@ -265,7 +273,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro 1] sin batería"
     },
     {
@@ -306,14 +314,14 @@
     },
     {
       "tipo": "letra",
-      "texto": "OhOhOh--subiendo"
+      "texto": "OhOhOh--creciendo"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro 1] sube intensidad"
     },
     {
@@ -353,7 +361,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

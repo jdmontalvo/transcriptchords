@@ -1,0 +1,404 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Hillsong United — Correré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar (136 BPM)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] x1 (batería)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 (toda la banda)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D#m            B F#    C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios sin principio"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   D#m         B F#    C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Creador infinito"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        B                  D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú nos viste aquí cuando llamaste la"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " D#m        C#             B     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tierra Y el mundo a existencia"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D#m         B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios de victoria"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D#m              B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La historia es tu historia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú quien fuiste y es y quien por"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  D#m    C#      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "siempre será Viviré por tu gloria"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       F#       C#             D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y correré Arde fuego en mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada puede apagar tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#     D#m       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios la Gloria te daré ¡Jesús!!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso3]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D#m            B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres Dios, somos libres"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D#m           B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En nosotros tú vives"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú nos viste aquí antes de"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   C#         B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Resucitar Y entregarnos tú promesa"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#       C#             D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Correré Arde fuego en mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada puede apagar tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#     D#m       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios la Gloria te daré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#         C#          D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Correré Con mi vida te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B             F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre famoso haré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#       D#m      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios la gloria te daré Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]1 compás, juego platos/hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          D#m B D#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gloria te doy,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                D#m B D#m B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres digno de alabar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1] Bombo negras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#       C#             D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Correré Arde fuego en mi corazón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B              F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada puede apagar tu amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#     D#m       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios la Gloria te daré ¡Jesús!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro2] sube intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#         C#          D#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Correré Con mi vida te alabaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B             F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu nombre famoso haré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#       D#m      B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Dios la gloria te daré ¡Jesús!"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D#m   B F#   C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

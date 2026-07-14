@@ -17,11 +17,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Db"
     },
     {
@@ -29,47 +29,79 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]"
     },
     {
       "tipo": "acorde",
-      "texto": "Db                                  Gb"
+      "texto": "Db                                  "
     },
     {
       "tipo": "letra",
-      "texto": " Cuando yo veo batallas, Tú ves la victoria"
+      "texto": " Cuando yo veo batallas"
     },
     {
       "tipo": "acorde",
-      "texto": "Bbm                          Ab        Gb"
+      "texto": "             Gb"
     },
     {
       "tipo": "letra",
-      "texto": " Cuando yo veo montañas, Tú las puedes mover"
+      "texto": "Tú ves la victoria"
     },
     {
       "tipo": "acorde",
-      "texto": "Db                                     Gb"
+      "texto": "Bbm                          "
     },
     {
       "tipo": "letra",
-      "texto": " Al caminar por la sombra, Tu amor me envuelve"
+      "texto": " Cuando yo veo montaña"
     },
     {
       "tipo": "acorde",
-      "texto": "Bbm                       Ab           Db"
+      "texto": "     Ab        Gb"
     },
     {
       "tipo": "letra",
-      "texto": " Ya no tengo miedo, pues seguro estoy en Tí"
+      "texto": " Tú las puedes mover"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Db                                     "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Al caminar por la sombra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu amor me envuelve"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm                       "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Ya no tengo miedo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Ab           Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues seguro estoy en Tí"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] baja intensidad"
     },
     {
@@ -125,11 +157,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Db"
     },
     {
@@ -137,24 +169,40 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso2] baja intensidad(bombo negras)"
+      "tipo": "tag",
+      "texto": "[Verso2] baja intensidad (bombo negras)"
     },
     {
       "tipo": "acorde",
-      "texto": "Db                                    Gb"
+      "texto": "Db                                   "
     },
     {
       "tipo": "letra",
-      "texto": " Si Tú estás conmigo Quién está en mi contra?"
+      "texto": " Si Tú estás conmigo"
     },
     {
       "tipo": "acorde",
-      "texto": "Bbm                   Ab         Gb"
+      "texto": "                 Gb"
     },
     {
       "tipo": "letra",
-      "texto": " Jesús no hay nada imposible pa--ara Ti (sube intensidad a ritmo)"
+      "texto": "Quién está en mi contra?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bbm                  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Jesús no hay nada "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Ab         Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Imposible pa--ara Ti   --sube intensidad a ritmo"
     },
     {
       "tipo": "acorde",
@@ -166,18 +214,26 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Bbm                               Ab           Db"
+      "texto": "Bbm                               "
     },
     {
       "tipo": "letra",
-      "texto": " Cuando yo veo una cruz, Dios, Tú ves resurrección (Corte)"
+      "texto": " Cuando yo veo una cruz, Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Ab           Db"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tú ves resurrección (Corte)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -237,7 +293,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente] x3 1 sin batería,2 juego toms"
     },
     {
@@ -250,11 +306,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       Bbm             Ab              Gb"
+      "texto": "       Bbm             Ab              "
     },
     {
       "tipo": "letra",
-      "texto": "Nada podrá contra el poder de nuestro Dios"
+      "texto": "Nada podrá contra el poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Gb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de nuestro Dios"
     },
     {
       "tipo": "acorde",
@@ -262,38 +326,30 @@
     },
     {
       "tipo": "letra",
-      "texto": "Tú alumbras tinieblas, Tú ganas batallas"
+      "texto": "Tú alumbras tinieblas Tú ganas batallas"
     },
     {
       "tipo": "acorde",
-      "texto": "      Bbm               Ab             Gb"
+      "texto": "       Bbm             Ab              "
     },
     {
       "tipo": "letra",
-      "texto": "Nada podrá contra el poder de nuestro Dios"
+      "texto": "Nada podrá contra el poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            Gb         Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de nuestro Dios     (Tercera Corte)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "Tercera--"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "      Bbm               Ab             Gb   Ab"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Nada podrá contra el poder de nuestro Dio---os (Corte)"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -353,7 +409,7 @@
       "texto": "Oh Dios la batalla tuya es"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Db"
     },
     {

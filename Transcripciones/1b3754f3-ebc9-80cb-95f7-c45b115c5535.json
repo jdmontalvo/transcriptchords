@@ -13,7 +13,7 @@
       "texto": "Transcripción por David M Guitar (60 BPM)"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -29,7 +29,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -70,10 +70,18 @@
     },
     {
       "tipo": "letra",
-      "texto": "-------Modula a A-------"
+      "texto": "-------Modula a "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -109,11 +117,11 @@
       "texto": "Te adoro a tí... te adoro a tí"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -165,11 +173,19 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "-------Modula a A F#-------"
+      "tipo": "acorde",
+      "texto": "-------Modula a "
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
+      "texto": "F#"
+    },
+    {
+      "tipo": "acorde",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -205,11 +221,11 @@
       "texto": "Te adoro a tí...  te adoro a tí"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -249,7 +265,7 @@
       "texto": "    F#          C#         F#"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Te adoro a tí Señor, te adoro a tí"
     },
     {
@@ -257,7 +273,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Solo]"
     },
     {
@@ -269,19 +285,27 @@
       "texto": "E   D - E"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
       "tipo": "letra",
-      "texto": "-----Modula a A----"
+      "texto": "-----Modula a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
     },
     {
       "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "acorde",
       "texto": "Corte al inicio"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -313,7 +337,7 @@
       "texto": "   D          Dm"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "contemplar tu santidad"
     },
     {
@@ -329,7 +353,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Outro]"
     },
     {

@@ -1,0 +1,368 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Danilo Montero — Con Mis Manos Levantadas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D    F  C"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2  1 sin batería, 1 caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G                        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con mis manos levantadas hacia el cielo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em          D           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me presento ante ti hoy mi Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para recibir de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G      D     Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La fuerza y el poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          A   C          Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para vivir        junto a ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]  Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas hoy mi corazón con tu presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C            Bm           Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas de alegría y paz todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De cualquier necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu me responderás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Am       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas (Primera vez)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          C       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas (Segunda Vez)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] Baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D    F  C"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G D    Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso] caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         G                        C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con mis manos levantadas hacia el cielo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Em          D           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me presento ante ti hoy mi Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para recibir de ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G      D     Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La fuerza y el poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          A   C          Em  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Para vivir        junto a ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]  Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        G                     Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas hoy mi corazón con tu presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C            Bm           Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas de alegría y paz todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C          Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De cualquier necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tu me responderás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Am       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas (Primera vez)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F          C       F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas (Segunda Vez)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "---Modulación a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb  Am - Dm  - Gm - Am - Dm7 - Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro incompleto]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De cualquier necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú me responderás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Gm       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas (Primera vez)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F                     Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas hoy mi corazón con tu presencia"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bb           Am           Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Llenas de alegría y paz todo mi ser"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bb         Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De cualquier necesidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "tú me responderás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Eb         Bb      F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por que me amas me amas"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

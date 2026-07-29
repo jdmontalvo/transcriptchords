@@ -1,0 +1,336 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Montesanto — El Amado Viene"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Inicia sin batería--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb C Am Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb                  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay un sonido en el cielo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                 Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Algo se está preparando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb              C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ángeles y Querubines"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am               Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sus arpas están tocando"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Bb    Am     Gm             "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su iglesia dice Viene, Viene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb      C     Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Amado Viene, Viene, Viene       "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb      C     Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Amado Viene, Viene, Viene"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] juego toms suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb C Am Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2] ritmo caja "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb                     C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cielo y tierra nueva veremos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Donde no habrá ya mas llanto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al Padre adoraremos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am                  Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Junto con todos los santos"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4 juegeo toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Bb    Am     Gm             "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su iglesia dice Viene, Viene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb      C     Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Amado Viene, Viene, Viene"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1 suave, 1 fuerte, 1 crece corcheas]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm           "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se acerca el momento "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C                    F   A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Señales lo muestran Oh Aleluya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con voz de trompeta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C                   F   A7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Se anuncia que ya vendrá mi Yeshua"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo] ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm F Dm Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Gm Bb A A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "     "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2] baja intensidad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Quien es la que sube del"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A7                   Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Recostada sobre su amado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb                       C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Esta es la esposa del Cordero --creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                              Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que vuelve a los brazos de su amado"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Bb    Am     Gm             "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su iglesia dice Viene, Viene"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb      C     Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Amado Viene, Viene, Viene"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb      C     Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Amado Viene, Viene, Viene"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

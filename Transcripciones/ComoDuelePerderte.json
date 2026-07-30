@@ -134,11 +134,19 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro3]x2"
+      "texto": "[Intro3]"
     },
     {
       "tipo": "acorde",
       "texto": "F  G  Em  Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  G  Em  Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  Em G   Am"
     },
     {
       "tipo": "acorde",
@@ -242,11 +250,19 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro3]x2"
+      "texto": "[Intro3]"
     },
     {
       "tipo": "acorde",
       "texto": "F  G  Em  Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  G  Em  Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F  Em G   Am"
     },
     {
       "tipo": "acorde",

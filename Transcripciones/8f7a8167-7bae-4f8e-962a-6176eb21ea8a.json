@@ -5,7 +5,7 @@
       "texto": "Nuestro Legado — Popurrí En El Principio"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro lento]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2"
     },
     {
@@ -57,7 +57,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x2"
     },
     {
@@ -81,7 +81,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x8"
     },
     {
@@ -93,7 +93,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2"
     },
     {
@@ -117,7 +117,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x2"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso3]x4"
     },
     {
@@ -161,11 +161,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4  ----2 en pulsos, 2 a ritmo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Em   B5 B5     Em"
     },
     {
@@ -177,7 +177,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2"
     },
     {
@@ -201,7 +201,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x2"
     },
     {
@@ -225,11 +225,11 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4  ----a ritmo"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "Em   B5 B5     Em"
     },
     {
@@ -237,7 +237,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]x4"
     },
     {
@@ -273,7 +273,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x4  2 suaves y 2 marcha"
     },
     {
@@ -297,7 +297,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -321,16 +321,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso3]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "      B                     C           D"
+      "texto": "      B                     "
     },
     {
       "tipo": "letra",
-      "texto": "Su pueblo le alabará, con panderos danzará"
+      "texto": "Su pueblo le alabará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "con panderos danzará"
     },
     {
       "tipo": "acorde",
@@ -345,7 +353,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2"
     },
     {
@@ -373,7 +381,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -397,16 +405,24 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso3]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "      B                     C           D"
+      "texto": "      B                     "
     },
     {
       "tipo": "letra",
-      "texto": "Su pueblo le alabará, con panderos danzará"
+      "texto": "Su pueblo le alabará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C           D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "con panderos danzará"
     },
     {
       "tipo": "acorde",
@@ -421,12 +437,16 @@
       "texto": ""
     },
     {
+      "tipo": "tag",
+      "texto": "[Poscoro]x2"
+    },
+    {
       "tipo": "acorde",
-      "texto": "       D     B                Em"
+      "texto": "     D     B                Em"
     },
     {
       "tipo": "letra",
-      "texto": "//Y dirán quién, quién cómo Jehová//x2"
+      "texto": "Y dirán quién, quién cómo Jehová"
     },
     {
       "tipo": "letra",
@@ -438,14 +458,14 @@
     },
     {
       "tipo": "titulo",
-      "texto": "Jerusalén"
+      "texto": "----Jerusalén"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2  suave"
     },
     {
@@ -469,7 +489,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4 2 suave,2 marcha"
     },
     {
@@ -493,7 +513,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2  marcha"
     },
     {
@@ -517,7 +537,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4 marcha"
     },
     {
@@ -553,7 +573,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2  marcha"
     },
     {
@@ -569,7 +589,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2 marcha"
     },
     {
@@ -609,7 +629,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2  marcha"
     },
     {
@@ -625,7 +645,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -665,7 +685,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2  marcha"
     },
     {
@@ -689,7 +709,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x4 2 pulsos, 2 marcha"
     },
     {
@@ -705,16 +725,20 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2  marcha"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "  Em"
     },
     {
       "tipo": "letra",
-      "texto": "Entonces la iglesia se alegrará en la danza"
+      "texto": "Entonces la iglesia "
+    },
+    {
+      "tipo": "letra",
+      "texto": "se alegrará en la danza"
     },
     {
       "tipo": "acorde",
@@ -729,12 +753,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "Am    D           G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -750,7 +774,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Am     D          G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -769,16 +793,20 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2  marcha"
+      "tipo": "tag",
+      "texto": "[Verso]x2  polka"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "  Em"
     },
     {
       "tipo": "letra",
-      "texto": "Entonces la iglesia se alegrará en la danza"
+      "texto": "Entonces la iglesia"
+    },
+    {
+      "tipo": "letra",
+      "texto": "se alegrará en la danza"
     },
     {
       "tipo": "acorde",
@@ -793,12 +821,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "Am    D           G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -814,7 +842,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Am     D          G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -833,7 +861,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2"
     },
     {
@@ -849,16 +877,20 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2  marcha"
+      "tipo": "tag",
+      "texto": "[Verso]x2  pola"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "  Em"
     },
     {
       "tipo": "letra",
-      "texto": "Entonces la iglesia se alegrará en la danza"
+      "texto": "Entonces la iglesia"
+    },
+    {
+      "tipo": "letra",
+      "texto": "se alegrará en la danza"
     },
     {
       "tipo": "acorde",
@@ -873,12 +905,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
-      "texto": "Am    D           G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -894,7 +926,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Am     D          G  Em"
+      "texto": "Am    D              G Em"
     },
     {
       "tipo": "letra",
@@ -913,12 +945,16 @@
       "texto": ""
     },
     {
+      "tipo": "tag",
+      "texto": "[Poscoro]x2"
+    },
+    {
       "tipo": "acorde",
-      "texto": "         B                       Em"
+      "texto": "       B                         Em"
     },
     {
       "tipo": "letra",
-      "texto": "//Me alegraré (me alegraré) en el Señor//x2"
+      "texto": "Me alegraré (me alegraré) en el Señor"
     }
   ]
 }

@@ -1,0 +1,404 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Paul Wilbur - Días de Elías Acordes"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia juego toms"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 1 toms, 1 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A D A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A                   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Días son estos de Elías"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A         E         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaran palabra de Dios"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A              D     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y días también de Moisés tu siervo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A       E            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "justicia reinando otra vez"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C#m              F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y aunque libremos batallas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hambruna carencia y dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A                      E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Aún se oye voz que en desierto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A          E         A    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Prepara el camino al señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E    A               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He aquí Yeshua viene ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  A               "
+    },
+    {
+      "tipo": "letra",
+      "texto": "brillando como el sol"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el cielo lo veras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           A              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaran hoy el año del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 A   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde de Sion llego"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "la salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A D A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A                         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Días de Ezequiel también llegan"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A          E         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los huesos se llenan de piel"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y días de David tu siervo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A         E          D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu pueblo te alaba    doquier"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C#m             F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Son días de gran cosecha"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D               E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Los campos ya listos están"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  A           D       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Somos obreros de tu viña"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A         E        A    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaramos hoy tu verdad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "E    A               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He aquí Yeshua viene ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  A               "
+    },
+    {
+      "tipo": "letra",
+      "texto": "brillando como el sol"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "en el cielo lo veras"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           A              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaran hoy el año del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 A   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde de Sion llego"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         E   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "la salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": "--Modula a"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 primera sin instrumentos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F    Bb              Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "He aquí Yeshua viene ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                  Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Brillando como el sol"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                   F"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En el cielo lo verás"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bb             Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaran hoy el año del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 Bb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Desde Sion llegó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F   Bb    "
+    },
+    {
+      "tipo": "letra",
+      "texto": "La salvación"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x8"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F        Bb         Ab"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Quien fue y quien es    "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Eb      Bb     Eb"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y quien a de venir (última)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Eb      Bb      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Venir, venir"
+    }
+  ]
+}

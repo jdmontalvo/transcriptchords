@@ -58,7 +58,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro] juego caja con acento, entran los demás"
+      "texto": "[Intro] juego caja con acento"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[entran los demás]"
     },
     {
       "tipo": "acorde",
@@ -186,7 +190,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Solo en ti señor (Segunda vez creciendo y corte)"
+      "texto": "Solo en ti señor(Segunda Crece y corte)"
     },
     {
       "tipo": "letra",
@@ -218,11 +222,15 @@
     },
     {
       "tipo": "letra",
-      "texto": "Cuando pase por las aguas no me abnegarán"
+      "texto": "Cuando pase por las aguas"
+    },
+    {
+      "tipo": "letra",
+      "texto": "no me abnegarán"
     },
     {
       "tipo": "acorde",
-      "texto": "     Dm"
+      "texto": "     Dm               "
     },
     {
       "tipo": "letra",
@@ -230,7 +238,7 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "     "
     },
     {
       "tipo": "tag",
@@ -262,7 +270,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Instrumental]x2  Baja intensidad(solo piano)"
+      "texto": "[Instrumental]x2 --solo piano"
     },
     {
       "tipo": "acorde",
@@ -274,7 +282,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente2]x6  2 suaves,2 toms suave ,2 toms fuerte y creciendo"
+      "texto": "[Puente2]x6  2 suaves,2 toms suave"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 toms fuerte y creciendo]"
     },
     {
       "tipo": "acorde",
@@ -306,7 +318,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Interludio2]x4 --última creciendo y corte"
+      "texto": "[Interludio2]x4 --última crece y corte"
     },
     {
       "tipo": "acorde",
@@ -338,7 +350,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x3 2 ritmo,1 creciendo semicorcheas"
+      "texto": "[Coro]x3 2 ritmo,1 crece semicorcheas"
     },
     {
       "tipo": "acorde",

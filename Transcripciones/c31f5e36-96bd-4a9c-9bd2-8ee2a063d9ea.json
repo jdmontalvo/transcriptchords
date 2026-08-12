@@ -1,0 +1,440 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Ingrid Rosario — En El Nombre De Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Solo batería]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x4 picado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D C "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1] ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                      Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lucha por nosotros a nuestro lado está"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              Bm                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Suya es la victoria ha vencido ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G                 Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No nos detendremos no nos moverán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo estas aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G                    Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lleva nuestras cargas nos libra en mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm                    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Suya es la victoria ha vencido ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G               Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No nos detendremos no nos moverán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo estas aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viviré no moriré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D               Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por el poder de su nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C                 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vive en mi soy libre al fin"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D    C D "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               G                    Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Lleva nuestras cargas nos libra en mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           Bm                    D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Suya es la victoria ha vencido ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            G               Em"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No nos detendremos no nos moverán"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "               D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo estas aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viviré no moriré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D               Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por el poder de su nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C                 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vive en mi soy libre al fin"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D    C "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro 2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viviré no moriré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D             Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su nombre yo levantaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaro hoy que sano soy"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D     C D C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x4 2 hihat, 2 toms"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  A  Bm  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2 1 toms, 1 picado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G                    A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios es por nosotros Vence las tinieblas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Bm                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si reino establece no será movido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En su nombre Cristo cae el enemigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bm        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y yo lo gritaré (gritaré) "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro1] corte en viviré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viviré no moriré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D               Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por el poder de su nombre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C                 G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Vive en mi soy libre al fin"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           D    C "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo en Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro2 incompleto](corte)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A           G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Viviré no moriré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D             Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su nombre yo levantaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Declaro hoy que sano soy"
+    },
+    {
+      "tipo": "letra",
+      "texto": "                      (corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x4 2 picado 1 capela 1 picado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              G                   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dios es por nosotros Vence las tinieblas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             Bm                D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Si reino establece no será movido"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G                  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En su nombre Cristo cae el enemigo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          Bm        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y yo lo gritaré (gritaré)"
+    }
+  ]
+}

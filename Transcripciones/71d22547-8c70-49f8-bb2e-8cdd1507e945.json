@@ -98,7 +98,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2"
+      "texto": "[Coro]"
     },
     {
       "tipo": "acorde",
@@ -115,6 +115,30 @@
     {
       "tipo": "letra",
       "texto": "Me guarda, me ama, me cuida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   G        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano tu mano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am     C       G  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano sobre mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D         Am       C     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me guarda, me sana, me cuida"
     },
     {
       "tipo": "acorde",
@@ -202,7 +226,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2 "
+      "texto": "[Coro]"
     },
     {
       "tipo": "tag",
@@ -233,6 +257,30 @@
       "texto": "Tu mano tu mano"
     },
     {
+      "tipo": "acorde",
+      "texto": "   Am     C       G  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano sobre mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D         Am       C     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me guarda, me sana, me cuida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   G        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano tu mano"
+    },
+    {
       "tipo": "letra",
       "texto": ""
     },
@@ -249,12 +297,16 @@
       "texto": ""
     },
     {
-      "tipo": "tag",
-      "texto": "[Coro]x2  sube intensidad"
+      "tipo": "letra",
+      "texto": "UUUUOOOOOH........"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
-      "texto": "[1 bombo negras y adornos,1 toms]"
+      "texto": "[Coro]  sube intensidad"
     },
     {
       "tipo": "acorde",
@@ -271,6 +323,30 @@
     {
       "tipo": "letra",
       "texto": "Me guarda, me ama, me cuida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   G        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano tu mano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am     C       G  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano sobre mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D         Am       C     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me guarda, me sana, me cuida"
     },
     {
       "tipo": "acorde",
@@ -298,7 +374,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente] 1 sin batería,1 caja suave"
+      "texto": "[Puente]-- 1 sin batería,1 caja suave"
     },
     {
       "tipo": "tag",
@@ -334,7 +410,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "   Tu bendición"
+      "texto": "   Tu bendición "
     },
     {
       "tipo": "letra",
@@ -342,11 +418,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2  sube intensidad"
-    },
-    {
-      "tipo": "tag",
-      "texto": "[1 bombo negras y adornos,1 toms]"
+      "texto": "[Coro]"
     },
     {
       "tipo": "acorde",
@@ -363,6 +435,30 @@
     {
       "tipo": "letra",
       "texto": "Me guarda, me ama, me cuida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   G        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano tu mano"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am     C       G  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu mano sobre mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    D         Am       C     "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me guarda, me sana, me cuida"
     },
     {
       "tipo": "acorde",

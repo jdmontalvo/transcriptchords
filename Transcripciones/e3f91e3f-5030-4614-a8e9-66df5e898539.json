@@ -21,7 +21,7 @@
       "texto": "--Inicia sin batería---"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
@@ -65,7 +65,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -81,7 +81,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]  sube octava voz e intensidad"
     },
     {
@@ -113,7 +113,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2   --juego toms"
     },
     {
@@ -129,7 +129,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro2]  baja intensidad"
     },
     {
@@ -141,7 +141,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente1]x4 3 sin batería,1 juego toms"
     },
     {
@@ -181,7 +181,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2] juego toms y creciendo"
     },
     {
@@ -234,19 +234,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "        A                    E"
+      "texto": "        A                   "
     },
     {
       "tipo": "letra",
-      "texto": "En tu llanto y alegría él te ama, él te ama"
+      "texto": "En tu llanto y alegría"
     },
     {
       "tipo": "acorde",
-      "texto": "      F#m7                  D"
+      "texto": "      E"
     },
     {
       "tipo": "letra",
-      "texto": "Él te ama, él te ama, él te ama, él te ama"
+      "texto": "Él te ama, él te ama "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#m7                  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él te ama, él te ama,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él te ama, él te ama,"
     },
     {
       "tipo": "acorde",
@@ -261,8 +277,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2 1 ritmo negras 1 normal"
+      "tipo": "tag",
+      "texto": "[Coro]x2 ritmo normal fuerte"
     },
     {
       "tipo": "acorde",
@@ -277,7 +293,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente1] ritmo doble caja"
     },
     {
@@ -317,7 +333,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente2]"
     },
     {
@@ -370,19 +386,35 @@
     },
     {
       "tipo": "acorde",
-      "texto": "        A                    E"
+      "texto": "        A                   "
     },
     {
       "tipo": "letra",
-      "texto": "En tu llanto y alegría él te ama, él te ama"
+      "texto": "En tu llanto y alegría"
     },
     {
       "tipo": "acorde",
-      "texto": "      F#m7                  D"
+      "texto": "      E"
     },
     {
       "tipo": "letra",
-      "texto": "Él te ama, él te ama, él te ama, él te ama"
+      "texto": "Él te ama, él te ama "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      F#m7                  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él te ama, él te ama,"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él te ama, él te ama,"
     },
     {
       "tipo": "acorde",

@@ -13,7 +13,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]x2   1 suave marcando hihat"
     },
     {
@@ -25,7 +25,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2 suave marcando hihat"
     },
     {
@@ -65,7 +65,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  inicia batería"
     },
     {
@@ -113,8 +113,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2 baja intensidad marcando hihat"
+      "tipo": "tag",
+      "texto": "[Puente]x2 "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[baja intensidad marcando hihat]"
     },
     {
       "tipo": "acorde",
@@ -153,7 +157,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso1]x2 suave marcando hihat"
     },
     {
@@ -193,7 +197,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  sube intensidad"
     },
     {
@@ -241,8 +245,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2 baja intensidad marcando hihat"
+      "tipo": "tag",
+      "texto": "[Puente]x2 "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[baja intensidad marcando hihat]"
     },
     {
       "tipo": "acorde",
@@ -281,7 +289,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x4  sube intensidad"
     },
     {
@@ -329,8 +337,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x4 baja intensidad marcando hihat"
+      "tipo": "tag",
+      "texto": "[Puente]x4 "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[baja intensidad marcando hihat]"
     },
     {
       "tipo": "acorde",
@@ -369,7 +381,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2  sube intensidad"
     },
     {
@@ -417,7 +429,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x2 baja intensidad"
     },
     {
@@ -453,7 +465,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Final]x4"
     },
     {

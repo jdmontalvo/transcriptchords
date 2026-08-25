@@ -14,7 +14,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]"
+      "texto": "[Verso] bombo negras"
     },
     {
       "tipo": "acorde",
@@ -54,7 +54,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro]"
+      "texto": "[Intro] Ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -66,7 +66,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2"
+      "texto": "[Verso2]x2 juego caja"
     },
     {
       "tipo": "acorde",
@@ -86,11 +86,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       F                             C"
+      "texto": "       F                             "
     },
     {
       "tipo": "letra",
-      "texto": "Hay sanidad en las aguas, queremos danzar"
+      "texto": "Hay sanidad en las aguas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Queremos danzar"
     },
     {
       "tipo": "letra",
@@ -98,7 +106,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2"
+      "texto": "[Coro]x2 ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -130,7 +138,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso2]x2"
+      "texto": "[Verso2]x2 juego toms"
     },
     {
       "tipo": "acorde",
@@ -150,11 +158,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "       F                             C"
+      "texto": "       F                             "
     },
     {
       "tipo": "letra",
-      "texto": "Hay sanidad en las aguas, queremos danzar"
+      "texto": "Hay sanidad en las aguas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Queremos danzar"
     },
     {
       "tipo": "letra",
@@ -162,7 +178,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2"
+      "texto": "[Coro]x2 ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -198,7 +214,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "Dm C F Bb    F C"
+      "texto": "Dm - C - F  - Bb    F - C"
     },
     {
       "tipo": "letra",
@@ -230,7 +246,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Coro]x2 1 a capeta 1 fuerte"
+      "texto": "[Coro]x2 1 a capela 1 fuerte"
     },
     {
       "tipo": "acorde",
@@ -294,7 +310,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Salida]x2"
+      "texto": "[Outro]x2"
     },
     {
       "tipo": "acorde",

@@ -13,16 +13,20 @@
       "texto": "Transcripción por David M Guitar"
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]x4"
+      "tipo": "tag",
+      "texto": "[Intro]x4  Reguetón "
     },
     {
       "tipo": "acorde",
       "texto": "C"
     },
     {
-      "tipo": "letra",
-      "texto": "Melodía E - G - C - B - G - F - E"
+      "tipo": "tag",
+      "texto": "[Melodía]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E - G - C - B - G - F - E"
     },
     {
       "tipo": "letra",
@@ -37,8 +41,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2  ritmo normal"
+      "tipo": "tag",
+      "texto": "[Verso]x2  Reguetón"
     },
     {
       "tipo": "acorde",
@@ -77,7 +81,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -141,20 +145,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "titulo",
       "texto": "--Alabaré---"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro]x2 Reguetón"
     },
     {
       "tipo": "acorde",
@@ -162,27 +158,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Alabaré, alabaré, alabaré, alabaré"
+      "texto": "Alabaré (alabaré) alabaré (alabaré)"
     },
     {
       "tipo": "acorde",
-      "texto": "G              C"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Alabaré a mi Señor"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "C"
-    },
-    {
-      "tipo": "letra",
-      "texto": "Alabaré, alabaré, alabaré, alabaré"
-    },
-    {
-      "tipo": "acorde",
-      "texto": "G             C"
+      "texto": " G              C"
     },
     {
       "tipo": "letra",
@@ -193,8 +173,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] Pulsos"
     },
     {
       "tipo": "acorde",
@@ -202,7 +182,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Juan vió el número"
+      "texto": "Juan vio el número"
     },
     {
       "tipo": "acorde",
@@ -241,7 +221,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -250,11 +230,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Alabaré, alabaré, alabaré, alabaré"
+      "texto": "Alabaré (alabaré) alabaré (alabaré)"
     },
     {
       "tipo": "acorde",
-      "texto": "G              C"
+      "texto": "  G              C"
     },
     {
       "tipo": "letra",
@@ -266,11 +246,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "Alabaré, alabaré, alabaré, alabaré"
+      "texto": "Alabaré (alabaré) alabaré (alabaré)"
     },
     {
       "tipo": "acorde",
-      "texto": "G             F"
+      "texto": "  G             F"
     },
     {
       "tipo": "letra",
@@ -281,16 +261,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "titulo",
       "texto": "---Te alabarán oh Jehová---"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Verso]x2"
+      "tipo": "tag",
+      "texto": "[Verso]x2  clave"
     },
     {
       "tipo": "acorde",
@@ -310,15 +286,15 @@
     },
     {
       "tipo": "acorde",
-      "texto": "         Dm7                         G7"
+      "texto": "         Dm7                     G7"
     },
     {
       "tipo": "letra",
-      "texto": "Porque han oido los dichos de tu boca"
+      "texto": "Porque han oído los dichos de tu boca"
     },
     {
       "tipo": "acorde",
-      "texto": "        Dm7              G7        C"
+      "texto": "        Dm7          G7        C"
     },
     {
       "tipo": "letra",
@@ -329,8 +305,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 Reguetón"
     },
     {
       "tipo": "acorde",
@@ -346,7 +322,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Porque Jehová es excelso en sus caminos"
+      "texto": "Porque Jehová es perfecto en sus caminos"
     },
     {
       "tipo": "acorde",
@@ -369,20 +345,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "titulo",
       "texto": "---Hay poder---"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": "[Intro]x4 melodía"
+      "tipo": "tag",
+      "texto": "[Intro]x4 melodía "
     },
     {
       "tipo": "acorde",
@@ -393,8 +361,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso1]x2"
+      "tipo": "tag",
+      "texto": "[Verso1]x2 bombo negras y hihat"
     },
     {
       "tipo": "acorde",
@@ -402,7 +370,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "HAY PODER, PODER, SIN IGUAL PODER"
+      "texto": "Hay poder, poder, sin igual poder"
     },
     {
       "tipo": "acorde",
@@ -410,7 +378,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "EN JESÚS QUIEN MURIÓ"
+      "texto": "En Jesús quien murió"
     },
     {
       "tipo": "acorde",
@@ -418,7 +386,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "HAY PODER, PODER, SIN IGUAL PODER"
+      "texto": "Hay poder, poder, sin igual poder"
     },
     {
       "tipo": "acorde",
@@ -426,14 +394,14 @@
     },
     {
       "tipo": "letra",
-      "texto": "EN LA SANGRE DE JESÚS"
+      "texto": "En la sangre de Jesús"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso2]"
     },
     {
@@ -442,7 +410,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "HAY AMOR, AMOR, SIN IGUAL AMOR"
+      "texto": "Hay amor, amor, sin igual amor"
     },
     {
       "tipo": "acorde",
@@ -450,7 +418,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "EN JESÚS QUIEN MURIÓ"
+      "texto": "En Jesús quien murió"
     },
     {
       "tipo": "acorde",
@@ -458,7 +426,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "HAY AMOR, AMOR, SIN IGUAL AMOR"
+      "texto": "Hay amor, amor, sin igual amor"
     },
     {
       "tipo": "acorde",
@@ -466,7 +434,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "EN LA SANGRE DE JESÚS"
+      "texto": "En la sangre de Jesús"
     },
     {
       "tipo": "letra",
@@ -477,12 +445,20 @@
       "texto": "--¿Quién como tú?--"
     },
     {
+      "tipo": "tag",
+      "texto": "[Intro] Reguetón"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x3"
+      "tipo": "tag",
+      "texto": "[Verso]x3 Reguetón"
     },
     {
       "tipo": "acorde",
@@ -529,10 +505,6 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "titulo",
       "texto": "--Ven ven ven---"
     },
@@ -541,8 +513,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2"
+      "tipo": "tag",
+      "texto": "[Verso]x2 pulsos"
     },
     {
       "tipo": "acorde",
@@ -565,8 +537,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x2"
+      "tipo": "tag",
+      "texto": "[Coro]x2 Reguetón"
     },
     {
       "tipo": "acorde",
@@ -589,8 +561,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]x2"
+      "tipo": "tag",
+      "texto": "[Verso]x2 pulsos"
     },
     {
       "tipo": "acorde",
@@ -613,8 +585,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]x8 2 normal 2 capela con ritmo,4 ritmo"
+      "tipo": "tag",
+      "texto": "[Coro]x8 "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 normal 2 capela con ritmo,4 ritmo]"
     },
     {
       "tipo": "acorde",

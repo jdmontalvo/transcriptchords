@@ -426,7 +426,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Precoro]x2 1/2 sin batería,1/2 creciendo,1 polka"
+      "texto": "[Precoro]x2 "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1/2 sin batería,1/2 creciendo,1 polka]"
     },
     {
       "tipo": "acorde",

@@ -1,0 +1,412 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Tony Tamayo — Cante El Shaddai"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El-elyon na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G        C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Siglo en siglo es igual  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F#m        F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu nombre y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Erkamka na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G              E       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza es para ti  El Shaddai"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm             E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con tu amor y provisión"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            A            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salvaste al hijo de Abraham"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       G          C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Con tu mano y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F#m        F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hasta el mar se secó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al oprimido que imploraba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A              D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tu vista de amor le dabas"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  G             E          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y con poder le diste libertad"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El-elyon na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G        C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Siglo en siglo es igual  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F#m        F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu nombre y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Erkamka na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G              E       A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza es para ti  El Shaddai"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D  E  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Bm             E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cada vez más se acercaba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A            D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "La hora de su llegada"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     G        C#7      F#m        F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y la gente rehusó al mesías que llegó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      Bm                 E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En la biblia estaba el plan"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y no quisieron aceptar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G           E      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sus pecados el pagó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    G            E   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Al morir en esa cruz"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A        D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El-elyon na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G        C#7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Siglo en siglo es igual  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        F#m        F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Por tu nombre y tu poder"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       Bm           E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai, el Shaddai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    A         D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Erkamka na Adonai"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G              E       F#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi alabanza es para ti  El Shaddai"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A  D"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G  C#7"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m F#"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm E"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A D"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G        E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Siglo en siglo es igual  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      A    D    A              D   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Shaddai        Todo poderoso    Tu"
+    }
+  ]
+}

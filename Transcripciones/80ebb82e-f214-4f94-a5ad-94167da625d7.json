@@ -2,7 +2,7 @@
   "contenido": [
     {
       "tipo": "titulo",
-      "texto": "Danilo Montero — Bendito Jesus"
+      "texto": "Danilo Montero — Bendito Jesús"
     },
     {
       "tipo": "letra",
@@ -13,8 +13,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Intro]"
+      "tipo": "tag",
+      "texto": "[Intro] Ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -29,8 +29,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso]"
+      "tipo": "tag",
+      "texto": "[Verso] Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -38,7 +38,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Por tí es mi clamor y sin ningún temor"
+      "texto": "Por ti es mi clamor y sin ningún temor"
     },
     {
       "tipo": "acorde",
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "En tí puedo confiar, Bendito Jesús"
+      "texto": "En ti puedo confiar, Bendito Jesús"
     },
     {
       "tipo": "acorde",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                F#        E       B   F#"
+      "texto": "                F#        E       B  F#"
     },
     {
       "tipo": "letra",
@@ -69,8 +69,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] Fuerte"
     },
     {
       "tipo": "acorde",
@@ -90,11 +90,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   F#                 D#7 G#m"
+      "texto": "                   F#                 "
     },
     {
       "tipo": "letra",
-      "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+      "texto": "Eres mi fuente de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#7 G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres aire, y eres sol"
     },
     {
       "tipo": "acorde",
@@ -110,15 +118,15 @@
     },
     {
       "tipo": "letra",
-      "texto": "Bendito amor de mi Señor"
+      "texto": "Bendito amor de mi Señor (Corte)"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso2]"
+      "tipo": "tag",
+      "texto": "[Verso2] Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -134,19 +142,19 @@
     },
     {
       "tipo": "letra",
-      "texto": "Llenando hoy mi ser, Bendito Jesús."
+      "texto": "Llenando hoy mi ser, Bendito Jesús"
     },
     {
       "tipo": "acorde",
-      "texto": "                F#                   G#m"
+      "texto": "                F#                 G#m"
     },
     {
       "tipo": "letra",
-      "texto": "Y hoy mi voluntad, se rinde a tu verdad"
+      "texto": "Y hoy mi voluntad se rinde a tu verdad"
     },
     {
       "tipo": "acorde",
-      "texto": "                 F#      E         B  F#"
+      "texto": "                 F#      E        B  F#"
     },
     {
       "tipo": "letra",
@@ -157,12 +165,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro]"
+      "tipo": "tag",
+      "texto": "[Coro] Fuerte"
     },
     {
       "tipo": "acorde",
-      "texto": "B              F#             G#  G#m"
+      "texto": "B              F#             D#7 G#m"
     },
     {
       "tipo": "letra",
@@ -174,15 +182,23 @@
     },
     {
       "tipo": "letra",
-      "texto": "La alegría de vivir, Bendito Jesús."
+      "texto": "La alegría de vivir, Bendito Jesús"
     },
     {
       "tipo": "acorde",
-      "texto": "                   F#                 D#7 G#m"
+      "texto": "                   F#                 "
     },
     {
       "tipo": "letra",
-      "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+      "texto": "Eres mi fuente de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#7 G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres aire, y eres sol"
     },
     {
       "tipo": "acorde",
@@ -197,8 +213,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]"
+      "tipo": "tag",
+      "texto": "[Puente] Caja contratiempo"
     },
     {
       "tipo": "acorde",
@@ -221,8 +237,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro] 1/2 baja intensidad 1/2 sube intensidad"
+      "tipo": "tag",
+      "texto": "[Coro] "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1/2 baja intensidad 1/2 sube intensidad]"
     },
     {
       "tipo": "acorde",
@@ -238,15 +258,23 @@
     },
     {
       "tipo": "letra",
-      "texto": "La alegría de vivir, Bendito Jesús."
+      "texto": "La alegría de vivir, Bendito Jesús (Creciendo)"
     },
     {
       "tipo": "acorde",
-      "texto": "                   F#                 D#7 G#m"
+      "texto": "                   F#                 "
     },
     {
       "tipo": "letra",
-      "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+      "texto": "Eres mi fuente de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#7 G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres aire, y eres sol"
     },
     {
       "tipo": "acorde",
@@ -261,8 +289,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]"
+      "tipo": "tag",
+      "texto": "[Puente] Caja contratiempo"
     },
     {
       "tipo": "acorde",
@@ -274,7 +302,7 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m        F#        C#m   E  G#m F# E"
+      "texto": "G#m        F#        C#m  "
     },
     {
       "tipo": "letra",
@@ -285,7 +313,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro] solo piano"
     },
     {
@@ -306,11 +334,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                   F#                 D#7 G#m"
+      "texto": "                   F#                 "
     },
     {
       "tipo": "letra",
-      "texto": "Eres mi fuente de amor, eres aire, y eres sol"
+      "texto": "Eres mi fuente de amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              D#7 G#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "eres aire, y eres sol"
     },
     {
       "tipo": "acorde",
@@ -319,6 +355,10 @@
     {
       "tipo": "letra",
       "texto": "El latir del corazón, Bendito Jesús"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     }
   ]
 }

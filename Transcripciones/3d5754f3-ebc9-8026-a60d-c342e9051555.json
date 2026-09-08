@@ -1,0 +1,404 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "New Wine — Alístate Que Pronto Viene El Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 1 pulsos, 1 polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm      Gm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A  A    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso1] polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alístate (que pronto viene el Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Alístate (que pronto viene el Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En majestad, (que pronto viene el Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En majestad, (que pronto viene el Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A            A            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él viene ya, Él viene ya, Él viene ya"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     A  G  F  E    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Rey pronto vendrá"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dm - A/C# - C - G/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me encontrará (danzando a mi Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me encontrará (cantando a mi Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me encontrará (alabando a mi Rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Gm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me encontrará (orando a mi rey)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me encontrará, me encontrará"
+    },
+    {
+      "tipo": "letra",
+      "texto": "me encontrará"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   A  G  F  E    Dm  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Velando por mi rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]x2"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dm - A/C# - C - G/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2 1 pulsos, 1 polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm      Gm"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A  A    Dm"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Dm - A/C# - C - G/B "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay gozo en los cielos"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Dm - A/C# - C - G/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay fiesta en la tierra"
+    },
+    {
+      "tipo": "letra",
+      "texto": "    Dm - A/C# - C - G/B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su novia ya está lista"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Gm            A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Rey pronto vendrá"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm          Gm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay gozo en los cielos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm          Gm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay fiesta en la tierra"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Dm          Gm  A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Su novia ya está lista"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bb            A   A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El Rey pronto Re-gre--sa"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm     C "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm     Bb - Dm - Bb - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm Dm                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salta, dando vueltas en el aire"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Danza, locamente para Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grita, canta aleluya a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Bb - Dm - Bb - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "nuestro Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Instrumental]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm     C "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm     Bb - Dm - Bb - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm Dm                 "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Salta, dando vueltas en el aire"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Danza, locamente para Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm                         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grita, canta aleluya a "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         Bb - Dm - Bb - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "nuestro Dios"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]x3"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bb - Dm - Bb - C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Oh  oh   oh   oh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    }
+  ]
+}

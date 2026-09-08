@@ -17,7 +17,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -33,7 +33,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]x2"
     },
     {
@@ -46,11 +46,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   F                                    C"
+      "texto": "   F                                    "
     },
     {
       "tipo": "letra",
-      "texto": "Alabadle en la magnificencia de su firmamento"
+      "texto": "Alabadle en la magnificencia "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de su firmamento"
     },
     {
       "tipo": "acorde",
@@ -62,11 +70,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "   Am                              B7"
+      "texto": "   Am                              "
     },
     {
       "tipo": "letra",
-      "texto": "Alabadle conforme a la muchedumbre de su grandeza"
+      "texto": "Alabadle conforme a la muchedumbre"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B7"
+    },
+    {
+      "tipo": "letra",
+      "texto": "de su grandeza"
     },
     {
       "tipo": "acorde",
@@ -81,7 +97,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -153,7 +169,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Intro]"
     },
     {
@@ -169,7 +185,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]x2"
     },
     {
@@ -241,7 +257,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Puente]x7"
     },
     {
@@ -250,7 +266,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Todo lo que respira alabe a Señor, Aleluya"
+      "texto": " Todo lo que respira alabe a Señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Aleluya"
     }
   ]
 }

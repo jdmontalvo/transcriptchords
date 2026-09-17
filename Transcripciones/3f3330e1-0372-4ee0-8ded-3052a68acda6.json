@@ -1,0 +1,348 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jaime Murrell — Venga Tu Reino"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro] x4 Reguetón "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Venga tu reino a mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      C#   C# - C - Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hágase en mi tu voluntad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu gloria llene todo este lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m E    D   C#            F#m  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Satúrame Seño---r con tu espíritu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Venga tu reino a mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                     C#   C# - C - Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hágase en mi tu voluntad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu gloria llene todo este lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F#m E   D  C#            F#m  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Satúrame Señor con tu espíritu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Líbrame de todo mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Guárdame en ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Líbrame de todo mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         E     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Guárdame en ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F#m    F#m - E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi castillo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D            E         F#m    F#m - E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has abierto mis oídos  a tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D             E     F#m   E      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Muéstrame el camino donde debo andar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            E      C# C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dame un corazón   (Corte)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "solo para ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m E "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Venga tu reino a mi vida"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                      C#   C# - C - Bm"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hágase en mi tu voluntad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Bm                   E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Que tu gloria llene todo este lugar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m E    D   C#            F#m  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Satúrame Seño---r con tu espíritu"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Líbrame de todo mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Guárdame en ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m    E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Líbrame de todo mal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m         E     C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Guárdame en ti Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "              F#m    F#m - E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Eres mi castillo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D            E         F#m    F#m - E - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Has abierto mis oídos  a tu voz"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "D             E     F#m   E      D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Muéstrame el camino donde debo andar"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            E      C# C#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Dame un corazón   (Corte)"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]x10"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            F#  E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Solo para ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "F#m - E - D - E - F#m"
+    }
+  ]
+}

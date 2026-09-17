@@ -14,7 +14,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Intro]x2"
+      "texto": "[Intro]x2 bombo negras"
     },
     {
       "tipo": "acorde",
@@ -26,7 +26,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]x2"
+      "texto": "[Coro]x2 Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -110,7 +110,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]"
+      "texto": "[Coro]x2"
     },
     {
       "tipo": "acorde",
@@ -186,7 +186,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "La lengua de los mudos cantará  (melodía)"
+      "texto": "La lengua de los mudos cantará  "
     },
     {
       "tipo": "letra",
@@ -258,7 +258,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Verso]x2"
+      "texto": "[Verso]x2 polka"
     },
     {
       "tipo": "acorde",
@@ -282,7 +282,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Precoro]"
+      "texto": "[Precoro] Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -322,7 +322,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Echó a la mar"
+      "texto": "Echó a la mar (polka)"
     },
     {
       "tipo": "acorde",
@@ -334,11 +334,11 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "                       (Corte)"
     },
     {
       "tipo": "letra",
-      "texto": " [Coro]x2"
+      "texto": " [Coro]x2 polka"
     },
     {
       "tipo": "acorde",
@@ -362,7 +362,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Precoro2]"
+      "texto": "[Precoro2] Ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -402,7 +402,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Echó a la mar"
+      "texto": "Echó a la mar (polka)"
     },
     {
       "tipo": "acorde",
@@ -414,7 +414,7 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "                        (Corte)"
     },
     {
       "tipo": "letra",
@@ -442,7 +442,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Instrumental]x4"
+      "texto": "[Instrumental]x4 ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -498,7 +498,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "[Coro]"
+      "texto": "[Coro] polka"
     },
     {
       "tipo": "acorde",

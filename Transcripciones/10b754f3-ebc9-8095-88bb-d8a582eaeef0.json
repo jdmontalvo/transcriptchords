@@ -270,7 +270,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente] x4  2 suaves, 1 juego toms, 1 creciendo corcheas"
+      "texto": "[Puente] x4  2 suaves"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[ 1 juego toms, 1 creciendo corcheas]"
     },
     {
       "tipo": "acorde",
@@ -402,7 +406,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Instrumental]x4  bajar intensidad, ministro puede continuar"
+      "texto": "[Instrumental]x4  bajar intensidad"
     },
     {
       "tipo": "acorde",
@@ -414,7 +418,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente2] x3 --creciendo bombo negras juego toms"
+      "texto": "[Puente2] x3 --creciendo negras juego toms"
     },
     {
       "tipo": "acorde",
@@ -454,7 +458,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente] x3  1 creciendo semicorcheas,1 corcheas 1 suave"
+      "texto": "[Puente] x3  1 creciendo semicorcheas"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1 corcheas 1 suave]"
     },
     {
       "tipo": "acorde",
@@ -470,7 +478,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "  Tu prescencia vale mucho mas"
+      "texto": "  Tu presencia vale mucho mas"
     },
     {
       "tipo": "acorde",

@@ -274,7 +274,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente]x10  3 suave,1 toms suave,2 bombo negras,3 bombo corcheas,1 semicorcheas"
+      "texto": "[Puente]x10  3 sin batería,1 toms suave"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 negras,3 corcheas,1 semicorcheas]"
     },
     {
       "tipo": "acorde",
@@ -318,7 +322,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente]x4  1 Bombo negras,2 bombo corcheas,2 ritmo"
+      "texto": "[Puente]x4  1 Bombo negras"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 bombo corcheas,2 ritmo]"
     },
     {
       "tipo": "acorde",

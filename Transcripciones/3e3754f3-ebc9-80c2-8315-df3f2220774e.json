@@ -407,6 +407,150 @@
     {
       "tipo": "letra",
       "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x3 1 negras, jalado,polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Am    F - F - F - E"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x3 1 redobles,2 polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿Cómo adorarías tú,"
+    },
+    {
+      "tipo": "letra",
+      "texto": "si él estuviera aquí?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿Cómo danzarías tú,"
+    },
+    {
+      "tipo": "letra",
+      "texto": "si él estuviera aquí?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿Cómo gritarías tú,"
+    },
+    {
+      "tipo": "letra",
+      "texto": "si él estuviera aquí?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " E               F       E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grita fuerte Él está aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   Am              C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Baruch hashem, tu pueblo te adora"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  Dm            E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "¿Quién es como tú?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     Am       G   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la creación canta al cordero -- polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " F          E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Digno eres tú"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Dm    F     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Digno eres tú"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro] Jalado"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Baruch hashem"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F      Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Baruch hashem"
     }
   ]
 }

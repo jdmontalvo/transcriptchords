@@ -314,7 +314,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente]x8 3 fuertes, 2 capela, 2 creciendo,1 picado"
+      "texto": "[Puente]x8 3 fuertes"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[ 2 capela, 2 creciendo,1 picado]"
     },
     {
       "tipo": "acorde",

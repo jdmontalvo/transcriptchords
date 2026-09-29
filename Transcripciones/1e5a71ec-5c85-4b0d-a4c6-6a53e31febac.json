@@ -9,7 +9,7 @@
       "texto": "Transcripción por David M Guitar"
     },
     {
-      "tipo": "titulo",
+      "tipo": "letra",
       "texto": "-------Rey Vencedor--------"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "tipo": "letra",
-      "texto": " Hombre de Guerra El Gran Yo Soy         -->ritmo normal"
+      "texto": " Hombre de Guerra El Gran Yo So  -->ritmo normal"
     },
     {
       "tipo": "acorde",
@@ -341,7 +341,7 @@
       "texto": ""
     },
     {
-      "tipo": "titulo",
+      "tipo": "letra",
       "texto": "--------Fiesta-------------"
     },
     {
@@ -865,7 +865,7 @@
       "texto": ""
     },
     {
-      "tipo": "titulo",
+      "tipo": "letra",
       "texto": "----------Viene ya------"
     },
     {
@@ -874,7 +874,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro]x5 1 sólo guitarra 4 toda la banda"
+      "texto": "[Intro]x5 1 sólo guitarra 4 todos"
     },
     {
       "tipo": "acorde",
@@ -970,11 +970,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "          F         C          G           Am"
+      "texto": "          F         C         "
     },
     {
       "tipo": "letra",
-      "texto": "Y voy cantando, gritando, celebrando su victoria"
+      "texto": "Y voy cantando, gritando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "celebrando su victoria"
     },
     {
       "tipo": "acorde",
@@ -1086,11 +1094,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "          F         C          G           Am"
+      "texto": "          F         C        "
     },
     {
       "tipo": "letra",
-      "texto": "Y voy cantando, gritando, celebrando su victoria"
+      "texto": "Y voy cantando, gritando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "celebrando su victoria"
     },
     {
       "tipo": "acorde",
@@ -1214,11 +1230,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "                    C          G          Am"
+      "texto": "                    C       "
     },
     {
       "tipo": "letra",
-      "texto": "Y voy cantando, gritando, celebrando su victoria"
+      "texto": "Y voy cantando, gritando"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      G           Am"
+    },
+    {
+      "tipo": "letra",
+      "texto": "celebrando su victoria"
     },
     {
       "tipo": "acorde",
@@ -1226,7 +1250,7 @@
     },
     {
       "tipo": "letra",
-      "texto": "Viene ya mi amado,"
+      "texto": "Viene ya mi amado"
     },
     {
       "tipo": "acorde",

@@ -53,6 +53,10 @@
       "texto": "Nada sació mi interior"
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Precoro1] Pad electrónico 2"
     },
@@ -71,6 +75,10 @@
     {
       "tipo": "letra",
       "texto": "   Ayúdame   a volver a Ti"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -133,6 +141,10 @@
       "texto": "Y tu hijo soy    Y tu hijo soy"
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Verso2]  Inicia ritmo"
     },
@@ -161,6 +173,10 @@
       "texto": "esperaste por mí"
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Precoro2] Negras, crece corcheas"
     },
@@ -179,6 +195,10 @@
     {
       "tipo": "letra",
       "texto": "    Rodeado estoy   por tu amor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -241,6 +261,10 @@
       "texto": "Y tu hijo soy    Y tu hijo soy   "
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Poscoro]"
     },
@@ -267,6 +291,10 @@
     {
       "tipo": "acorde",
       "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -373,6 +401,10 @@
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Coro] Ritmo doble caja"
     },
@@ -433,6 +465,10 @@
       "texto": "Y tu hijo soy    Y tu hijo soy   "
     },
     {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
       "tipo": "tag",
       "texto": "[Poscoro] Ritmo normal"
     },
@@ -443,6 +479,10 @@
     {
       "tipo": "letra",
       "texto": "Y tu hijo soy    Y tu hijo soy "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -458,7 +498,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente2]x4 2 sin batería,"
+      "texto": "[Puente2]x4 2 sin batería"
     },
     {
       "tipo": "tag",
@@ -515,6 +555,10 @@
     {
       "tipo": "letra",
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",
@@ -587,6 +631,10 @@
     {
       "tipo": "letra",
       "texto": "Y tu hijo soy    Y tu hijo soy "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
     },
     {
       "tipo": "tag",

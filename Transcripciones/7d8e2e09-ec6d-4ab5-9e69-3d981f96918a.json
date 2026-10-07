@@ -6,7 +6,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Intro]x3 1 suave,1 bombo negras,1 trompetas fuerte"
+      "texto": "[Intro]x3 1 suave"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1 bombo negras,1 trompetas fuerte]"
     },
     {
       "tipo": "acorde",
@@ -45,12 +49,12 @@
       "texto": "Cuando le adoro se rompen las cadenas"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "     Ab   Bb      Cm  C-Eb-F-G Bb-Bb-C"
     },
     {
       "tipo": "letra",
-      "texto": "Los muros     caerán"
+      "texto": "Los muros     caerán  "
     },
     {
       "tipo": "letra",
@@ -153,7 +157,7 @@
       "texto": "Mis enemigos huyen"
     },
     {
-      "tipo": "acorde",
+      "tipo": "letra",
       "texto": "    Ab   Bb     Cm    C-Eb-F-G Bb-Bb-C"
     },
     {

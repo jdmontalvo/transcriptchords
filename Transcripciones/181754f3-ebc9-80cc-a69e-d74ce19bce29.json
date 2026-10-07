@@ -26,7 +26,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]"
+      "texto": "[Verso] Pad electrónico 1"
     },
     {
       "tipo": "acorde",
@@ -34,7 +34,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " Lejos de casa me encontré, Sin saber a dónde ir"
+      "texto": " Lejos de casa me encontré  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Sin saber a dónde ir"
     },
     {
       "tipo": "acorde",
@@ -42,7 +46,15 @@
     },
     {
       "tipo": "letra",
-      "texto": " Nada llenó mi corazón  Nada sació mi interior"
+      "texto": " Nada llenó mi corazón  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nada sació mi interior"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro1] Pad electrónico 2"
     },
     {
       "tipo": "acorde",
@@ -59,10 +71,6 @@
     {
       "tipo": "letra",
       "texto": "   Ayúdame   a volver a Ti"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
     },
     {
       "tipo": "tag",
@@ -125,14 +133,6 @@
       "texto": "Y tu hijo soy    Y tu hijo soy"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "tag",
       "texto": "[Verso2]  Inicia ritmo"
     },
@@ -142,7 +142,11 @@
     },
     {
       "tipo": "letra",
-      "texto": " En mi mayor dolor alcé  Mis ojos hacia Ti"
+      "texto": " En mi mayor dolor alcé  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mis ojos hacia Ti"
     },
     {
       "tipo": "acorde",
@@ -150,7 +154,15 @@
     },
     {
       "tipo": "letra",
-      "texto": "  Con brazos abiertos Tú esperaste, esperaste por mí"
+      "texto": "  Con brazos abiertos Tú esperaste"
+    },
+    {
+      "tipo": "letra",
+      "texto": "esperaste por mí"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro2] Negras, crece corcheas"
     },
     {
       "tipo": "acorde",
@@ -169,12 +181,8 @@
       "texto": "    Rodeado estoy   por tu amor"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "tag",
-      "texto": "[Coro]"
+      "texto": "[Coro] Ritmo fuerte"
     },
     {
       "tipo": "acorde",
@@ -230,7 +238,19 @@
     },
     {
       "tipo": "letra",
-      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
+      "texto": "Y tu hijo soy    Y tu hijo soy   "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             B  F#           G#m E"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y tu hijo soy    Y tu hijo soy   "
     },
     {
       "tipo": "letra",
@@ -238,19 +258,19 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Instrumental] aplausos y guitarra solamente,solo ride"
+      "texto": "[Instrumental] "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[aplausos solo guitarra y ride]"
     },
     {
       "tipo": "acorde",
       "texto": "B"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "tag",
-      "texto": "[Puente] solo aplausos y guitarra --1 ritmo"
+      "texto": "[Puente] 1 aplausos,1 ritmo"
     },
     {
       "tipo": "acorde",
@@ -274,7 +294,11 @@
     },
     {
       "tipo": "letra",
-      "texto": "  Hay fiesta    en tu casa, se alegró tu corazón"
+      "texto": "  Hay fiesta    en tu casa "
+    },
+    {
+      "tipo": "letra",
+      "texto": "se alegró tu corazón"
     },
     {
       "tipo": "acorde",
@@ -306,11 +330,15 @@
     },
     {
       "tipo": "acorde",
-      "texto": "B                                              E"
+      "texto": "B                                          "
     },
     {
       "tipo": "letra",
-      "texto": "  Hay fiesta    en tu casa, se alegró tu corazón"
+      "texto": "  Hay fiesta    en tu casa"
+    },
+    {
+      "tipo": "letra",
+      "texto": " se alegró tu corazón"
     },
     {
       "tipo": "acorde",
@@ -345,12 +373,8 @@
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "tag",
-      "texto": "[Coro]"
+      "texto": "[Coro] Ritmo doble caja"
     },
     {
       "tipo": "acorde",
@@ -406,11 +430,19 @@
     },
     {
       "tipo": "letra",
-      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
+      "texto": "Y tu hijo soy    Y tu hijo soy   "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro] Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             B  F#           G#m E"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "Y tu hijo soy    Y tu hijo soy "
     },
     {
       "tipo": "tag",
@@ -426,7 +458,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Puente2]x4 2 sin batería--1 platos bombo a tiempo,1 bombo negras"
+      "texto": "[Puente2]x4 2 sin batería,"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1 contratieimpo,1 bombo negras]"
     },
     {
       "tipo": "acorde",
@@ -438,11 +474,19 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G#m                       E"
+      "texto": "G#m                       "
     },
     {
       "tipo": "letra",
-      "texto": "   Oh gracias Cristo Por tu preciosa sangre"
+      "texto": "   Oh gracias Cristo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     E"
+    },
+    {
+      "tipo": "letra",
+      "texto": " Por tu preciosa sangre"
     },
     {
       "tipo": "letra",
@@ -450,7 +494,11 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Interludio]x2  1/2 bombo negras, 1+1/2 bombo corcheas"
+      "texto": "[Interludio]x2  1/2 bombo negras"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1/2 corcheas,1 corcheas]"
     },
     {
       "tipo": "acorde",
@@ -469,14 +517,6 @@
       "texto": "Ohoh-ohoh Ohoh-ohoh Ohoh-ohoh Ohohohoh"
     },
     {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
-    },
-    {
       "tipo": "tag",
       "texto": "[Coro]"
     },
@@ -534,15 +574,27 @@
     },
     {
       "tipo": "letra",
-      "texto": "//Y tu hijo soy    Y tu hijo soy   //x2"
+      "texto": "Y tu hijo soy    Y tu hijo soy   "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Poscoro] Ritmo normal"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             B  F#           G#m E"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": "Y tu hijo soy    Y tu hijo soy "
     },
     {
-      "tipo": "letra",
-      "texto": "Termina en B"
+      "tipo": "tag",
+      "texto": "[Final]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " B"
     }
   ]
 }

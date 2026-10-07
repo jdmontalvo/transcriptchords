@@ -26,7 +26,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2 --- 1 reggae, 1 disco 2da voz entra"
+      "texto": "[Verso]x2  1 reggae, 1 disco 2da voz entra"
     },
     {
       "tipo": "acorde",
@@ -54,11 +54,11 @@
     },
     {
       "tipo": "acorde",
-      "texto": "G         C           D   C"
+      "texto": "G         C           D   C    C  D"
     },
     {
       "tipo": "letra",
-      "texto": " Que vinieras a salvarme   (2da C D)"
+      "texto": " Que vinieras a salvarme     (Segunda)"
     },
     {
       "tipo": "letra",
@@ -310,7 +310,7 @@
     },
     {
       "tipo": "tag",
-      "texto": "[Verso]x2 capela y coros ehhh ohhh"
+      "texto": "[Verso]x2 juego bombo y coros ehhh ohhh"
     },
     {
       "tipo": "acorde",

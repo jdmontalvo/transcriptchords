@@ -6,51 +6,63 @@
     },
     {
       "tipo": "letra",
-      "texto": ""
-    },
-    {
-      "tipo": "letra",
       "texto": "Transcripción por David M Guitar"
-    },
-    {
-      "tipo": "letra",
-      "texto": ""
     },
     {
       "tipo": "letra",
       "texto": "----Inicia sin batería------"
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Verso]"
     },
     {
       "tipo": "acorde",
-      "texto": "           G             Bm           A"
+      "texto": "           G             "
     },
     {
       "tipo": "letra",
-      "texto": "¿En que momento es que perdimos el camino?"
+      "texto": "¿En que momento es que"
     },
     {
       "tipo": "acorde",
-      "texto": "           G             Bm           A"
+      "texto": "   Bm          A"
     },
     {
       "tipo": "letra",
-      "texto": "¿En que momento es que dejamos de escuchar?"
+      "texto": "perdimos el camino?"
     },
     {
       "tipo": "acorde",
-      "texto": "           G            Bm            A"
+      "texto": "           G             "
     },
     {
       "tipo": "letra",
-      "texto": "¿En qué momento el corazón se volvió frio?"
+      "texto": "¿En que momento es que"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bm           A"
     },
     {
       "tipo": "letra",
-      "texto": ""
+      "texto": " dejamos de escuchar?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G            Bm           "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "¿En qué momento el corazón "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "            A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "se volvió frio?"
     },
     {
       "tipo": "acorde",
@@ -65,7 +77,7 @@
       "texto": "          Em    D      A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Oh Padre nuestro, perdón"
     },
     {
@@ -73,7 +85,7 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
+      "tipo": "tag",
       "texto": "[Coro]"
     },
     {
@@ -81,7 +93,7 @@
       "texto": "          G        A   Bm"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Pedirnos gracia y misericordia"
     },
     {
@@ -89,7 +101,7 @@
       "texto": "        A     D           A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Que tu reino venga, intervén"
     },
     {
@@ -102,50 +114,82 @@
     },
     {
       "tipo": "acorde",
-      "texto": "         A   D           A           G Bm A"
+      "texto": "         A   D           "
     },
     {
-      "tipo": "letra",
-      "texto": "Hoy los redimidos dicen ven Cristo ven"
+      "tipo": "acorde",
+      "texto": "Hoy los redimidos "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       A           G Bm A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "dicen ven Cristo ven"
     },
     {
       "tipo": "letra",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Verso2]  Inicia batería juego toms en síncopa"
+      "tipo": "tag",
+      "texto": "[Verso2] juego toms y caja suave"
     },
     {
       "tipo": "acorde",
-      "texto": "           G             Bm           A"
-    },
-    {
-      "tipo": "letra",
-      "texto": "¿En que momento es que olvidamos al herido?"
+      "texto": "           G             "
     },
     {
       "tipo": "acorde",
-      "texto": "           G             Bm           A"
-    },
-    {
-      "tipo": "letra",
-      "texto": "¿En que momento es que empezamos a juzgar?"
+      "texto": "¿En que momento es que "
     },
     {
       "tipo": "acorde",
-      "texto": "           G             Bm           A"
+      "texto": "    Bm           A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "olvidamos al herido?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G            "
     },
     {
       "tipo": "letra",
-      "texto": "¿En que momento construimos nu?stro reino?"
+      "texto": "¿En que momento es que "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    Bm           A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "empezamos a juzgar?"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G            "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "¿En que momento "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        Bm           A"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "construimos nuestro reino?"
     },
     {
       "tipo": "acorde",
       "texto": "          Em    D      A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Oh Padre nuestro, perdón"
     },
     {
@@ -161,8 +205,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro] suve intensidad ritmo con síncopa"
+      "tipo": "tag",
+      "texto": "[Coro] juego toms fuerte"
     },
     {
       "tipo": "acorde",
@@ -177,7 +221,7 @@
       "texto": "        A     D           A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Que tu reino venga, intervén"
     },
     {
@@ -185,7 +229,7 @@
       "texto": " F#m       G         A   Bm"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "En ti hay gracia y misericordia"
     },
     {
@@ -193,7 +237,7 @@
       "texto": "         A   D           A           G"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Hoy los redimidos dicen ven Cristo ven"
     },
     {
@@ -201,8 +245,12 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Instrumental]x2  uno sin batería, 1 juego platos"
+      "tipo": "tag",
+      "texto": "[Instrumental]x2  "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1 sin batería, 1 juego platos]"
     },
     {
       "tipo": "acorde",
@@ -213,19 +261,23 @@
       "texto": "G  D - A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente] --1 juego toms y platos, 1/2 ritmo 1/2 creciendo"
+      "tipo": "tag",
+      "texto": "[Puente] 1 juego toms y platos"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[1/2 ritmo, 1/2 crece corcheas]"
     },
     {
       "tipo": "acorde",
       "texto": "G                     Bm"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Un mover, un despertar cuando llenas"
     },
     {
@@ -233,7 +285,7 @@
       "texto": "A               G              D  A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "El lugar hay libertad (amen, amen)"
     },
     {
@@ -249,7 +301,7 @@
       "texto": "A                 G D A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "tu lugar hay sanidad"
     },
     {
@@ -257,15 +309,15 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Coro] Bombo y ritmo negras"
+      "tipo": "tag",
+      "texto": "[Coro] Bombo y platos negras fuerte"
     },
     {
       "tipo": "acorde",
       "texto": "          G        A   Bm"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Pedirnos gracia y misericordia"
     },
     {
@@ -273,7 +325,7 @@
       "texto": "        A     D           A"
     },
     {
-      "tipo": "letra",
+      "tipo": "acorde",
       "texto": "Que tu reino venga, intervén"
     },
     {
@@ -297,8 +349,8 @@
       "texto": ""
     },
     {
-      "tipo": "letra",
-      "texto": "[Puente]x2 --1 ritmo normal fuerte,1 baja intensidad"
+      "tipo": "tag",
+      "texto": "[Puente]x2  1 ritmo fuerte,1 suave"
     },
     {
       "tipo": "acorde",

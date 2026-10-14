@@ -1,0 +1,884 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Popurrí Fuego/Me gozaré/Gózate Delante Del Señor/Cristo Vive/No Puedo Parar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x4 2 lentas/platos, 2 ritmo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay una llama que arde em mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Un gran poder que está en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me está quemando, su fuego santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Puedo sentirlo está aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego, (fuego)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego del Señor (fuego del Señor)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego (fuego), fuego (fuego)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego purificador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hay una llama que arde em mi"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Un gran poder que está en ti"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me está quemando, su fuego santo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Puedo sentirlo está aquí"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego, (fuego)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego del Señor (fuego del Señor)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego (fuego), fuego (fuego)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego purificador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m          A            B "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego (eco), fuego (eco), fuego (eco)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Fuego purificador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "titulo",
+      "texto": "---Me gozaré---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 Ritmo normal (Corte en señor)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando el Señor hiciere volver"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De la cautividad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F#m             G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Seremos como los que sueñan"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi boca llenará de risa"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mis labios de alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entonces dirán las naciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas ha hecho el señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2 "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me gozaré, gozaré gozaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "me gozaré en Jehová  (Gózate)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues ha llevado todo mi dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2 "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cuando el Señor hiciere volver"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "De la cautividad"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         F#m             G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Seremos como los que sueñan"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi boca llenará de risa"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mis labios de alabanza"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Entonces dirán las naciones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "           G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Grandes cosas ha hecho el señor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x6 2 normal, 2 bombo negras "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 normal]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me gozaré, gozaré gozaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "me gozaré en Jehová  (Gózate)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues ha llevado todo mi dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Puente]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo cantaré (yo cantaré)"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Yo danzaré (yo danzaré)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "En su presencia me gozaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y le daré (y le daré)       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Toda la gloria (toda la gloria)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Ante su trono yo me gozaré"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me gozaré, gozaré gozaré"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "me gozaré en Jehová  (Gózate)"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "          F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Pues ha llevado todo mi dolor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "             G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Me ha hecho libre"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "titulo",
+      "texto": "--Gózate delante del señor--"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu Rey"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C#m     E     F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es, El es, El es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     G#   C#m    A A  C#m C#m "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es tu   Rey"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu roca"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu roca"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C#m     E     F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es, El es, El es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     G#   C#m    A A  C#m C#m "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es tu   roca"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso3]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Gózate delante del Señor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "       B         C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Porque El es tu escudo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "  C#m     E     F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es, El es, El es"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A     G#   C#m    A A  C#m C#m "
+    },
+    {
+      "tipo": "letra",
+      "texto": "El es tu   escudo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "titulo",
+      "texto": "--Cristo vive--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive, Cristo Vive"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "    C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Salvador no esta muerto"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "El no esta en una tumba"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "   F#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Mi Salvador no esta muerto "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     B        G#"
+    },
+    {
+      "tipo": "letra",
+      "texto": "pues El resucitó"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive, Cristo Vive"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "titulo",
+      "texto": "--No puedo parar--"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4  2 bombo negras y pulsos"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[2 normal]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           G#               "
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte Cristo"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x16 4 picado 4 normal "
+    },
+    {
+      "tipo": "tag",
+      "texto": "[4 suave 4]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " C#m                        "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive, Cristo Vive"
+    },
+    {
+      "tipo": "acorde",
+      "texto": " A          B"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Cristo Vive"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro]x4  1 norma, 2 polka"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C#m"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "A"
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "B           G#               "
+    },
+    {
+      "tipo": "letra",
+      "texto": "No, no puedo parar de alabarte Cristo"
+    }
+  ]
+}

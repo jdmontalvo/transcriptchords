@@ -1,0 +1,448 @@
+{
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "texto": "Jesucristo Basta — Living, Un Corazón"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Transcripción por David M Guitar"
+    },
+    {
+      "tipo": "letra",
+      "texto": "--inicia sin batería---"
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Intro]x2"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em C  G "
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em          C    G  "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Nuestros corazones"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em      C     G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Insaciables son"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em       C     G         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Hasta que conocen"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D    Em  C  G  D"
+    },
+    {
+      "tipo": "letra",
+      "texto": " a su Salvador"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] juego bombo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                     Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tal y como somos nos amó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                       Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy nos acercamos sin temor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro corto] juego hihat"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         D            Em          "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él es el agua que al beber"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca más tendremos sed"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D         Em      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G     D         Em           "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi castigo recibió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su herencia me entregó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D         Em       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C         G  D  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Verso2]"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em       C     G   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Fuimos alcanzados"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em        C      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Por su gran amor"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em        C     G         "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Con brazos abiertos "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D     Em - C - G - D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nos recibe hoy."
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro] juego bombo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                     Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tal y como somos nos amó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                       Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy nos acercamos sin temor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro largo] ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         D            Em          "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él es el agua que al beber"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca más tendremos sed"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D         Em      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G     D         Em           "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi castigo recibió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su herencia me entregó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D         Em       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C         G  D  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 G  D C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Precoro]x2 1 suave, 1 creciendo"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                     Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Tal y como somos nos amó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "C                       Em   D"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Hoy nos acercamos sin temor"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Coro largo] ritmo caja suave"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G         D            Em          "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Él es el agua que al beber"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C              G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Nunca más tendremos sed"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      D         Em      "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta  "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "      C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "G     D         Em           "
+    },
+    {
+      "tipo": "letra",
+      "texto": " Mi castigo recibió"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "        C             G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Y su herencia me entregó"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     D         Em       "
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "     C         G  D  C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "                 G  D C"
+    },
+    {
+      "tipo": "letra",
+      "texto": "Jesucristo Basta"
+    },
+    {
+      "tipo": "letra",
+      "texto": ""
+    },
+    {
+      "tipo": "tag",
+      "texto": "[Outro] sin batería"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em          C     G   "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  Ahora hay un futuro "
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em        C      G"
+    },
+    {
+      "tipo": "letra",
+      "texto": "   y esperanza fiel"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "Em        C       G              "
+    },
+    {
+      "tipo": "letra",
+      "texto": "  En su amor confiamos"
+    },
+    {
+      "tipo": "acorde",
+      "texto": "         D       G"
+    },
+    {
+      "tipo": "letra",
+      "texto": " hay descanso en Él."
+    }
+  ]
+}
